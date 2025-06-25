@@ -1,6 +1,6 @@
 # Crafting Supply Hub
 
-[![Build Status](https://github.com/JulyJ/craftingsupply/actions/workflows/main.yml/badge.svg)](https://github.com/JulyJ/craftingsupply/actions)
+[![Build Status](https://github.com/JulyJ/craftingsupply/actions/workflows/jekyll.yml/badge.svg)](https://github.com/JulyJ/craftingsupply/actions)
 [![Website](https://img.shields.io/badge/website-online-brightgreen)](https://craftingsupply.com)
 
 Welcome to the Crafting Supply Hub blog repository! This website is an **open-source place to gather information for crafters in one place, without ads**. Our goal is to make it easy for crafters to find resources, guides, and inspiration, free from distractions.
