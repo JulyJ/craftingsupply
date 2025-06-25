@@ -1,6 +1,6 @@
 var store = [{
         "title": "About",
-        "excerpt":"Learn more about Crafting Supply Hub, our mission, and the team behind the blog.  ","categories": [],
+        "excerpt":"Crafting Supply Hub is an open-source, ad-free resource for crafters. Our mission is to gather the best information, guides, and inspiration for makers of all levels, with a focus on Canadian suppliers and budget-friendly options. Who We Are: A community-driven project maintained by volunteers who love creativity and sharing knowledge....","categories": [],
         "tags": [],
         "url": "/about/",
         "teaser": null
@@ -42,8 +42,8 @@ var store = [{
         "teaser": null
       },{
         "title": "Canadian-Made Materials",
-        "excerpt":"Explore Canadian-made crafting materials and local options for your projects.  ","categories": [],
-        "tags": [],
+        "excerpt":"Explore Canadian-made crafting materials and local options for your projects.   ","categories": [],
+        "tags": ["canadian-made"],
         "url": "/categories/canadian-made/",
         "teaser": null
       },{
@@ -51,6 +51,24 @@ var store = [{
         "excerpt":"Join forces with other crafters for bulk buying and savings.  ","categories": [],
         "tags": [],
         "url": "/categories/co-ops/",
+        "teaser": null
+      },{
+        "title": "Code of Conduct",
+        "excerpt":"Our Pledge We as members, contributors, and leaders pledge to make participation in our community a harassment-free experience for everyone, regardless of age, body size, visible or invisible disability, ethnicity, sex characteristics, gender identity and expression, level of experience, education, socio-economic status, nationality, personal appearance, race, religion, or sexual identity...","categories": [],
+        "tags": [],
+        "url": "/code-of-conduct/",
+        "teaser": null
+      },{
+        "title": "Contact Us",
+        "excerpt":"Have questions, suggestions, or want to contribute? We’d love to hear from you!      Email: craftingsupplyca@gmail.com   GitHub: Crafting Supply Hub Repository   Or use the issue tracker on GitHub for feedback and ideas.  ","categories": [],
+        "tags": [],
+        "url": "/contact/",
+        "teaser": null
+      },{
+        "title": "Contributing",
+        "excerpt":"Thank you for your interest in contributing! We welcome all kinds of contributions, new content, bug fixes, suggestions, and more. How to Contribute Fork the repository and create your branch from main. Make your changes (add content, fix bugs, improve docs, etc.). Test your changes locally if possible. Submit a...","categories": [],
+        "tags": [],
+        "url": "/contributing/",
         "teaser": null
       },{
         "title": "Craft Supplies",
@@ -113,8 +131,14 @@ var store = [{
         "url": "/posts/",
         "teaser": null
       },{
+        "title": "Privacy Policy",
+        "excerpt":"We respect your privacy. This website does not collect personal information or use cookies for tracking. Any analytics used are privacy-friendly and do not collect personally identifiable information. Information We Collect We do not require user accounts or logins. We do not collect or store personal data. If you contact...","categories": [],
+        "tags": [],
+        "url": "/privacy/",
+        "teaser": null
+      },{
         "title": "Search",
-        "excerpt":"        ","categories": [],
+        "excerpt":"     ","categories": [],
         "tags": [],
         "url": "/search/",
         "teaser": null
@@ -138,13 +162,13 @@ var store = [{
         "teaser": null
       },{
         "title": "Start Here",
-        "excerpt":"Welcome! This page will help you get started with crafting, finding supplies, and using this site.  ","categories": [],
+        "excerpt":"Welcome! This page will help you get started with crafting, finding supplies, and using this site. How to Use This Site Search: Use the Search page to quickly find posts, guides, and resources by keyword. Tags: Explore topics by Tags. Tags help you discover related posts, such as #canadian-made, tools,...","categories": [],
         "tags": [],
         "url": "/start-here/",
         "teaser": null
       },{
         "title": "Tags",
-        "excerpt":"Explore posts by tag and discover new topics.  ","categories": [],
+        "excerpt":"Explore posts by tag and discover new topics.             #canadian-made (1)      ","categories": [],
         "tags": [],
         "url": "/tags/",
         "teaser": null
@@ -162,7 +186,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Tools & Equipment",
-        "excerpt":"All about crafting tools and equipment—reviews, guides, and recommendations.  ","categories": [],
+        "excerpt":"All about crafting tools and equipment, reviews, guides, and recommendations.  ","categories": [],
         "tags": [],
         "url": "/categories/tools/",
         "teaser": null
@@ -183,5 +207,11 @@ var store = [{
         "excerpt":"Welcome to Crafting Supply Hub! This blog will help Canadian crafters find the best supplies and tools.   Stay tuned for tips, calculators, and product recommendations!  ","categories": [],
         "tags": [],
         "url": "/2025/06/22/welcome-to-crafting-supply.html",
+        "teaser": null
+      },{
+        "title": "Spotlight: Canadian-Made Craft Supplies",
+        "excerpt":"Discover the best Canadian-made craft supplies and support local makers! For a full list of Canadian-made materials, visit the Canadian-Made Materials page.  ","categories": [],
+        "tags": ["canadian-made"],
+        "url": "/2025/06/24/spotlight-canadian-made.html",
         "teaser": null
       }]
