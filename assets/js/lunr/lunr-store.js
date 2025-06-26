@@ -42,8 +42,8 @@ var store = [{
         "teaser": null
       },{
         "title": "Canadian-Made Materials",
-        "excerpt":"Explore Canadian-made crafting materials and local options for your projects.   ","categories": [],
-        "tags": ["canadian-made"],
+        "excerpt":"A directory of Canadian manufacturers producing craft materials domestically. 3D Printing Filaments Material Manufacturer Location Website PLA, ABS, Nylon Matter3D Inc. Victoria, BC matter3d.com PLA Filaments Canadian Filaments Canada canadianfilaments.ca PLA, PETG, Specialty Filaments Eureka Filaments Canada eurekafilaments.ca Laser Cutting Materials Material Manufacturer Location Website TruFlat Laser Plywood TruFlat Plywood...","categories": ["crafts","manufacturing","canada"],
+        "tags": ["craft-materials","canadian-made","3d-printing","resin","yarn","wood"],
         "url": "/categories/canadian-made/",
         "teaser": null
       },{
@@ -114,7 +114,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Suppliers by Province",
-        "excerpt":"Find craft suppliers in your province or region.  ","categories": [],
+        "excerpt":"A comprehensive guide to Canadian craft and art suppliers, organized by province. Province Store Website Focus National Michaels canada.michaels.com Crafts, decor, DIY, art, seasonal kits National, QC DeSerres deserres.ca Artist-grade supplies &amp; crafts National Walmart Canada walmart.ca General craft &amp; DIY items National Dollarama dollarama.com Inexpensive basic craft items National...","categories": [],
         "tags": [],
         "url": "/categories/local-suppliers/",
         "teaser": null
