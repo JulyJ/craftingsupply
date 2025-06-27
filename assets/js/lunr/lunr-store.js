@@ -18,8 +18,8 @@ var store = [{
         "teaser": null
       },{
         "title": "Best Budget Tools",
-        "excerpt":"Affordable tools that get the job done for crafters on a budget.  ","categories": [],
-        "tags": [],
+        "excerpt":"Quality tools don’t have to cost a fortune. Smart crafters know that the right budget-friendly tools can deliver professional results while keeping costs manageable. This comprehensive guide identifies the best affordable tools across all crafting categories, helping you build a functional workshop without breaking the bank. Essential Hand Tools for...","categories": ["tools","budget","DIY","crafting"],
+        "tags": ["budget-tools","affordable-crafting","DIY-tools","craft-supplies","tool-reviews"],
         "url": "/categories/budget-tools/",
         "teaser": null
       },{
@@ -90,8 +90,8 @@ var store = [{
         "teaser": null
       },{
         "title": "Dollar Store Crafts",
-        "excerpt":"Fun and creative projects using dollar store finds.  ","categories": [],
-        "tags": [],
+        "excerpt":"Major Dollar Store Chains for Crafters Canadian Dollar Store Chains Store Name Locations Price Range Best For Dollarama 1,400+ across Canada $1.25 - $5.00 Seasonal crafts, home décor items Dollar Tree Canada Multiple provinces $1.25 fixed price Consistent budget planning, curated craft selection Great Canadian Dollar Store Rural/smaller communities $1.00...","categories": ["crafts","budget","DIY"],
+        "tags": ["dollar-store","crafting","canada","budget-crafts","DIY"],
         "url": "/categories/dollar-store/",
         "teaser": null
       },{
@@ -498,8 +498,8 @@ var store = [{
         "teaser": null
       },{
         "title": "Splurge or Save",
-        "excerpt":"When to invest and when to save on craft supplies and tools.  ","categories": [],
-        "tags": [],
+        "excerpt":"Some tools and materials dramatically improve with quality investment, while others perform identically whether they cost $3 or $30. This guide helps you make informed decisions about where to spend and where to save in your crafting budget. The Investment Decision Framework Factors That Determine Spending Strategy Decision Factor Splurge...","categories": ["budgeting","crafting","tools","supplies"],
+        "tags": ["budget-crafting","tool-investment","craft-supplies","spending-guide","value-crafting"],
         "url": "/categories/splurge-vs-save/",
         "teaser": null
       },{
@@ -534,8 +534,8 @@ var store = [{
         "teaser": null
       },{
         "title": "Upcycled Projects",
-        "excerpt":"Turn old items into new treasures with upcycling ideas.  ","categories": [],
-        "tags": [],
+        "excerpt":"Upcycling breathes new life into forgotten items while reducing waste and saving money. Instead of throwing away broken furniture, outdated décor, or unused household items, transform them into stunning, functional pieces that reflect your personal style. This comprehensive guide provides organized project ideas, supply requirements, and techniques for successful upcycling...","categories": ["upcycling","DIY","sustainability"],
+        "tags": ["upcycling","repurpose","eco-friendly","DIY","sustainability","crafts"],
         "url": "/categories/upcycling/",
         "teaser": null
       },{

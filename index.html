@@ -37,21 +37,36 @@
     
     <style>
     .pdf-btn { 
-      display: inline-block;
-      margin: 1em 0 0 0;
-      padding: 0.4em 1.2em;
-      background: #888;
-      color: #fff;
+      position: fixed;
+      bottom: 2em;
+      right: 1.2em;
+      background: #e0e0e0; /* lighter gray */
+      color: #666;
       border: none;
       border-radius: 4px;
       cursor: pointer;
-      font-size: 1em;
+      font-size: 0.7em;
       font-weight: 600;
-      box-shadow: 0 2px 6px rgba(0,0,0,0.07);
-      transition: background 0.2s;
+      box-shadow: 0 2px 6px rgba(0,0,0,0.04);
+      transition: background 0.2s, color 0.2s;
+      margin: 0;
+      opacity: 0.7;
+      padding: 0.15em 0.5em;
+      display: inline-block;
+      z-index: 2000;
     }
     .pdf-btn:hover, .pdf-btn:focus {
-      background: #555;
+      background: #cccccc;
+      color: #444;
+      opacity: 1;
+    }
+    @media (max-width: 600px) {
+      .pdf-btn {
+        font-size: 0.65em;
+        right: 0.5em;
+        bottom: 1em;
+        padding: 0.12em 0.4em;
+      }
     }
     @media print {
       .pdf-btn, nav, header, footer, .site-nav, .sidebar, .masthead, .site-header, .site-footer {
@@ -129,9 +144,6 @@
   </div>
 </div>
 
-    <div style="width:100%;text-align:right;margin:0 0 1em 0;">
-      <button onclick="window.print()" class="pdf-btn">Download as PDF</button>
-    </div>
     
 
 
@@ -170,7 +182,7 @@
             
               <li><a href="/categories/local-suppliers/">Suppliers by Province</a></li>
             
-              <li><a href="/categories/online-shops/">Where to Buy Online</a></li>
+              <li><a href="/categories/online-shops/">Buying Online</a></li>
             
               <li><a href="/categories/specialty-supplies/">Specialty Materials</a></li>
             
@@ -193,26 +205,6 @@
               <li><a href="/categories/budget-tools/">Best Budget Tools</a></li>
             
               <li><a href="/categories/splurge-vs-save/">Splurge or Save</a></li>
-            
-          </ul>
-          
-        </li>
-      
-        <li>
-          
-            <a href="/categories/wholesale/"><span class="nav__sub-title">Wholesale & Bulk</span></a>
-          
-
-          
-          <ul>
-            
-              <li><a href="/categories/wholesale/">Wholesale Discounts</a></li>
-            
-              <li><a href="/categories/co-ops/">Craft Co-Ops & Group Buys</a></li>
-            
-              <li><a href="/categories/business-accounts/">Business Accounts</a></li>
-            
-              <li><a href="/categories/bulk-packaging/">Bulk Packaging & Materials</a></li>
             
           </ul>
           
@@ -309,7 +301,21 @@
 
       <section class="page__content" itemprop="text">
         
-        
+        <p>Welcome to <strong>Crafting Supply Hub</strong> — an open source resource for crafters in Canada and beyond!</p>
+
+<p>We run <strong>no ads</strong> and accept <strong>no paid posts</strong>. Everything here is community-driven and unbiased.</p>
+
+<p>This hub is open source and built by volounteers. You can contribute, suggest edits, or just enjoy the resources!</p>
+
+<p><strong>Pick a place to start:</strong></p>
+
+<ul>
+  <li><a href="/categories/dollar-store/">Dollar Store Crafts</a></li>
+  <li><a href="/beginner/">Beginner Crafting</a></li>
+  <li><a href="/categories/specialty-supplies/">Specialty Supplies</a></li>
+  <li><a href="/local-suppliers/">Local Suppliers</a></li>
+  <li><a href="/business/">Business Resources</a></li>
+</ul>
 
         
       </section>
@@ -351,5 +357,6 @@
   </footer>
 
 
+    <button onclick="window.print()" class="pdf-btn">Download PDF</button>
   </body>
 </html>
