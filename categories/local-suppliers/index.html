@@ -35,6 +35,45 @@
     </script>
     <script async src="https://scripts.simpleanalyticscdn.com/latest.js"></script>
     
+    <style>
+    .pdf-btn { 
+      display: inline-block;
+      margin: 1em 0 0 0;
+      padding: 0.4em 1.2em;
+      background: #888;
+      color: #fff;
+      border: none;
+      border-radius: 4px;
+      cursor: pointer;
+      font-size: 1em;
+      font-weight: 600;
+      box-shadow: 0 2px 6px rgba(0,0,0,0.07);
+      transition: background 0.2s;
+    }
+    .pdf-btn:hover, .pdf-btn:focus {
+      background: #555;
+    }
+    @media print {
+      .pdf-btn, nav, header, footer, .site-nav, .sidebar, .masthead, .site-header, .site-footer {
+        display: none !important;
+      }
+      hr {
+        page-break-before: avoid !important;
+        page-break-after: avoid !important;
+        break-before: avoid-page !important;
+        break-after: avoid-page !important;
+      }
+      main, .page-content, .single-content, .content, .post-content {
+        display: block !important;
+        width: 100% !important;
+        margin: 0 !important;
+        padding: 0 !important;
+      }
+      body {
+        background: #fff !important;
+      }
+    }
+  </style>
   </head>
   <body>
     
@@ -90,6 +129,9 @@
   </div>
 </div>
 
+    <div style="width:100%;text-align:right;margin:0 0 1em 0;">
+      <button onclick="window.print()" class="pdf-btn">Download as PDF</button>
+    </div>
     
 
 
@@ -249,7 +291,7 @@
   <article class="page" itemscope itemtype="https://schema.org/CreativeWork">
     <meta itemprop="headline" content="Suppliers by Province">
     <meta itemprop="description" content="A comprehensive guide to Canadian craft and art suppliers, organized by province.">
-    <meta itemprop="datePublished" content="2025-06-26T06:04:52+00:00">
+    <meta itemprop="datePublished" content="2025-06-27T04:56:52+00:00">
     
 
     <div class="page__inner-wrap">
@@ -324,6 +366,12 @@
       <td>Glitter, resin-safe sparkle tools</td>
     </tr>
     <tr>
+      <td>National</td>
+      <td>Stockade</td>
+      <td><a href="https://stockade.ca/" target="_blank" rel="noopener nofollow">stockade.ca</a></td>
+      <td>Decorative painting, wood crafts, general supplies</td>
+    </tr>
+    <tr>
       <td>ON</td>
       <td>Curry’s Art Store</td>
       <td><a href="https://www.currys.com/" target="_blank" rel="noopener nofollow">currys.com</a></td>
@@ -348,6 +396,30 @@
       <td>Affordable student &amp; pro supplies</td>
     </tr>
     <tr>
+      <td>ON</td>
+      <td>Ecstasy Crafts</td>
+      <td><a href="https://ecstasycrafts.ca/" target="_blank" rel="noopener nofollow">ecstasycrafts.ca</a></td>
+      <td>Paper crafts, mixed media, cardmaking</td>
+    </tr>
+    <tr>
+      <td>ON</td>
+      <td>J&amp;J Crafts</td>
+      <td><a href="https://jandjcrafts.ca/" target="_blank" rel="noopener nofollow">jandjcrafts.ca</a></td>
+      <td>Kids crafts, kits, educational crafts</td>
+    </tr>
+    <tr>
+      <td>ON</td>
+      <td>SOHO Art Supplies</td>
+      <td><a href="https://sohoartsupplies.com/" target="_blank" rel="noopener nofollow">sohoartsupplies.com</a></td>
+      <td>Fine art supplies, sketchbooks, framing</td>
+    </tr>
+    <tr>
+      <td>ON</td>
+      <td>Midoco Art &amp; Office Supplies</td>
+      <td><a href="https://www.midoco.ca/" target="_blank" rel="noopener nofollow">midoco.ca</a></td>
+      <td>Stationery, gifts, art and crafts</td>
+    </tr>
+    <tr>
       <td>BC</td>
       <td>Crafty Capers</td>
       <td><a href="https://www.craftycapers.com/" target="_blank" rel="noopener nofollow">craftycapers.com</a></td>
@@ -366,15 +438,51 @@
       <td>Beads &amp; jewelry-making</td>
     </tr>
     <tr>
+      <td>BC</td>
+      <td>Country Lane</td>
+      <td><a href="https://www.countrylanebc.com/" target="_blank" rel="noopener nofollow">countrylanebc.com</a></td>
+      <td>Stamps, paper crafts, in-person classes</td>
+    </tr>
+    <tr>
+      <td>BC</td>
+      <td>Scrapbook Essentials BC</td>
+      <td><a href="https://scrapbooking.ca/" target="_blank" rel="noopener nofollow">scrapbooking.ca</a></td>
+      <td>Scrapbooking, papercraft, classes</td>
+    </tr>
+    <tr>
+      <td>BC</td>
+      <td>The Stitcher’s Muse</td>
+      <td><a href="https://thestitchersmuse.com/" target="_blank" rel="noopener nofollow">thestitchersmuse.com</a></td>
+      <td>Embroidery, cross-stitch, needle arts</td>
+    </tr>
+    <tr>
       <td>AB</td>
       <td>The Paper &amp; Ink Boutique</td>
       <td><a href="https://www.paperandinkboutique.com/" target="_blank" rel="noopener nofollow">paperandinkboutique.com</a></td>
       <td>Papercrafts, cardmaking, stamping</td>
     </tr>
     <tr>
+      <td>AB</td>
+      <td>PM Hobbycraft</td>
+      <td><a href="https://www.pmhobbycraft.ca/" target="_blank" rel="noopener nofollow">pmhobbycraft.ca</a></td>
+      <td>Model kits, puzzles, RC crafts</td>
+    </tr>
+    <tr>
+      <td>AB</td>
+      <td>Delta Art &amp; Drafting Supply</td>
+      <td><a href="https://www.deltaart.ca/" target="_blank" rel="noopener nofollow">deltaart.ca</a></td>
+      <td>Art supplies, drafting, painting</td>
+    </tr>
+    <tr>
+      <td>AB</td>
+      <td>The Craft Store</td>
+      <td><a href="https://www.thecraftstore.ca/" target="_blank" rel="noopener nofollow">thecraftstore.ca</a></td>
+      <td>General crafts, wood shapes, paint kits</td>
+    </tr>
+    <tr>
       <td>SK</td>
       <td>YXE Creations Craft Hub</td>
-      <td><a href="https://yxecreations.ca/" target="_blank" rel="noopener nofollow">yxecreations.ca</a></td>
+      <td><a href="https://yxecreations.ca/" target="_blank">yxecreations.ca</a></td>
       <td>Laser-ready plywood, acrylic, resin, paper</td>
     </tr>
     <tr>
@@ -384,10 +492,40 @@
       <td>Leather hides, hardware, crafting tools</td>
     </tr>
     <tr>
+      <td>SK</td>
+      <td>Sew Charming Crafts</td>
+      <td><a href="https://www.facebook.com/sewcharmingcrafts/" target="_blank" rel="noopener nofollow">facebook.com/sewcharmingcrafts</a></td>
+      <td>Fabrics, yarns, quilting, longarm services</td>
+    </tr>
+    <tr>
+      <td>SK</td>
+      <td>Hues Art Supply</td>
+      <td><a href="https://www.huesart.ca/" target="_blank" rel="noopener nofollow">huesart.ca</a></td>
+      <td>Acrylics, oil, drawing, art education</td>
+    </tr>
+    <tr>
       <td>MB</td>
       <td>Artists Emporium</td>
       <td><a href="https://www.artistsemporium.net/" target="_blank" rel="noopener nofollow">artistsemporium.net</a></td>
       <td>Full-service art supply store</td>
+    </tr>
+    <tr>
+      <td>MB</td>
+      <td>The Scrapbook Cottage</td>
+      <td><a href="https://www.thescrapbookcottage.ca/" target="_blank" rel="noopener nofollow">thescrapbookcottage.ca</a></td>
+      <td>Scrapbooking &amp; cardmaking</td>
+    </tr>
+    <tr>
+      <td>MB</td>
+      <td>Winnipeg Trading Post</td>
+      <td><a href="https://www.winnipegtradingpost.com/" target="_blank" rel="noopener nofollow">winnipegtradingpost.com</a></td>
+      <td>Leather, beads, native crafts</td>
+    </tr>
+    <tr>
+      <td>MB</td>
+      <td>Seduta</td>
+      <td><a href="https://www.seduta.com/" target="_blank" rel="noopener nofollow">seduta.com</a></td>
+      <td>Art, stationery, journaling tools</td>
     </tr>
     <tr>
       <td>QC</td>
@@ -402,16 +540,34 @@
       <td>Wide art offerings</td>
     </tr>
     <tr>
-      <td>NS</td>
-      <td>Maritime Hobbies &amp; Crafts</td>
-      <td><a href="https://www.maritimehobbies.com/" target="_blank" rel="noopener nofollow">maritimehobbies.com</a></td>
-      <td>Hobby &amp; model crafts</td>
+      <td>QC</td>
+      <td>Scrapbook Centrale</td>
+      <td><a href="https://www.scrapbookcentrale.ca/" target="_blank" rel="noopener nofollow">scrapbookcentrale.ca</a></td>
+      <td>Papercraft, cardmaking, stamping</td>
+    </tr>
+    <tr>
+      <td>QC</td>
+      <td>Les Artisans Indiens du Québec</td>
+      <td><a href="https://www.artisanatindien.com/" target="_blank" rel="noopener nofollow">artisanatindien.com</a></td>
+      <td>Beads, leather, furs, moccasins</td>
     </tr>
     <tr>
       <td>NS</td>
       <td>The Loop Halifax</td>
       <td><a href="https://www.theloophalifax.ca/" target="_blank" rel="noopener nofollow">theloophalifax.ca</a></td>
       <td>Yarn, patterns, fibers</td>
+    </tr>
+    <tr>
+      <td>NS</td>
+      <td>HFX Vinyl &amp; Craft Supplies</td>
+      <td><a href="https://hfxvinyl.ca/" target="_blank" rel="noopener nofollow">hfxvinyl.ca</a></td>
+      <td>Vinyl, HTV, cutters, accessories</td>
+    </tr>
+    <tr>
+      <td>NS</td>
+      <td>Yu Yo The Artists’ Place</td>
+      <td><a href="https://www.yuyo.ca/" target="_blank" rel="noopener nofollow">yuyo.ca</a></td>
+      <td>Paper, textile, indie art shop</td>
     </tr>
   </tbody>
 </table>
@@ -426,7 +582,7 @@
 
         
 
-  <p class="page__date"><strong><i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i> Updated:</strong> <time class="dt-published" datetime="2025-06-26T06:04:52+00:00">June 26, 2025</time></p>
+  <p class="page__date"><strong><i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i> Updated:</strong> <time class="dt-published" datetime="2025-06-27T04:56:52+00:00">June 27, 2025</time></p>
 
       </footer>
 
@@ -438,7 +594,7 @@
       <a href="/categories/laser-cutting/" class="pagination--pager" title="Laser Cutters">Previous</a>
     
     
-      <a href="/categories/online-shops/" class="pagination--pager" title="Where to Buy Online">Next</a>
+      <a href="/categories/online-shops/" class="pagination--pager" title="How to Buy Craft Supplies Online: Tips, Price Comparison &amp; Best Canadian Shops">Next</a>
     
   </nav>
 
