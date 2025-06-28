@@ -1,18 +1,6 @@
 var store = [{
-        "title": "About",
-        "excerpt":"Crafting Supply Hub is an open-source, ad-free resource for crafters. Our mission is to gather the best information, guides, and inspiration for makers of all levels, with a focus on Canadian suppliers and budget-friendly options. Who We Are: A community-driven project maintained by volunteers who love creativity and sharing knowledge....","categories": [],
-        "tags": [],
-        "url": "/about/",
-        "teaser": null
-      },{
-        "title": "Beginner-Friendly",
-        "excerpt":"Easy projects and tips for new crafters.  ","categories": [],
-        "tags": [],
-        "url": "/categories/beginner/",
-        "teaser": null
-      },{
         "title": "Budget Crafting",
-        "excerpt":"Discover affordable crafting ideas, deals, and money-saving tips in this section.  ","categories": [],
+        "excerpt":"Discover affordable crafting ideas, deals, and money-saving tips in this section.   Explore Budget Crafting Topics      Dollar Store Crafts   Upcycled Projects   Best Budget Tools   Splurge or Save  ","categories": [],
         "tags": [],
         "url": "/categories/budget-crafting/",
         "teaser": null
@@ -24,33 +12,27 @@ var store = [{
         "teaser": null
       },{
         "title": "Best Budget Tools",
-        "excerpt":"Quality tools don’t have to cost a fortune. Smart crafters know that the right budget-friendly tools can deliver professional results while keeping costs manageable. This comprehensive guide identifies the best affordable tools across all crafting categories, helping you build a functional workshop without breaking the bank. Essential Hand Tools for...","categories": ["tools","budget","DIY","crafting"],
+        "excerpt":"Essential Hand Tools for Every Crafter Cutting &amp; Precision Tools Tool Budget Option Price Range Where to Buy Quality Notes Craft Knife X-Acto Style Knife $3-8 Dollar stores, craft stores Replaceable blades essential Scissors - Paper Fiskars Basic $5-12 Department stores Sharp, comfortable grip Scissors - Fabric Generic 8” Shears...","categories": ["tools","budget","DIY","crafting"],
         "tags": ["budget-tools","affordable-crafting","DIY-tools","craft-supplies","tool-reviews"],
         "url": "/categories/budget-tools/",
         "teaser": null
       },{
-        "title": "Bulk Packaging & Materials",
-        "excerpt":"Find options for bulk packaging and materials for your craft business.  ","categories": [],
-        "tags": [],
-        "url": "/categories/bulk-packaging/",
+        "title": "Dollar Store Crafts",
+        "excerpt":"Major Dollar Store Chains for Crafters Canadian Dollar Store Chains Store Name Locations Price Range Best For Dollarama 1,400+ across Canada $1.25 - $5.00 Seasonal crafts, home décor items Dollar Tree Canada Multiple provinces $1.25 fixed price Consistent budget planning, curated craft selection Great Canadian Dollar Store Rural/smaller communities $1.00...","categories": ["crafts","budget","DIY"],
+        "tags": ["dollar-store","crafting","canada","budget-crafts","DIY"],
+        "url": "/categories/dollar-store/",
         "teaser": null
       },{
-        "title": "Business Accounts",
-        "excerpt":"Learn about business accounts for craft supply purchases.  ","categories": [],
-        "tags": [],
-        "url": "/categories/business-accounts/",
+        "title": "Upcycled Projects",
+        "excerpt":"Common Items Perfect for Upcycling Furniture &amp; Large Items Original Item Condition Needed Upcycling Potential Skill Level Required Wooden Chairs Structurally sound Painted designs, reupholstered seats Beginner to Intermediate Dressers/Nightstands Drawers functional Color updates, hardware changes, decoupage Beginner to Advanced Bookcases Shelves intact Paint, wallpaper backing, built-ins Beginner to Intermediate...","categories": ["upcycling","DIY","sustainability"],
+        "tags": ["upcycling","repurpose","eco-friendly","DIY","sustainability","crafts"],
+        "url": "/categories/upcycling/",
         "teaser": null
       },{
         "title": "Craft Business",
-        "excerpt":"Tips, resources, and stories for running a successful craft business.  ","categories": [],
+        "excerpt":"Tips, resources, and stories for running a successful craft business.   Explore Craft Business Topics      Starting a Side Hustle   Selling in Canada   Packaging &amp; Shipping   Branding &amp; Product Photos  ","categories": [],
         "tags": [],
         "url": "/categories/business/",
-        "teaser": null
-      },{
-        "title": "Craft Cheatsheets",
-        "excerpt":"Browse Craft Cheatsheets: Category Cheatsheet Textile &amp; Fiber Arts Sewing Cheatsheet Quilting &amp; Patchwork Cheatsheet Embroidery &amp; Cross-Stitch Cheatsheet Embroidery Machines Cheatsheet Macramé &amp; Knotting Cheatsheet Surface &amp; Fine Arts Painting &amp; Art Supplies Cheatsheet Calligraphy &amp; Lettering Cheatsheet Foiling &amp; Embossing Cheatsheet Paper Crafting Cheatsheet Jewelry &amp; Metalwork Jewelry...","categories": [],
-        "tags": [],
-        "url": "/cheatsheets/",
         "teaser": null
       },{
         "title": "Cricut & Cutting Machines Cheatsheet",
@@ -65,6 +47,12 @@ var store = [{
         "url": "/cheatsheets/laser-cutting/",
         "teaser": null
       },{
+        "title": "Starting a Craft Side Hustle",
+        "excerpt":"Phase 1: Decide What to Sell Product Type Examples Notes Handmade Items Jewelry, resin art, candles, bags Direct crafting time needed Custom Orders Personalized shirts, signs, stationery Charge for time and uniqueness Digital Products SVG files, patterns, templates Passive income potential Craft Supplies Stickers, kits, blanks Inventory + fulfillment required...","categories": ["business","side-hustle","crafting"],
+        "tags": ["side-hustle","craft-business","home-business","handmade","small-business"],
+        "url": "/categories/business/starting-craft-side-hustle/",
+        "teaser": null
+      },{
         "title": "3D Printing Cheatsheet",
         "excerpt":"3D Printer Types &amp; Features Common Printer Types Printer Type Technology Print Materials Resolution Price Range Ideal Use FDM (Fused Deposition Modeling) Melts and extrudes filament PLA, PETG, ABS, TPU 50–300 microns $200–$1,000 Prototyping, functional parts SLA (Resin) Cures resin with UV light Standard, tough, flexible resin 25–100 microns $250–$1,500...","categories": ["3d-printing","cheatsheet","crafting","small-business","maker-tech"],
         "tags": ["3d-printer","filament","resin","FDM","SLA","crafting","prototyping","DIY","miniatures","small-business"],
@@ -75,6 +63,12 @@ var store = [{
         "excerpt":"Calligraphy Styles Overview Style Look &amp; Feel Tools Used Skill Level Common Uses Modern Script Loose, fluid, whimsical Brush pens, nibs Beginner+ Wedding invites, prints Copperplate Elegant, looping Pointed pen + ink Intermediate+ Envelopes, certificates Gothic / Blackletter Bold, angular Broad nib dip pens Intermediate Posters, logos Italic Slanted, legible...","categories": ["calligraphy","art","lettering","cheatsheet","tools","DIY","small-business"],
         "tags": ["calligraphy","hand-lettering","pens","dip-ink","brush","nibs","typography","design"],
         "url": "/cheatsheets/calligraphy-tools/",
+        "teaser": null
+      },{
+        "title": "Craft Cheatsheets",
+        "excerpt":"Browse Craft Cheatsheets: Category Cheatsheet Textile &amp; Fiber Arts Sewing Cheatsheet Quilting &amp; Patchwork Cheatsheet Embroidery &amp; Cross-Stitch Cheatsheet Embroidery Machines Cheatsheet Macramé &amp; Knotting Cheatsheet Surface &amp; Fine Arts Painting &amp; Art Supplies Cheatsheet Calligraphy &amp; Lettering Cheatsheet Foiling &amp; Embossing Cheatsheet Paper Crafting Cheatsheet Jewelry &amp; Metalwork Jewelry...","categories": [],
+        "tags": [],
+        "url": "/cheatsheets/",
         "teaser": null
       },{
         "title": "Embroidery & Cross-Stitch Cheatsheet",
@@ -191,28 +185,10 @@ var store = [{
         "url": "/categories/woodworking-tools/",
         "teaser": null
       },{
-        "title": "Craft Co-Ops & Group Buys",
-        "excerpt":"Join forces with other crafters for bulk buying and savings.  ","categories": [],
+        "title": "Craft Room Organization",
+        "excerpt":"Tips and inspiration for organizing your craft room, tools, and materials.   Explore Craft Room Organization Topics      Material Storage   Tool Storage   Small Space Organization   Large Studio Design  ","categories": [],
         "tags": [],
-        "url": "/categories/co-ops/",
-        "teaser": null
-      },{
-        "title": "Code of Conduct",
-        "excerpt":"Our Pledge We as members, contributors, and leaders pledge to make participation in our community a harassment-free experience for everyone, regardless of age, body size, visible or invisible disability, ethnicity, sex characteristics, gender identity and expression, level of experience, education, socio-economic status, nationality, personal appearance, race, religion, or sexual identity...","categories": [],
-        "tags": [],
-        "url": "/code-of-conduct/",
-        "teaser": null
-      },{
-        "title": "Contact Us",
-        "excerpt":"Have questions, suggestions, or want to contribute? We’d love to hear from you!      Email: craftingsupplyca@gmail.com   GitHub: Crafting Supply Hub Repository   Or use the issue tracker on GitHub for feedback and ideas.  ","categories": [],
-        "tags": [],
-        "url": "/contact/",
-        "teaser": null
-      },{
-        "title": "Contributing",
-        "excerpt":"Thank you for your interest in contributing! We welcome all kinds of contributions, new content, bug fixes, suggestions, and more. How to Contribute Fork the repository and create your branch from main. Make your changes (add content, fix bugs, improve docs, etc.). Test your changes locally if possible. Submit a...","categories": [],
-        "tags": [],
-        "url": "/contributing/",
+        "url": "/categories/craft-room/",
         "teaser": null
       },{
         "title": "Large Craft Studio Design",
@@ -240,33 +216,9 @@ var store = [{
         "teaser": null
       },{
         "title": "Craft Supplies",
-        "excerpt":"Welcome to the Craft Supplies section! Explore materials, reviews, and tips for all your crafting needs.  ","categories": [],
+        "excerpt":"Welcome to the Craft Supplies section!   Explore Craft Supplies      Canadian-Made Materials   Suppliers by Province   Specialty Materials  ","categories": [],
         "tags": [],
         "url": "/categories/craft-supplies/",
-        "teaser": null
-      },{
-        "title": "DIY Projects",
-        "excerpt":"Step-by-step DIY projects, inspiration, and tutorials for makers of all levels.  ","categories": [],
-        "tags": [],
-        "url": "/categories/diy/",
-        "teaser": null
-      },{
-        "title": "Dollar Store Crafts",
-        "excerpt":"Major Dollar Store Chains for Crafters Canadian Dollar Store Chains Store Name Locations Price Range Best For Dollarama 1,400+ across Canada $1.25 - $5.00 Seasonal crafts, home décor items Dollar Tree Canada Multiple provinces $1.25 fixed price Consistent budget planning, curated craft selection Great Canadian Dollar Store Rural/smaller communities $1.00...","categories": ["crafts","budget","DIY"],
-        "tags": ["dollar-store","crafting","canada","budget-crafts","DIY"],
-        "url": "/categories/dollar-store/",
-        "teaser": null
-      },{
-        "title": "Gift Ideas",
-        "excerpt":"Handmade gift ideas for every occasion.  ","categories": [],
-        "tags": [],
-        "url": "/categories/gifts/",
-        "teaser": null
-      },{
-        "title": "Kids & Family Crafts",
-        "excerpt":"Fun crafts for kids and families to do together.  ","categories": [],
-        "tags": [],
-        "url": "/categories/kids-crafts/",
         "teaser": null
       },{
         "title": "Suppliers by Province",
@@ -275,10 +227,34 @@ var store = [{
         "url": "/categories/local-suppliers/",
         "teaser": null
       },{
-        "title": "Blog",
-        "excerpt":"Browse all blog posts, tutorials, and crafting inspiration.  ","categories": [],
+        "title": "Splurge or Save",
+        "excerpt":"The Investment Decision Framework Factors That Determine Spending Strategy Decision Factor Splurge Indicators Save Indicators Weight in Decision Usage Frequency Daily/weekly use Occasional projects High Project Impact Affects final quality significantly Minimal quality difference High Durability Needs Heavy use, professional demands Light use, temporary projects Medium Learning Curve Skill development...","categories": ["budgeting","crafting","tools","supplies"],
+        "tags": ["budget-crafting","tool-investment","craft-supplies","spending-guide","value-crafting"],
+        "url": "/categories/splurge-vs-save/",
+        "teaser": null
+      },{
+        "title": "About",
+        "excerpt":"Crafting Supply Hub is an open-source, ad-free resource for crafters. Our mission is to gather the best information, guides, and inspiration for makers of all levels, with a focus on Canadian suppliers and budget-friendly options. Who We Are: A community-driven project maintained by volunteers who love creativity and sharing knowledge....","categories": [],
         "tags": [],
-        "url": "/posts/",
+        "url": "/about/",
+        "teaser": null
+      },{
+        "title": "Code of Conduct",
+        "excerpt":"Our Pledge We as members, contributors, and leaders pledge to make participation in our community a harassment-free experience for everyone, regardless of age, body size, visible or invisible disability, ethnicity, sex characteristics, gender identity and expression, level of experience, education, socio-economic status, nationality, personal appearance, race, religion, or sexual identity...","categories": [],
+        "tags": [],
+        "url": "/code-of-conduct/",
+        "teaser": null
+      },{
+        "title": "Contact Us",
+        "excerpt":"Have questions, suggestions, or want to contribute? We’d love to hear from you!      Email: craftingsupplyca@gmail.com   GitHub: Crafting Supply Hub Repository   Or use the issue tracker on GitHub for feedback and ideas.  ","categories": [],
+        "tags": [],
+        "url": "/contact/",
+        "teaser": null
+      },{
+        "title": "Contributing",
+        "excerpt":"Thank you for your interest in contributing! We welcome all kinds of contributions, new content, bug fixes, suggestions, and more. How to Contribute Fork the repository and create your branch from main. Make your changes (add content, fix bugs, improve docs, etc.). Test your changes locally if possible. Submit a...","categories": [],
+        "tags": [],
+        "url": "/contributing/",
         "teaser": null
       },{
         "title": "Privacy Policy",
@@ -293,10 +269,16 @@ var store = [{
         "url": "/search/",
         "teaser": null
       },{
-        "title": "Seasonal Crafts",
-        "excerpt":"Crafts and projects for every season and holiday.  ","categories": [],
+        "title": "Start Here",
+        "excerpt":"Welcome! This page will help you get started with crafting, finding supplies, and using this site. How to Use This Site Search: Use the Search page to quickly find posts, guides, and resources by keyword. Tags: Explore topics by Tags. Tags help you discover related posts, such as #canadian-made, tools,...","categories": [],
         "tags": [],
-        "url": "/categories/seasonal/",
+        "url": "/start-here/",
+        "teaser": null
+      },{
+        "title": "Tags",
+        "excerpt":"Explore posts by tag and discover new topics.             #canadian-made (1)      ","categories": [],
+        "tags": [],
+        "url": "/tags/",
         "teaser": null
       },{
         "title": "3D Pen Crafting",
@@ -647,70 +629,28 @@ var store = [{
         "url": "/categories/specialty-supplies/",
         "teaser": null
       },{
-        "title": "Splurge or Save",
-        "excerpt":"Some tools and materials dramatically improve with quality investment, while others perform identically whether they cost $3 or $30. This guide helps you make informed decisions about where to spend and where to save in your crafting budget. The Investment Decision Framework Factors That Determine Spending Strategy Decision Factor Splurge...","categories": ["budgeting","crafting","tools","supplies"],
-        "tags": ["budget-crafting","tool-investment","craft-supplies","spending-guide","value-crafting"],
-        "url": "/categories/splurge-vs-save/",
-        "teaser": null
-      },{
-        "title": "Start Here",
-        "excerpt":"Welcome! This page will help you get started with crafting, finding supplies, and using this site. How to Use This Site Search: Use the Search page to quickly find posts, guides, and resources by keyword. Tags: Explore topics by Tags. Tags help you discover related posts, such as #canadian-made, tools,...","categories": [],
-        "tags": [],
-        "url": "/start-here/",
-        "teaser": null
-      },{
         "title": "Eco-Friendly Craft Supplies",
-        "excerpt":"Green crafting starts with the right materials. From biodegradable glues to sustainably sourced paper, eco-conscious supplies reduce waste and support ethical production. Key Characteristics of Eco-Friendly Supplies Attribute Description Benefit Biodegradable Breaks down naturally over time Reduces long-term waste Non-Toxic Safe for humans and pets Suitable for kids, safe crafting...","categories": ["sustainable-crafting","eco-friendly","DIY"],
+        "excerpt":"Key Characteristics of Eco-Friendly Supplies Attribute Description Benefit Biodegradable Breaks down naturally over time Reduces long-term waste Non-Toxic Safe for humans and pets Suitable for kids, safe crafting Sustainably Sourced Harvested with minimal environmental impact Ethical sourcing Recycled Content Made from post-consumer or industrial waste Conserves raw resources Plastic-Free Packaging...","categories": ["sustainable-crafting","eco-friendly","DIY"],
         "tags": ["eco-crafting","non-toxic","biodegradable","sustainable","materials","supplies"],
         "url": "/categories/sustainable-crafting/eco-friendly-supplies/",
         "teaser": null
       },{
         "title": "Natural Dyes & Materials",
-        "excerpt":"Natural dyeing brings earthy tones, organic patterns, and mindful creativity to your crafting. Learn to color fabric, paper, and yarns using safe, plant-based techniques. Common Natural Dye Sources Dye Source Color Range Prep Red Onion Skins Purple, pink Simmer in water Avocado Pits &amp; Skins Blush, dusty pink Clean and...","categories": ["sustainable-crafting","natural-dyeing","textile-art"],
+        "excerpt":"Common Natural Dye Sources Dye Source Color Range Prep Red Onion Skins Purple, pink Simmer in water Avocado Pits &amp; Skins Blush, dusty pink Clean and boil Turmeric Bright yellow Use caution, stains easily Black Beans Grey to blue Soak, don’t boil Red Cabbage Purple to green (pH sensitive) Simmer...","categories": ["sustainable-crafting","natural-dyeing","textile-art"],
         "tags": ["natural dyes","botanical","fabric dye","mordants","eco print"],
         "url": "/categories/sustainable-crafting/natural-dyes/",
         "teaser": null
       },{
         "title": "Recycled Material Crafting",
-        "excerpt":"Transform discarded items into creative treasures. Recycled crafting not only reduces waste, it fuels resourceful design and teaches sustainable thinking. Material Categories for Recycled Crafting Material Source Project Ideas Cardboard Boxes, packaging Storage bins, puppet stages Plastic Bottles Drink containers Planters, art sculptures Textiles Old clothes, linens Patchwork, dolls, bags...","categories": ["sustainable-crafting","recycled","upcycling","DIY"],
+        "excerpt":"Material Categories for Recycled Crafting Material Source Project Ideas Cardboard Boxes, packaging Storage bins, puppet stages Plastic Bottles Drink containers Planters, art sculptures Textiles Old clothes, linens Patchwork, dolls, bags Glass Jars Jams, candles Terrariums, candle holders Metal Cans Food tins Lanterns, organizers Paper Scraps Magazines, books Collage, handmade paper...","categories": ["sustainable-crafting","recycled","upcycling","DIY"],
         "tags": ["upcycling","recycled art","trash-to-treasure","eco-crafting"],
         "url": "/categories/sustainable-crafting/recycled-materials/",
         "teaser": null
       },{
-        "title": "Tags",
-        "excerpt":"Explore posts by tag and discover new topics.             #canadian-made (1)      ","categories": [],
+        "title": "Sustainable Crafting",
+        "excerpt":"Discover eco-friendly, natural, and recycled crafting ideas and resources in this section.   Explore Sustainable Crafting Topics      Eco-Friendly Supplies   Natural Dyes   Recycled Materials  ","categories": [],
         "tags": [],
-        "url": "/tags/",
-        "teaser": null
-      },{
-        "title": "Maintenance & Safety",
-        "excerpt":"Keep your tools in top shape and craft safely.  ","categories": [],
-        "tags": [],
-        "url": "/categories/tool-care/",
-        "teaser": null
-      },{
-        "title": "Top Tools by Project",
-        "excerpt":"Find the best tools for every type of craft project.  ","categories": [],
-        "tags": [],
-        "url": "/categories/tool-guides/",
-        "teaser": null
-      },{
-        "title": "Tools & Equipment",
-        "excerpt":"All about crafting tools and equipment, reviews, guides, and recommendations.  ","categories": [],
-        "tags": [],
-        "url": "/categories/tools/",
-        "teaser": null
-      },{
-        "title": "Upcycled Projects",
-        "excerpt":"Upcycling breathes new life into forgotten items while reducing waste and saving money. Instead of throwing away broken furniture, outdated décor, or unused household items, transform them into stunning, functional pieces that reflect your personal style. This comprehensive guide provides organized project ideas, supply requirements, and techniques for successful upcycling...","categories": ["upcycling","DIY","sustainability"],
-        "tags": ["upcycling","repurpose","eco-friendly","DIY","sustainability","crafts"],
-        "url": "/categories/upcycling/",
-        "teaser": null
-      },{
-        "title": "Wholesale & Bulk",
-        "excerpt":"Find resources and advice for buying craft supplies in bulk or at wholesale prices.  ","categories": [],
-        "tags": [],
-        "url": "/categories/wholesale/",
+        "url": "/categories/sustainable-crafting/",
         "teaser": null
       },{
         "title": "Welcome to Crafting Supply Hub",
