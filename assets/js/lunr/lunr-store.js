@@ -30,7 +30,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Craft Business",
-        "excerpt":"Tips, resources, and stories for running a successful craft business.   Explore Craft Business Topics      Starting a Side Hustle   Selling in Canada   Packaging &amp; Shipping   Branding &amp; Product Photos  ","categories": [],
+        "excerpt":"Tips, resources, and stories for running a successful craft business.   Explore Craft Business Topics      Starting a Side Hustle  ","categories": [],
         "tags": [],
         "url": "/categories/business/",
         "teaser": null
