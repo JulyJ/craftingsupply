@@ -17,6 +17,12 @@ var store = [{
         "url": "/categories/budget-crafting/",
         "teaser": null
       },{
+        "title": "Canadian-Made Materials",
+        "excerpt":"A directory of Canadian manufacturers producing craft materials domestically. 3D Printing Filaments Material Manufacturer Location Website PLA, ABS, Nylon Matter3D Inc. Victoria, BC matter3d.com PLA Filaments Canadian Filaments Canada canadianfilaments.ca PLA, PETG, Specialty Filaments Eureka Filaments Canada eurekafilaments.ca Laser Cutting Materials Material Manufacturer Location Website TruFlat Laser Plywood TruFlat Plywood...","categories": ["crafts","manufacturing","canada"],
+        "tags": ["craft-materials","canadian-made","3d-printing","resin","yarn","wood","local-suppliers","online-shops"],
+        "url": "/categories/canadian-made/",
+        "teaser": null
+      },{
         "title": "Best Budget Tools",
         "excerpt":"Quality tools don’t have to cost a fortune. Smart crafters know that the right budget-friendly tools can deliver professional results while keeping costs manageable. This comprehensive guide identifies the best affordable tools across all crafting categories, helping you build a functional workshop without breaking the bank. Essential Hand Tools for...","categories": ["tools","budget","DIY","crafting"],
         "tags": ["budget-tools","affordable-crafting","DIY-tools","craft-supplies","tool-reviews"],
@@ -41,10 +47,148 @@ var store = [{
         "url": "/categories/business/",
         "teaser": null
       },{
-        "title": "Canadian-Made Materials",
-        "excerpt":"A directory of Canadian manufacturers producing craft materials domestically. 3D Printing Filaments Material Manufacturer Location Website PLA, ABS, Nylon Matter3D Inc. Victoria, BC matter3d.com PLA Filaments Canadian Filaments Canada canadianfilaments.ca PLA, PETG, Specialty Filaments Eureka Filaments Canada eurekafilaments.ca Laser Cutting Materials Material Manufacturer Location Website TruFlat Laser Plywood TruFlat Plywood...","categories": ["crafts","manufacturing","canada"],
-        "tags": ["craft-materials","canadian-made","3d-printing","resin","yarn","wood","local-suppliers","online-shops"],
-        "url": "/categories/canadian-made/",
+        "title": "Craft Cheatsheets",
+        "excerpt":"Browse Craft Cheatsheets: Category Cheatsheet Textile &amp; Fiber Arts Sewing Cheatsheet Quilting &amp; Patchwork Cheatsheet Embroidery &amp; Cross-Stitch Cheatsheet Embroidery Machines Cheatsheet Macramé &amp; Knotting Cheatsheet Surface &amp; Fine Arts Painting &amp; Art Supplies Cheatsheet Calligraphy &amp; Lettering Cheatsheet Foiling &amp; Embossing Cheatsheet Paper Crafting Cheatsheet Jewelry &amp; Metalwork Jewelry...","categories": [],
+        "tags": [],
+        "url": "/cheatsheets/",
+        "teaser": null
+      },{
+        "title": "Cricut & Cutting Machines Cheatsheet",
+        "excerpt":"Cutting Machine Types &amp; Brands Popular Machine Categories Machine Type Cutting Force Material Compatibility Price Range Best For Entry-Level Personal Light to medium Paper, vinyl, thin fabric $150-350 Hobby crafters, beginners Mid-Range Versatile Medium to heavy Wide material range $300-600 Serious crafters, small business Professional Multi-Tool Heavy duty Thick materials,...","categories": ["cutting-machines","cricut","cheatsheet","DIY","crafting","small-business"],
+        "tags": ["cricut","silhouette","cutting-machine","vinyl","crafting","personalization","small-business","design-space"],
+        "url": "/cheatsheets/cutting-machines/",
+        "teaser": null
+      },{
+        "title": "Laser Cutting Cheatsheet",
+        "excerpt":"Laser Cutter Types &amp; Technologies Desktop vs. Professional Models Machine Category Work Area Size Power Range Price Range Best For Entry-Level Desktop 8” x 12” to 12” x 20” 5-15W diode $200-800 Hobby projects, learning Mid-Range Desktop 16” x 24” to 20” x 28” 40-60W CO2 $2,000-6,000 Small business, prototyping...","categories": ["laser-cutting","cheatsheet","DIY","technology","small-business"],
+        "tags": ["laser-cutter","precision-cutting","engraving","crafting","maker","small-business","digital-fabrication"],
+        "url": "/cheatsheets/laser-cutting/",
+        "teaser": null
+      },{
+        "title": "3D Printing Cheatsheet",
+        "excerpt":"3D Printer Types &amp; Features Common Printer Types Printer Type Technology Print Materials Resolution Price Range Ideal Use FDM (Fused Deposition Modeling) Melts and extrudes filament PLA, PETG, ABS, TPU 50–300 microns $200–$1,000 Prototyping, functional parts SLA (Resin) Cures resin with UV light Standard, tough, flexible resin 25–100 microns $250–$1,500...","categories": ["3d-printing","cheatsheet","crafting","small-business","maker-tech"],
+        "tags": ["3d-printer","filament","resin","FDM","SLA","crafting","prototyping","DIY","miniatures","small-business"],
+        "url": "/cheatsheets/3d-printing/",
+        "teaser": null
+      },{
+        "title": "Calligraphy & Lettering Cheatsheet",
+        "excerpt":"Calligraphy Styles Overview Style Look &amp; Feel Tools Used Skill Level Common Uses Modern Script Loose, fluid, whimsical Brush pens, nibs Beginner+ Wedding invites, prints Copperplate Elegant, looping Pointed pen + ink Intermediate+ Envelopes, certificates Gothic / Blackletter Bold, angular Broad nib dip pens Intermediate Posters, logos Italic Slanted, legible...","categories": ["calligraphy","art","lettering","cheatsheet","tools","DIY","small-business"],
+        "tags": ["calligraphy","hand-lettering","pens","dip-ink","brush","nibs","typography","design"],
+        "url": "/cheatsheets/calligraphy-tools/",
+        "teaser": null
+      },{
+        "title": "Embroidery & Cross-Stitch Cheatsheet",
+        "excerpt":"Craft Type Comparison Craft Type Technique Fabric Type Best For Skill Level Embroidery Freeform stitching, decorative Cotton, linen, denim Custom motifs, text, florals All levels Cross-Stitch Grid-based X stitches Aida, evenweave Patterns, pixel art Beginner to intermediate Crewel Work Wool embroidery on linen Linen twill Textured, vintage designs Intermediate Blackwork...","categories": ["embroidery","cross-stitch","textile-art","cheatsheet","needlecraft","DIY","crafting"],
+        "tags": ["embroidery","cross-stitch","hoop art","floss","pattern","textile","handmade","DIY"],
+        "url": "/cheatsheets/embroidery-cross-stitch/",
+        "teaser": null
+      },{
+        "title": "Embroidery Machines Cheatsheet",
+        "excerpt":"Embroidery Machine Types Machine Type Hoop Size Features Best For Price Range Single-Needle 4x4”–6x10” Simple, entry-level Hobbyists, beginners $300–$1,200 Multi-Needle 5x7”–8x14”+ Multiple thread colors Small businesses $2,500–10,000 Sewing + Embroidery Combo 4x4”–6x10” Dual function Crafters, limited space $500–2,000 Commercial Machines 12x18”+ Industrial-grade High-volume business $10,000+ Brand Comparison Matrix Brand Popular...","categories": ["embroidery","machines","textile","cheatsheet","crafting","small-business"],
+        "tags": ["embroidery","embroidery-machine","applique","textile-crafting","monogramming","small-business"],
+        "url": "/cheatsheets/embroidery-machines/",
+        "teaser": null
+      },{
+        "title": "Foiling & Embossing Cheatsheet",
+        "excerpt":"Key Techniques Overview Technique Description Tools Needed Best For Heat Embossing Powder melted with heat gun creates raised design Embossing powder, heat gun, embossing ink Cards, invitations, tags Cold Foiling Foil applied via adhesive and pressure without heat Foil sheets, laminator or press, adhesive Large prints, commercial Hot Foiling (Foil...","categories": ["foiling","embossing","cheatsheet","crafting","DIY","small-business"],
+        "tags": ["foiling","embossing","heat foil","cold foil","embossing powders","crafting","personalization"],
+        "url": "/cheatsheets/foiling-embossing/",
+        "teaser": null
+      },{
+        "title": "Foiling & Embossing Cheatsheet",
+        "excerpt":"Key Techniques Overview Technique Description Tools Needed Best For Heat Embossing Powder melted with heat gun creates raised design Embossing powder, heat gun, embossing ink Cards, invitations, tags Cold Foiling Foil applied via adhesive and pressure without heat Foil sheets, laminator or press, adhesive Large prints, commercial Hot Foiling (Foil...","categories": ["foiling","embossing","cheatsheet","crafting","DIY","small-business"],
+        "tags": ["foiling","embossing","heat foil","cold foil","embossing powders","crafting","personalization"],
+        "url": "/cheatsheets/foiling-embossing/",
+        "teaser": null
+      },{
+        "title": "Heat Transfer Vinyl Cheatsheet",
+        "excerpt":"HTV Types &amp; Characteristics Type Material Composition Finish Best For Durability Application Temp (°F) Price Range Standard HTV PVC or PU Matte or Glossy T-shirts, cotton blends High 305–320°F $5–10/yard Stretch HTV PU with elastomer Matte Sportswear, spandex Very High 280–300°F $7–12/yard Metallic HTV PU with metallic finish Shiny Fashion...","categories": ["HTV","vinyl","cheatsheet","crafting","DIY","small-business"],
+        "tags": ["heat transfer vinyl","HTV","vinyl cutting","crafting","personalization","apparel","DIY"],
+        "url": "/cheatsheets/heat-transfer-vinyl/",
+        "teaser": null
+      },{
+        "title": "Jewelry Making Cheatsheet",
+        "excerpt":"Popular Jewelry Styles &amp; Techniques Style/Technique Description Complexity Tools Needed Beading Stringing beads onto thread or wire ⭐ Pliers, crimp tool Wire Wrapping Sculpting wire around stones ⭐⭐ Round-nose pliers Polymer Clay Molded, baked clay shapes ⭐⭐ Clay tools, oven Resin Casting Pouring resin into molds ⭐⭐⭐ Molds, UV/epoxy resin...","categories": ["jewelry-making","cheatsheet","DIY","crafting","small-business"],
+        "tags": ["jewelry","handmade","beads","wire-wrapping","resin","polymer-clay","accessories","small-business"],
+        "url": "/cheatsheets/jewelry-making/",
+        "teaser": null
+      },{
+        "title": "Leathercraft Cheatsheet",
+        "excerpt":"Essential Leathercraft Tools Tool Purpose Notes Cutting Knife / Rotary Cutter Cutting leather pieces Sharp blades, precision required Leather Shears Heavy-duty scissors For cutting thick leather Edge Beveler Rounds off leather edges Adds professional finish Hole Punch Set Creates holes for stitching, hardware Different sizes for various uses Stitching Groover...","categories": ["leathercraft","cheatsheet","DIY","crafting","small-business"],
+        "tags": ["leathercraft","leather tools","hand stitching","leatherworking","craft supplies","small business"],
+        "url": "/cheatsheets/leathercraft/",
+        "teaser": null
+      },{
+        "title": "Macramé & Knotting Cheatsheet",
+        "excerpt":"Essential Macramé Tools Tool Use Notes Macramé Cord Main material Choose cotton, jute, nylon, or recycled fibers Wood Dowel/Rings Anchors project Use for wall hangings and plant hangers Scissors Cutting cord Sharp blades prevent fraying Measuring Tape Cord prep Measure at least 3–6x finished length S-Hooks or Clothes Rack Holding...","categories": ["macrame","fiber-art","cheatsheet","DIY","crafting","home-decor"],
+        "tags": ["macrame","knots","wall hangings","fiber art","boho","cords","DIY decor"],
+        "url": "/cheatsheets/macrame-knotting/",
+        "teaser": null
+      },{
+        "title": "Metal Stamping Cheatsheet",
+        "excerpt":"Core Metal Stamping Tools Tool Purpose Notes Steel Stamping Blanks Surface for stamping Available in aluminum, brass, copper, stainless steel Letter/Design Stamps Imprint letters/symbols Available in multiple fonts/sizes Metal Stamping Hammer Delivers precise strike Brass head preferred to reduce bounce Steel Bench Block Firm stamping surface Reduces vibration for cleaner...","categories": ["metalworking","jewelry","cheatsheet","DIY","tools","small-business"],
+        "tags": ["metal stamping","jewelry","blanks","personalization","craft tools","engraving","hand tools"],
+        "url": "/cheatsheets/metal-stamping/",
+        "teaser": null
+      },{
+        "title": "Miniature Making & Dollhouses Cheatsheet",
+        "excerpt":"Common Dollhouse Scales Scale Ratio Notes Best For 1:12 1 inch = 1 foot Most popular Standard dollhouses 1:24 ½ inch = 1 foot Half scale Small spaces, collectors 1:48 ¼ inch = 1 foot “Quarter scale” Travel kits, detailed builds 1:144 1/12 of 1:12 Micro Inside other dollhouses 1:6...","categories": ["miniatures","dollhouses","cheatsheet","DIY","crafting","scale-models"],
+        "tags": ["miniatures","dollhouses","diorama","scale modeling","hobby crafts","crafting"],
+        "url": "/cheatsheets/miniatures-dollhouses/",
+        "teaser": null
+      },{
+        "title": "Painting & Art Supplies Cheatsheet",
+        "excerpt":"Types of Paint Paint Type Base Drying Time Surface Compatibility Skill Level Notes Acrylic Water-based Fast (5–30 mins) Canvas, wood, paper, fabric ⭐⭐ Versatile, beginner-friendly Watercolor Water-based Very fast (5–15 mins) Watercolor paper ⭐ Transparent layers Gouache Water-based Medium (15–45 mins) Paper, wood ⭐⭐ Matte, vibrant, reactivates Oil Oil-based Slow...","categories": ["art","painting","supplies","cheatsheet","DIY","crafting","small-business"],
+        "tags": ["painting","acrylic","watercolor","canvas","brushes","art-supplies","mixed-media","small-business"],
+        "url": "/cheatsheets/painting-art-supplies/",
+        "teaser": null
+      },{
+        "title": "Paper Crafting Cheatsheet",
+        "excerpt":"Paper Types &amp; Material Guide Common Paper Types Paper Type Weight Texture Best Use Cost per Sheet Cut Difficulty Cardstock 65–110 lb Smooth or textured Cards, 3D crafts $0.10–$0.50 ⭐ Vellum Light Semi-transparent Overlays, invites $0.15–$1.00 ⭐⭐ Kraft Paper 60–100 lb Rough, brown tone Rustic tags, packaging $0.05–$0.25 ⭐ Patterned...","categories": ["paper-crafting","cheatsheet","DIY","crafting","stationery","small-business"],
+        "tags": ["paper","cardstock","papercraft","origami","scrapbooking","journaling","die-cutting","crafting","small-business"],
+        "url": "/cheatsheets/paper-crafting/",
+        "teaser": null
+      },{
+        "title": "Pottery Wheels & Kilns",
+        "excerpt":"Pottery Wheel Types Wheel Type Power Source Pros Cons Ideal For Electric Wheel Plug-in motor Quiet, efficient, portable Needs power Hobbyists, indoor studios Kick Wheel Manual, foot-powered No electricity, durable Heavy, tiring Traditionalists, outdoor use Portable Mini Wheel Electric (compact) Affordable, small footprint Lower torque, small projects Beginners, small pieces...","categories": ["clay","ceramics","pottery","equipment","small-business"],
+        "tags": ["pottery","ceramics","kiln","wheel","clay","studio","firing","glaze","sculpting"],
+        "url": "/categories/pottery-wheels-kilns/",
+        "teaser": null
+      },{
+        "title": "Quilting & Patchwork Cheatsheet",
+        "excerpt":"Essential Quilting Tools Tool Use Notes Rotary Cutter Cut fabric with precision Use with cutting mat Self-Healing Cutting Mat Protects surfaces Use size at least 18”x24” Quilting Ruler Straight cuts and measuring 6.5”x24” is versatile Sewing Machine Piecing and quilting Walking foot or ¼” foot preferred Pins/Clips Hold fabric pieces...","categories": ["quilting","sewing","textile","patchwork","cheatsheet","DIY","crafting"],
+        "tags": ["quilting","patchwork","sewing","fabric art","textile design","DIY quilts","handmade"],
+        "url": "/cheatsheets/quilting-patchwork/",
+        "teaser": null
+      },{
+        "title": "Resin Casting & Epoxy Art Guide",
+        "excerpt":"Resin &amp; Epoxy Types Overview Type Description Best Use Cure Time Safety Notes Epoxy Resin Two-part, clear or tinted Jewelry, coatings, art 12-48 hours Use gloves, ventilate area Polyester Resin Fast curing, stronger smell Casting large items 15-30 mins Use respirator, well ventilated UV Resin Cures under UV light quickly...","categories": ["resin","epoxy","casting","crafting","DIY","small-business"],
+        "tags": ["resin casting","epoxy art","molds","curing","crafting","jewelry","coatings"],
+        "url": "/categories/resin-epoxy-art/",
+        "teaser": null
+      },{
+        "title": "Sewing Cheatsheet",
+        "excerpt":"Essential Sewing Tools Cheat Sheet Tool Purpose Beginner Friendly Average Cost Notes Fabric Scissors Clean cutting ✅ $15–40 Keep for fabric only Rotary Cutter Precision cutting ✅ $10–30 Works best with cutting mat Cutting Mat Protects surface ✅ $20–100 Self-healing is best Pins &amp; Clips Hold fabric ✅ $5–15 Clips...","categories": ["sewing","fabric","cheatsheet","tools","DIY","crafting","small-business"],
+        "tags": ["sewing","fabric","tools","quilting","embroidery","fashion","DIY","small-business"],
+        "url": "/cheatsheets/sewing-tools/",
+        "teaser": null
+      },{
+        "title": "Soap & Candle Making Cheatsheet",
+        "excerpt":"Soap Making Methods Overview Method Difficulty Cure Time Best For Safety Level Melt and Pour ⭐ (Easy) 0 hrs Beginners, kids Low Cold Process ⭐⭐ (Moderate) 4-6 weeks Custom soap recipes Medium Hot Process ⭐⭐ (Moderate) 1-2 weeks Rustic soaps, faster cure High Rebatching ⭐⭐ (Moderate) 1 week Salvaging batches...","categories": ["soap","candle","cheatsheet","DIY","crafting","small-business"],
+        "tags": ["soap making","candle making","melt and pour","cold process","wax","wicks","fragrance","crafting","handmade"],
+        "url": "/cheatsheets/soap-candle-making/",
+        "teaser": null
+      },{
+        "title": "Stamp Carving Tools & Techniques",
+        "excerpt":"Essential Stamp Carving Tools Tool Purpose Notes Carving Gouges Remove material with curved blades Set includes U, V, flat shapes Linoleum Cutters Precision cutting in linocut &amp; rubber Interchangeable blades Craft Knives (X-Acto) Fine detail cutting, trimming Replace blades often Rubber Carving Blocks Material for stamps Soft, easy to carve...","categories": ["stamp-carving","tools","DIY","crafting","small-business"],
+        "tags": ["stamp carving","rubber stamps","linocut","carving tools","DIY","personalization","craft supplies"],
+        "url": "/categories/stamp-carving/",
+        "teaser": null
+      },{
+        "title": "Woodworking Tools for Crafters",
+        "excerpt":"Core Woodworking Tool Categories Tool Type Examples Best Use Power Required Budget Hand Tools Chisels, mallets, hand saws Precision shaping, detail None $5–$100 Portable Power Tools Drill, jigsaw, sander Small shop projects Yes $30–$300 Benchtop Tools Miter saw, scroll saw, drill press Cutting and drilling Yes $100–$500 Stationary Machines Table...","categories": ["woodworking","crafting","DIY","tools","small-business"],
+        "tags": ["woodworking","tools","saws","sanding","engraving","furniture","DIY","small-business"],
+        "url": "/categories/woodworking-tools/",
         "teaser": null
       },{
         "title": "Craft Co-Ops & Group Buys",
@@ -71,16 +215,34 @@ var store = [{
         "url": "/contributing/",
         "teaser": null
       },{
+        "title": "Large Craft Studio Design",
+        "excerpt":"Essential Crafting Zones Zone Purpose Key Items Work Zone Main task space Table, chair, tools Prep Zone Cutting, measuring, material sorting Mats, blades, rulers Finishing Zone Painting, gluing, assembling Drying racks, press Storage Zone Supply organization Cabinets, bins Shipping &amp; Photography Online sales support Lights, backdrop, scale Workflow Layout Tips...","categories": ["craft-room","workspace","studio"],
+        "tags": ["craft studio","creative zones","large workspace","craft layout","safety"],
+        "url": "/categories/craft-room/large-studio-design/",
+        "teaser": null
+      },{
+        "title": "Material Storage Solutions",
+        "excerpt":"Common Material Categories &amp; Tips Material Ideal Storage Key Notes Paper/Cardstock Vertical files, clear bins Humidity controlled Vinyl Sheets Hanging folders, tubes Avoid curling, UV exposure Fabric Rolled on boards, drawers Away from direct sun Paints &amp; Inks Airtight containers Cool, dark, upright storage Resin/Epoxy Original containers, low temp Stable...","categories": ["craft-room","storage","supplies"],
+        "tags": ["material storage","inventory","climate control","supply organization"],
+        "url": "/categories/craft-room/material-storage/",
+        "teaser": null
+      },{
+        "title": "Small Space Craft Organization",
+        "excerpt":"Small Space Must-Haves Solution Description Ideal For Vertical Shelving Tall units for bins, boxes, tools Supplies, paper, paints Fold-Down Desks Wall-mounted, compact Cricut, sketching, writing Rolling Carts Mobile storage and surfaces Daily-use tools, vinyl rolls Stackable Bins Maximize vertical cubbies Buttons, beads, yarn Wall Pegboards Tool and scissors display High-traffic...","categories": ["craft-room","organization","small-spaces"],
+        "tags": ["craft-room","small-space","organizing","storage","mobile-crafting","vertical-storage"],
+        "url": "/categories/craft-room/small-space-organization/",
+        "teaser": null
+      },{
+        "title": "Tool Storage Systems",
+        "excerpt":"Popular Tool Storage Types Storage Type Pros Best For Pegboard Wall Visual access, modular Scissors, rulers, small tools Drawer Cabinets Hidden clutter, stackable Glue, pens, accessories Tool Totes Portable, multi-pocket Shared spaces, on-the-go Rolling Carts Mobile, compact tiers Cricut tools, blades, paints Wall-Mounted Racks Space saving Frequently used hand tools...","categories": ["craft-room","tools","storage"],
+        "tags": ["tool organization","pegboards","drawers","mobile carts","craft storage"],
+        "url": "/categories/craft-room/tool-storage/",
+        "teaser": null
+      },{
         "title": "Craft Supplies",
         "excerpt":"Welcome to the Craft Supplies section! Explore materials, reviews, and tips for all your crafting needs.  ","categories": [],
         "tags": [],
         "url": "/categories/craft-supplies/",
-        "teaser": null
-      },{
-        "title": "Cricut & Cutting Machines",
-        "excerpt":"Guides and reviews for Cricut and other cutting machines.  ","categories": [],
-        "tags": [],
-        "url": "/categories/cricut/",
         "teaser": null
       },{
         "title": "DIY Projects",
@@ -107,22 +269,10 @@ var store = [{
         "url": "/categories/kids-crafts/",
         "teaser": null
       },{
-        "title": "Laser Cutters",
-        "excerpt":"All about laser cutters for crafting and small business.  ","categories": [],
-        "tags": [],
-        "url": "/categories/laser-cutting/",
-        "teaser": null
-      },{
         "title": "Suppliers by Province",
         "excerpt":"A comprehensive guide to Canadian craft and art suppliers, organized by province. Province Store Website Focus National Michaels canada.michaels.com Crafts, decor, DIY, art, seasonal kits National, QC DeSerres deserres.ca Artist-grade supplies &amp; crafts National Walmart Canada walmart.ca General craft &amp; DIY items National Dollarama dollarama.com Inexpensive basic craft items National...","categories": [],
         "tags": ["local-suppliers","stores-by-province","suppliers","canada"],
         "url": "/categories/local-suppliers/",
-        "teaser": null
-      },{
-        "title": "How to Buy Craft Supplies Online: Tips, Price Comparison & Best Canadian Shops",
-        "excerpt":"Looking for the best places to buy craft supplies online? Start with our curated lists: Canadian-Made Craft Suppliers Stores by Province How to Buy Craft Supplies Online: A Practical Guide Compare Prices Across Sites Don’t assume Amazon is the cheapest, often, it’s more expensive than buying direct from a brand...","categories": [],
-        "tags": ["online-shops","buy-online","price-comparison","shopping-tips","canada"],
-        "url": "/categories/online-shops/",
         "teaser": null
       },{
         "title": "Blog",
@@ -507,6 +657,24 @@ var store = [{
         "excerpt":"Welcome! This page will help you get started with crafting, finding supplies, and using this site. How to Use This Site Search: Use the Search page to quickly find posts, guides, and resources by keyword. Tags: Explore topics by Tags. Tags help you discover related posts, such as #canadian-made, tools,...","categories": [],
         "tags": [],
         "url": "/start-here/",
+        "teaser": null
+      },{
+        "title": "Eco-Friendly Craft Supplies",
+        "excerpt":"Green crafting starts with the right materials. From biodegradable glues to sustainably sourced paper, eco-conscious supplies reduce waste and support ethical production. Key Characteristics of Eco-Friendly Supplies Attribute Description Benefit Biodegradable Breaks down naturally over time Reduces long-term waste Non-Toxic Safe for humans and pets Suitable for kids, safe crafting...","categories": ["sustainable-crafting","eco-friendly","DIY"],
+        "tags": ["eco-crafting","non-toxic","biodegradable","sustainable","materials","supplies"],
+        "url": "/categories/sustainable-crafting/eco-friendly-supplies/",
+        "teaser": null
+      },{
+        "title": "Natural Dyes & Materials",
+        "excerpt":"Natural dyeing brings earthy tones, organic patterns, and mindful creativity to your crafting. Learn to color fabric, paper, and yarns using safe, plant-based techniques. Common Natural Dye Sources Dye Source Color Range Prep Red Onion Skins Purple, pink Simmer in water Avocado Pits &amp; Skins Blush, dusty pink Clean and...","categories": ["sustainable-crafting","natural-dyeing","textile-art"],
+        "tags": ["natural dyes","botanical","fabric dye","mordants","eco print"],
+        "url": "/categories/sustainable-crafting/natural-dyes/",
+        "teaser": null
+      },{
+        "title": "Recycled Material Crafting",
+        "excerpt":"Transform discarded items into creative treasures. Recycled crafting not only reduces waste, it fuels resourceful design and teaches sustainable thinking. Material Categories for Recycled Crafting Material Source Project Ideas Cardboard Boxes, packaging Storage bins, puppet stages Plastic Bottles Drink containers Planters, art sculptures Textiles Old clothes, linens Patchwork, dolls, bags...","categories": ["sustainable-crafting","recycled","upcycling","DIY"],
+        "tags": ["upcycling","recycled art","trash-to-treasure","eco-crafting"],
+        "url": "/categories/sustainable-crafting/recycled-materials/",
         "teaser": null
       },{
         "title": "Tags",
