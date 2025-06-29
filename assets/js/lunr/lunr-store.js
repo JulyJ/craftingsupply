@@ -5,6 +5,12 @@ var store = [{
         "url": "/categories/budget-crafting/",
         "teaser": null
       },{
+        "title": "Canadian-Made Materials",
+        "excerpt":"A directory of Canadian manufacturers producing craft materials domestically. 3D Printing Filaments Material Manufacturer Location Website PLA, ABS, Nylon Matter3D Inc. Victoria, BC matter3d.com PLA Filaments Canadian Filaments Canada canadianfilaments.ca PLA, PETG, Specialty Filaments Eureka Filaments Canada eurekafilaments.ca Laser Cutting Materials Material Manufacturer Location Website TruFlat Laser Plywood TruFlat Plywood...","categories": ["crafts","manufacturing","canada"],
+        "tags": ["craft-materials","canadian-made","3d-printing","resin","yarn","wood","local-suppliers","online-shops"],
+        "url": "/categories/canadian-made/",
+        "teaser": null
+      },{
         "title": "Best Budget Tools",
         "excerpt":"Essential Hand Tools for Every Crafter Cutting &amp; Precision Tools Tool Budget Option Price Range Where to Buy Quality Notes Craft Knife X-Acto Style Knife $3-8 Dollar stores, craft stores Replaceable blades essential Scissors - Paper Fiskars Basic $5-12 Department stores Sharp, comfortable grip Scissors - Fabric Generic 8” Shears...","categories": ["tools","budget","DIY","crafting"],
         "tags": ["budget-tools","affordable-crafting","DIY-tools","craft-supplies","tool-reviews"],
@@ -24,15 +30,9 @@ var store = [{
         "teaser": null
       },{
         "title": "Craft Business",
-        "excerpt":"Tips, resources, and stories for running a successful craft business.   Explore Craft Business Topics      Starting a Side Hustle  ","categories": [],
+        "excerpt":"Tips, resources, and stories for running a successful craft business.   Explore Craft Business Topics      Starting a Side Hustle   Craft Show Preparation   Online Selling Platforms   Photography for Crafters   Pricing Handmade Items  ","categories": [],
         "tags": [],
         "url": "/categories/business/",
-        "teaser": null
-      },{
-        "title": "Cricut & Cutting Machines Cheatsheet",
-        "excerpt":"Cutting Machine Types &amp; Brands Popular Machine Categories Machine Type Cutting Force Material Compatibility Price Range Best For Entry-Level Personal Light to medium Paper, vinyl, thin fabric $150-350 Hobby crafters, beginners Mid-Range Versatile Medium to heavy Wide material range $300-600 Serious crafters, small business Professional Multi-Tool Heavy duty Thick materials,...","categories": ["cutting-machines","cricut","cheatsheet","DIY","crafting","small-business"],
-        "tags": ["cricut","silhouette","cutting-machine","vinyl","crafting","personalization","small-business","design-space"],
-        "url": "/cheatsheets/cutting-machines/",
         "teaser": null
       },{
         "title": "Laser Cutting Cheatsheet",
@@ -57,24 +57,6 @@ var store = [{
         "excerpt":"Calligraphy Styles Overview Style Look &amp; Feel Tools Used Skill Level Common Uses Modern Script Loose, fluid, whimsical Brush pens, nibs Beginner+ Wedding invites, prints Copperplate Elegant, looping Pointed pen + ink Intermediate+ Envelopes, certificates Gothic / Blackletter Bold, angular Broad nib dip pens Intermediate Posters, logos Italic Slanted, legible...","categories": ["calligraphy","art","lettering","cheatsheet","tools","DIY","small-business"],
         "tags": ["calligraphy","hand-lettering","pens","dip-ink","brush","nibs","typography","design"],
         "url": "/cheatsheets/calligraphy-tools/",
-        "teaser": null
-      },{
-        "title": "Craft Cheatsheets",
-        "excerpt":"Browse Craft Cheatsheets: Category Cheatsheet Textile &amp; Fiber Arts Sewing Cheatsheet Quilting &amp; Patchwork Cheatsheet Embroidery &amp; Cross-Stitch Cheatsheet Embroidery Machines Cheatsheet Macramé &amp; Knotting Cheatsheet Surface &amp; Fine Arts Painting &amp; Art Supplies Cheatsheet Calligraphy &amp; Lettering Cheatsheet Foiling &amp; Embossing Cheatsheet Paper Crafting Cheatsheet Jewelry &amp; Metalwork Jewelry...","categories": [],
-        "tags": [],
-        "url": "/cheatsheets/",
-        "teaser": null
-      },{
-        "title": "Embroidery & Cross-Stitch Cheatsheet",
-        "excerpt":"Craft Type Comparison Craft Type Technique Fabric Type Best For Skill Level Embroidery Freeform stitching, decorative Cotton, linen, denim Custom motifs, text, florals All levels Cross-Stitch Grid-based X stitches Aida, evenweave Patterns, pixel art Beginner to intermediate Crewel Work Wool embroidery on linen Linen twill Textured, vintage designs Intermediate Blackwork...","categories": ["embroidery","cross-stitch","textile-art","cheatsheet","needlecraft","DIY","crafting"],
-        "tags": ["embroidery","cross-stitch","hoop art","floss","pattern","textile","handmade","DIY"],
-        "url": "/cheatsheets/embroidery-cross-stitch/",
-        "teaser": null
-      },{
-        "title": "Embroidery Machines Cheatsheet",
-        "excerpt":"Embroidery Machine Types Machine Type Hoop Size Features Best For Price Range Single-Needle 4x4”–6x10” Simple, entry-level Hobbyists, beginners $300–$1,200 Multi-Needle 5x7”–8x14”+ Multiple thread colours Small businesses $2,500–10,000 Sewing + Embroidery Combo 4x4”–6x10” Dual function Crafters, limited space $500–2,000 Commercial Machines 12x18”+ Industrial-grade High-volume business $10,000+ Brand Comparison Matrix Brand Popular...","categories": ["embroidery","machines","textile","cheatsheet","crafting","small-business"],
-        "tags": ["embroidery","embroidery-machine","applique","textile-crafting","monogramming","small-business"],
-        "url": "/cheatsheets/embroidery-machines/",
         "teaser": null
       },{
         "title": "Foiling & Embossing Cheatsheet",
@@ -179,16 +161,58 @@ var store = [{
         "url": "/categories/woodworking-tools/",
         "teaser": null
       },{
-        "title": "Craft Room Organization",
-        "excerpt":"Tips and inspiration for organizing your craft room, tools, and materials.   Explore Craft Room Organization Topics      Material Storage   Tool Storage   Small Space Organization   Large Studio Design  ","categories": [],
-        "tags": [],
-        "url": "/categories/craft-room/",
+        "title": "Craft Show Preparation: What to Pack, Bring, and Know",
+        "excerpt":"Craft Show Prep = 80% Planning, 20% Selling Markets and craft fairs are a powerful way to connect with customers, if you’re prepared. Here’s how to pack smart, show up ready, and sell with confidence. 📦 What to Pack: Master Checklist Category Essentials Product Full inventory, display items, extras Pricing...","categories": ["business","events","craft-fairs"],
+        "tags": ["craft fairs","market prep","craft booth","vendor checklist","craft sale tips"],
+        "url": "/business/craft-show-preparation/",
         "teaser": null
       },{
-        "title": "Canadian-Made Materials",
-        "excerpt":"A directory of Canadian manufacturers producing craft materials domestically. 3D Printing Filaments Material Manufacturer Location Website PLA, ABS, Nylon Matter3D Inc. Victoria, BC matter3d.com PLA Filaments Canadian Filaments Canada canadianfilaments.ca PLA, PETG, Specialty Filaments Eureka Filaments Canada eurekafilaments.ca Laser Cutting Materials Material Manufacturer Location Website TruFlat Laser Plywood TruFlat Plywood...","categories": ["crafts","manufacturing","canada"],
-        "tags": ["craft-materials","canadian-made","3d-printing","resin","yarn","wood","local-suppliers","online-shops"],
-        "url": "/categories/canadian-made/",
+        "title": "Best Online Selling Platforms for Makers & Crafters",
+        "excerpt":"Picking the Right Platform for Your Crafts Your craft deserves a storefront that works for you. Let’s break down the most popular online options for handmade sellers. Comparison: Top Platforms Platform Best For Pros Cons Etsy Beginners, marketplace sales Built-in traffic, easy to use Fees add up, high competition Shopify...","categories": ["business","ecommerce","online-selling"],
+        "tags": ["Etsy vs Shopify","handmade ecommerce","craft selling websites","online platforms","selling handmade"],
+        "url": "/business/online-selling-platforms/",
+        "teaser": null
+      },{
+        "title": "Photography for Crafters: How to Make Your Products Shine",
+        "excerpt":"Why Photos Matter So Much Your photo = your first impression. Online shoppers can’t touch or feel your work, so photography does the selling. A good photo: Shows scale and detail Tells a story Builds trust Encourages clicks Phone Camera? No Problem Today’s phone cameras are powerful. You don’t need...","categories": ["business","photography","product-listings"],
+        "tags": ["craft photography","DIY product photos","lightbox","flat lay","photo tips"],
+        "url": "/business/photography-for-crafters/",
+        "teaser": null
+      },{
+        "title": "Pricing Handmade Items: A Fair Formula That Works",
+        "excerpt":"Why Pricing Feels So Hard Underpricing is the #1 mistake new makers make. It’s tempting to price low to compete, but that usually leads to burnout. The goal is a price that covers: Your material costs Your time A fair profit margin Any fees or overhead The Maker Pricing Formula...","categories": ["business","pricing","handmade"],
+        "tags": ["handmade pricing","cost calculation","maker business","product pricing","profit margin"],
+        "url": "/business/pricing-handmade-items/",
+        "teaser": null
+      },{
+        "title": "Craft Cheatsheets",
+        "excerpt":"Browse Craft Cheatsheets: Category Cheatsheet Textile &amp; Fiber Arts Sewing Cheatsheet Quilting &amp; Patchwork Cheatsheet Embroidery &amp; Cross-Stitch Cheatsheet Embroidery Machines Cheatsheet Macramé &amp; Knotting Cheatsheet Surface &amp; Fine Arts Painting &amp; Art Supplies Cheatsheet Calligraphy &amp; Lettering Cheatsheet Foiling &amp; Embossing Cheatsheet Paper Crafting Cheatsheet Jewelry &amp; Metalwork Jewelry...","categories": [],
+        "tags": [],
+        "url": "/cheatsheets/",
+        "teaser": null
+      },{
+        "title": "Cricut & Cutting Machines Cheatsheet",
+        "excerpt":"Cutting Machine Types &amp; Brands Popular Machine Categories Machine Type Cutting Force Material Compatibility Price Range Best For Entry-Level Personal Light to medium Paper, vinyl, thin fabric $150-350 Hobby crafters, beginners Mid-Range Versatile Medium to heavy Wide material range $300-600 Serious crafters, small business Professional Multi-Tool Heavy duty Thick materials,...","categories": ["cutting-machines","cricut","cheatsheet","DIY","crafting","small-business"],
+        "tags": ["cricut","silhouette","cutting-machine","vinyl","crafting","personalization","small-business","design-space"],
+        "url": "/cheatsheets/cutting-machines/",
+        "teaser": null
+      },{
+        "title": "Embroidery & Cross-Stitch Cheatsheet",
+        "excerpt":"Craft Type Comparison Craft Type Technique Fabric Type Best For Skill Level Embroidery Freeform stitching, decorative Cotton, linen, denim Custom motifs, text, florals All levels Cross-Stitch Grid-based X stitches Aida, evenweave Patterns, pixel art Beginner to intermediate Crewel Work Wool embroidery on linen Linen twill Textured, vintage designs Intermediate Blackwork...","categories": ["embroidery","cross-stitch","textile-art","cheatsheet","needlecraft","DIY","crafting"],
+        "tags": ["embroidery","cross-stitch","hoop art","floss","pattern","textile","handmade","DIY"],
+        "url": "/cheatsheets/embroidery-cross-stitch/",
+        "teaser": null
+      },{
+        "title": "Embroidery Machines Cheatsheet",
+        "excerpt":"Embroidery Machine Types Machine Type Hoop Size Features Best For Price Range Single-Needle 4x4”–6x10” Simple, entry-level Hobbyists, beginners $300–$1,200 Multi-Needle 5x7”–8x14”+ Multiple thread colours Small businesses $2,500–10,000 Sewing + Embroidery Combo 4x4”–6x10” Dual function Crafters, limited space $500–2,000 Commercial Machines 12x18”+ Industrial-grade High-volume business $10,000+ Brand Comparison Matrix Brand Popular...","categories": ["embroidery","machines","textile","cheatsheet","crafting","small-business"],
+        "tags": ["embroidery","embroidery-machine","applique","textile-crafting","monogramming","small-business"],
+        "url": "/cheatsheets/embroidery-machines/",
+        "teaser": null
+      },{
+        "title": "Craft Room Organization",
+        "excerpt":"Tips and inspiration for organizing your craft room, tools, and materials.   Explore Craft Room Organization Topics      Material Storage   Tool Storage   Small Space Organization   Large Studio Design   Cutting Mats &amp; Surfaces   Lighting Solutions   Mobile Craft Carts  ","categories": [],
+        "tags": [],
+        "url": "/categories/craft-room/",
         "teaser": null
       },{
         "title": "Large Craft Studio Design",
@@ -213,6 +237,24 @@ var store = [{
         "excerpt":"Popular Tool Storage Types Storage Type Pros Best For Pegboard Wall Visual access, modular Scissors, rulers, small tools Drawer Cabinets Hidden clutter, stackable Glue, pens, accessories Tool Totes Portable, multi-pocket Shared spaces, on-the-go Rolling Carts Mobile, compact tiers Cricut tools, blades, paints Wall-Mounted Racks Space saving Frequently used hand tools...","categories": ["craft-room","tools","storage"],
         "tags": ["tool organization","pegboards","drawers","mobile carts","craft storage"],
         "url": "/categories/craft-room/tool-storage/",
+        "teaser": null
+      },{
+        "title": "Cutting Mats and Surfaces: Protect Your Tools and Your Table",
+        "excerpt":"Why Cutting Surfaces Matter A proper mat will: Protect your table Extend the life of your blades Improve your accuracy Make cleanup easier Save you from replacing tools early Self-Healing Mats: The Crafting Standard These mats are made with a flexible surface that “reseals” after cutting. They’re best for: Rotary...","categories": ["craft-room","tools","workspace"],
+        "tags": ["cutting mats","self-healing mats","rotary cutting","blade care","work surfaces"],
+        "url": "/craft-room/cutting-mats-and-surfaces/",
+        "teaser": null
+      },{
+        "title": "Lighting Solutions: Illuminate Your Craft Room Like a Pro",
+        "excerpt":"Why Lighting Matters in a Craft Room Poor lighting leads to: Eye strain and fatigue Colour mismatches Missed details Slower, less enjoyable crafting Whether you’re sewing, painting, cutting vinyl, or sculpting miniatures, the right lighting makes everything easier and more accurate. 3 Lighting Types Every Craft Room Needs Type Use...","categories": ["craft-room","tools","workspace"],
+        "tags": ["craft lighting","task lights","LED lights","workspace setup","eye strain"],
+        "url": "/craft-room/lighting-solutions/",
+        "teaser": null
+      },{
+        "title": "Mobile Craft Carts: Organize, Roll, and Create Anywhere",
+        "excerpt":"Why Mobile Carts Work for Crafters Rolling carts offer: Easy organization Portability between rooms Great for shared spaces Customizable layout Quick cleanup They’re especially helpful for: Cricut/vinyl cutting Miniatures &amp; model making Kids’ craft zones Small apartments or temporary spaces Best Types of Craft Carts Cart Style Pros Ideal For...","categories": ["craft-room","storage","organization"],
+        "tags": ["craft carts","mobile storage","small space solutions","rolling cart","modular storage"],
+        "url": "/craft-room/mobile-craft-carts/",
         "teaser": null
       },{
         "title": "Craft Supplies",
