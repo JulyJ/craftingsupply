@@ -16,7 +16,7 @@
 ## Accessibility
 
 - Use alt text for all images.
-- Ensure good color contrast and keyboard navigation.
+- Ensure good colour contrast and keyboard navigation.
 
 ## Social Sharing
 

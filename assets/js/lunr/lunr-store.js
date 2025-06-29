@@ -5,12 +5,6 @@ var store = [{
         "url": "/categories/budget-crafting/",
         "teaser": null
       },{
-        "title": "Canadian-Made Materials",
-        "excerpt":"A directory of Canadian manufacturers producing craft materials domestically. 3D Printing Filaments Material Manufacturer Location Website PLA, ABS, Nylon Matter3D Inc. Victoria, BC matter3d.com PLA Filaments Canadian Filaments Canada canadianfilaments.ca PLA, PETG, Specialty Filaments Eureka Filaments Canada eurekafilaments.ca Laser Cutting Materials Material Manufacturer Location Website TruFlat Laser Plywood TruFlat Plywood...","categories": ["crafts","manufacturing","canada"],
-        "tags": ["craft-materials","canadian-made","3d-printing","resin","yarn","wood","local-suppliers","online-shops"],
-        "url": "/categories/canadian-made/",
-        "teaser": null
-      },{
         "title": "Best Budget Tools",
         "excerpt":"Essential Hand Tools for Every Crafter Cutting &amp; Precision Tools Tool Budget Option Price Range Where to Buy Quality Notes Craft Knife X-Acto Style Knife $3-8 Dollar stores, craft stores Replaceable blades essential Scissors - Paper Fiskars Basic $5-12 Department stores Sharp, comfortable grip Scissors - Fabric Generic 8” Shears...","categories": ["tools","budget","DIY","crafting"],
         "tags": ["budget-tools","affordable-crafting","DIY-tools","craft-supplies","tool-reviews"],
@@ -24,7 +18,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Upcycled Projects",
-        "excerpt":"Common Items Perfect for Upcycling Furniture &amp; Large Items Original Item Condition Needed Upcycling Potential Skill Level Required Wooden Chairs Structurally sound Painted designs, reupholstered seats Beginner to Intermediate Dressers/Nightstands Drawers functional Color updates, hardware changes, decoupage Beginner to Advanced Bookcases Shelves intact Paint, wallpaper backing, built-ins Beginner to Intermediate...","categories": ["upcycling","DIY","sustainability"],
+        "excerpt":"Common Items Perfect for Upcycling Furniture &amp; Large Items Original Item Condition Needed Upcycling Potential Skill Level Required Wooden Chairs Structurally sound Painted designs, reupholstered seats Beginner to Intermediate Dressers/Nightstands Drawers functional Colour updates, hardware changes, decoupage Beginner to Advanced Bookcases Shelves intact Paint, wallpaper backing, built-ins Beginner to Intermediate...","categories": ["upcycling","DIY","sustainability"],
         "tags": ["upcycling","repurpose","eco-friendly","DIY","sustainability","crafts"],
         "url": "/categories/upcycling/",
         "teaser": null
@@ -78,7 +72,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Embroidery Machines Cheatsheet",
-        "excerpt":"Embroidery Machine Types Machine Type Hoop Size Features Best For Price Range Single-Needle 4x4”–6x10” Simple, entry-level Hobbyists, beginners $300–$1,200 Multi-Needle 5x7”–8x14”+ Multiple thread colors Small businesses $2,500–10,000 Sewing + Embroidery Combo 4x4”–6x10” Dual function Crafters, limited space $500–2,000 Commercial Machines 12x18”+ Industrial-grade High-volume business $10,000+ Brand Comparison Matrix Brand Popular...","categories": ["embroidery","machines","textile","cheatsheet","crafting","small-business"],
+        "excerpt":"Embroidery Machine Types Machine Type Hoop Size Features Best For Price Range Single-Needle 4x4”–6x10” Simple, entry-level Hobbyists, beginners $300–$1,200 Multi-Needle 5x7”–8x14”+ Multiple thread colours Small businesses $2,500–10,000 Sewing + Embroidery Combo 4x4”–6x10” Dual function Crafters, limited space $500–2,000 Commercial Machines 12x18”+ Industrial-grade High-volume business $10,000+ Brand Comparison Matrix Brand Popular...","categories": ["embroidery","machines","textile","cheatsheet","crafting","small-business"],
         "tags": ["embroidery","embroidery-machine","applique","textile-crafting","monogramming","small-business"],
         "url": "/cheatsheets/embroidery-machines/",
         "teaser": null
@@ -132,8 +126,8 @@ var store = [{
         "teaser": null
       },{
         "title": "Painting & Art Supplies Cheatsheet",
-        "excerpt":"Types of Paint Paint Type Base Drying Time Surface Compatibility Skill Level Notes Acrylic Water-based Fast (5–30 mins) Canvas, wood, paper, fabric ⭐⭐ Versatile, beginner-friendly Watercolor Water-based Very fast (5–15 mins) Watercolor paper ⭐ Transparent layers Gouache Water-based Medium (15–45 mins) Paper, wood ⭐⭐ Matte, vibrant, reactivates Oil Oil-based Slow...","categories": ["art","painting","supplies","cheatsheet","DIY","crafting","small-business"],
-        "tags": ["painting","acrylic","watercolor","canvas","brushes","art-supplies","mixed-media","small-business"],
+        "excerpt":"Types of Paint Paint Type Base Drying Time Surface Compatibility Skill Level Notes Acrylic Water-based Fast (5–30 mins) Canvas, wood, paper, fabric ⭐⭐ Versatile, beginner-friendly Watercolour Water-based Very fast (5–15 mins) Watercolour paper ⭐ Transparent layers Gouache Water-based Medium (15–45 mins) Paper, wood ⭐⭐ Matte, vibrant, reactivates Oil Oil-based Slow...","categories": ["art","painting","supplies","cheatsheet","DIY","crafting","small-business"],
+        "tags": ["painting","acrylic","watercolour","canvas","brushes","art-supplies","mixed-media","small-business"],
         "url": "/cheatsheets/painting-art-supplies/",
         "teaser": null
       },{
@@ -189,6 +183,12 @@ var store = [{
         "excerpt":"Tips and inspiration for organizing your craft room, tools, and materials.   Explore Craft Room Organization Topics      Material Storage   Tool Storage   Small Space Organization   Large Studio Design  ","categories": [],
         "tags": [],
         "url": "/categories/craft-room/",
+        "teaser": null
+      },{
+        "title": "Canadian-Made Materials",
+        "excerpt":"A directory of Canadian manufacturers producing craft materials domestically. 3D Printing Filaments Material Manufacturer Location Website PLA, ABS, Nylon Matter3D Inc. Victoria, BC matter3d.com PLA Filaments Canadian Filaments Canada canadianfilaments.ca PLA, PETG, Specialty Filaments Eureka Filaments Canada eurekafilaments.ca Laser Cutting Materials Material Manufacturer Location Website TruFlat Laser Plywood TruFlat Plywood...","categories": ["crafts","manufacturing","canada"],
+        "tags": ["craft-materials","canadian-made","3d-printing","resin","yarn","wood","local-suppliers","online-shops"],
+        "url": "/categories/canadian-made/",
         "teaser": null
       },{
         "title": "Large Craft Studio Design",
@@ -281,6 +281,78 @@ var store = [{
         "url": "/tags/",
         "teaser": null
       },{
+        "title": "Advanced Craft Techniques",
+        "excerpt":"Readiness Assessment: Are You Ready for Advanced Techniques? Prerequisite Skills Checklist Craft Category Basic Skills Required Tool Proficiency Project Experience Woodworking Safe power tool use, measuring accuracy Table saw, router, jointer 10+ completed projects Metalworking Soldering, basic welding Torch work, precision files 5+ metal projects Textiles Machine sewing, pattern alteration...","categories": ["advanced-crafts","skill-building","techniques","professional-crafting"],
+        "tags": ["advanced-techniques","professional-crafts","expert-skills","complex-projects","mastery","specialized-tools"],
+        "url": "/skill-building/advanced-techniques/",
+        "teaser": null
+      },{
+        "title": "Beginner-Friendly Craft Projects",
+        "excerpt":"How to Choose Your First Project Success Factors for Beginners Factor Why It Matters What to Look For Low Tool Requirements Reduces initial investment Projects using basic household items Forgiving Materials Mistakes are easily corrected Fabric, paper, yarn vs. leather, metal Quick Results Builds confidence and momentum Completable in 1-3...","categories": ["beginner-crafts","skill-building","DIY","tutorials"],
+        "tags": ["beginner","easy-crafts","starter-projects","DIY","tutorials","first-time-crafter","simple-projects"],
+        "url": "/skill-building/beginner-friendly-projects/",
+        "teaser": null
+      },{
+        "title": "Cross-Craft Skills: Transferable Techniques Across Crafts",
+        "excerpt":"Universal Craft Skills: The Foundation Core Skills That Transfer Everywhere Skill Category Applications Learning Investment Payoff Multiplier Essential Tools Precision Measurement All crafts requiring accuracy 2-4 weeks 10x Rulers, calipers, squares colour Theory Any visual craft 1-2 months 8x colour wheel, samples Spatial Visualization 3D projects, patterns 3-6 months 6x...","categories": ["skill-building","cross-craft","techniques","versatile-skills"],
+        "tags": ["transferable-skills","multi-craft","versatile-techniques","skill-transfer","craft-crossover","universal-skills"],
+        "url": "/skill-building/cross-craft-skills/",
+        "teaser": null
+      },{
+        "title": "Adhesive Know-How: Choosing the Right Glue for Every Craft",
+        "excerpt":"Why Adhesive Knowledge Matters Glue may seem simple, but the wrong choice can mean peeled edges, warped materials, or sticky disasters. Different crafts require different bonding strengths, flexibility, drying times, and finishes. Knowing which adhesive to use, and how to apply it, can make the difference between a project that...","categories": ["skill-building","adhesives","fundamentals","materials"],
+        "tags": ["glue-guide","bonding-techniques","craft-adhesives","material-matching","glue-types","clean-assembly"],
+        "url": "/skill-building/adhesive-know-how/",
+        "teaser": null
+      },{
+        "title": "Colour Confidence: How to Build Beautiful Palettes for Any Project",
+        "excerpt":"Why Colour Confidence Matters colour is one of the most powerful design tools in your creative toolbox. The right palette can create emotion, balance, and visual impact. The wrong one? It can feel chaotic, dull, or simply “off.” Whether you’re choosing paper for a card, vinyl for a sign, or...","categories": ["skill-building","design-principles","colour-theory"],
+        "tags": ["colour-palettes","colour-theory","colour-matching","crafting-design","colour-harmony","palette-building"],
+        "url": "/skill-building/colour-confidence/",
+        "teaser": null
+      },{
+        "title": "Cutting Mastery: Precision Tips for All Materials",
+        "excerpt":"Why Cutting Skill Matters Whether you’re working with delicate paper, tough leather, or rigid acrylic, cutting is one of the most fundamental, and unforgiving, craft skills. A clean cut can elevate a project; a jagged or off-mark cut can ruin hours of work. Precision cutting isn’t about speed, it’s about...","categories": ["skill-building","cutting","fundamentals","precision"],
+        "tags": ["cutting-tips","sharp-tools","craft-accuracy","material-handling","cutting-techniques","clean-edges"],
+        "url": "/skill-building/cutting-mastery/",
+        "teaser": null
+      },{
+        "title": "Miniatures and Model Practice: How to Get Better at Tiny Details",
+        "excerpt":"Why Tiny Details Make a Big Difference Whether you’re building dollhouse furniture, tabletop gaming terrain, or scale-model props, the magic is in the details. Those precise stitches, paint strokes, and micro-elements are what elevate miniatures from “cute” to astonishingly realistic. But tiny detail work is a skill, and you can...","categories": ["skill-building","miniatures","fine-detail"],
+        "tags": ["miniatures","fine-detail-work","model-making","tiny-craft","practice-tips","painting-miniatures","scale-crafting"],
+        "url": "/skill-building/miniatures-tiny-details/",
+        "teaser": null
+      },{
+        "title": "Practice Exercises: Build Crafting Mastery One Step at a Time",
+        "excerpt":"Why Practice Exercises Matter Practicing isn’t just for beginners. Every great crafter, from hobbyists to pros, benefits from routine skill workouts. Purposeful repetition builds muscle memory, sharpens technique, and prevents costly errors. These exercises can be tailored to any craft, whether you’re wielding a paintbrush, rotary cutter, or soldering iron....","categories": ["skill-building","practice","exercises","hands-on"],
+        "tags": ["craft drills","repetition","technique-building","practice-routines","craft-fundamentals","skill-mastery"],
+        "url": "/skill-building/practice-exercises/",
+        "teaser": null
+      },{
+        "title": "Creative Block? Practice Routines to Reignite Inspiration",
+        "excerpt":"When Inspiration Stalls Even the most passionate crafters hit walls. Projects sit half-finished. Materials gather dust. The ideas won’t come. Creative block isn’t laziness, it’s part of the process. But when it sticks around too long, it helps to have gentle routines designed to spark motion without pressure. Why Practice...","categories": ["skill-building","creative-habits","motivation"],
+        "tags": ["creative-block","routines","daily-practice","creative-habits","artistic-slumps","inspiration-techniques"],
+        "url": "/skill-building/practice-to-reignite-inspiration/",
+        "teaser": null
+      },{
+        "title": "Understanding Scale & Proportion in Craft Design",
+        "excerpt":"Why Scale &amp; Proportion Matter in Craft Design Good design isn’t just about colour or texture, it’s about how all parts relate to each other in size and balance. Scale and proportion help create realism, harmony, and functionality in every kind of craft. From dollhouses to wall art, jewelry to...","categories": ["skill-building","design-principles","fundamentals"],
+        "tags": ["scale","proportion","design","craft-planning","visual-balance","layout-techniques"],
+        "url": "/skill-building/scale-and-proportion/",
+        "teaser": null
+      },{
+        "title": "Skill Building: Improve Your Crafting Skills",
+        "excerpt":"Article Title Description Adhesive Know-How Tips and tricks for using adhesives in crafting. Advanced Techniques Take your skills to the next level with advanced methods. Beginner Friendly Projects Easy projects to get you started. Colour Confidence Master colour theory and application. Cross-Craft Skills Skills that apply across multiple crafts. Cutting...","categories": ["skill-building","fundamentals"],
+        "tags": ["crafting","skill-building","practice","learning","improvement","techniques"],
+        "url": "/skill-building/",
+        "teaser": null
+      },{
+        "title": "Track Your Crafting Progress: Journals, Logs, and Practice Sheets",
+        "excerpt":"Why Tracking Helps You Improve Faster Your brain forgets what your journal remembers. Logging your craft practice turns random creativity into measurable growth. Whether you’re painting miniatures, sewing garments, crafting stickers, or working with vinyl, keeping track of what you make, and how you made it, can: Build consistency Reveal...","categories": ["skill-building","organization","practice"],
+        "tags": ["craft journals","progress tracking","practice logs","creative routine","improvement tools","habit building"],
+        "url": "/skill-building/track-your-crafting-progress/",
+        "teaser": null
+      },{
         "title": "3D Pen Crafting",
         "excerpt":"← Back to Specialty Craft Categories Material Usage 3D Pen Handheld device that extrudes heated filament PLA Filament Safe, low-temperature 3D pen material ABS Filament Higher temperature, more durable option Flexible Filament Bendable, rubber-like 3D pen material Drawing Templates Guide shapes for consistent results Finger Cots Protect fingers from hot...","categories": [],
         "tags": [],
@@ -306,7 +378,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Batik & Tie-Dye",
-        "excerpt":"← Back to Specialty Craft Categories Material Usage Fabric Dyes Permanent colors for fabric dyeing Wax Resist Create patterns in batik technique Tjanting Tool Apply liquid wax in fine lines Rubber Bands Create tie-dye patterns Soda Ash Prepare fabric for fiber reactive dyes Salt Modifier for certain dye effects Rubber...","categories": [],
+        "excerpt":"← Back to Specialty Craft Categories Material Usage Fabric Dyes Permanent colours for fabric dyeing Wax Resist Create patterns in batik technique Tjanting Tool Apply liquid wax in fine lines Rubber Bands Create tie-dye patterns Soda Ash Prepare fabric for fiber reactive dyes Salt Modifier for certain dye effects Rubber...","categories": [],
         "tags": [],
         "url": "/categories/specialty-supplies/batik-tie-dye/",
         "teaser": null
@@ -342,7 +414,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Concrete Crafting",
-        "excerpt":"← Back to Specialty Craft Categories Material Usage Portland Cement Basic concrete crafting material Concrete Mix Pre-blended concrete for projects Silicone Molds Create shaped concrete objects Release Agent Prevent sticking in molds Concrete Colorant Add color throughout mixture Concrete Sealer Protect finished concrete items Fiber Mesh Reinforce concrete structures Plastic...","categories": [],
+        "excerpt":"← Back to Specialty Craft Categories Material Usage Portland Cement Basic concrete crafting material Concrete Mix Pre-blended concrete for projects Silicone Molds Create shaped concrete objects Release Agent Prevent sticking in molds Concrete Colourant Add colour throughout mixture Concrete Sealer Protect finished concrete items Fiber Mesh Reinforce concrete structures Plastic...","categories": [],
         "tags": [],
         "url": "/categories/specialty-supplies/concrete-crafting/",
         "teaser": null
@@ -366,13 +438,13 @@ var store = [{
         "teaser": null
       },{
         "title": "Dyeing Yarn/Fabric",
-        "excerpt":"← Back to Specialty Craft Categories Material Usage Acid Dyes Protein fibers (wool, silk) Fiber Reactive Dyes Cellulose fibers (cotton, linen) Natural Dye Materials Plants, insects, minerals for color Mordants Help dyes bond permanently to fiber pH Strips Test acidity of dye baths Thermometer Monitor dye bath temperatures Stainless Steel...","categories": [],
+        "excerpt":"← Back to Specialty Craft Categories Material Usage Acid Dyes Protein fibers (wool, silk) Fiber Reactive Dyes Cellulose fibers (cotton, linen) Natural Dye Materials Plants, insects, minerals for colour Mordants Help dyes bond permanently to fiber pH Strips Test acidity of dye baths Thermometer Monitor dye bath temperatures Stainless Steel...","categories": [],
         "tags": [],
         "url": "/categories/specialty-supplies/dyeing-yarn-fabric/",
         "teaser": null
       },{
         "title": "Embroidery & Cross Stitch",
-        "excerpt":"← Back to Specialty Craft Categories Material Usage Embroidery Floss Cotton thread in hundreds of colors Pearl Cotton Thicker, lustrous embroidery thread Metallic Threads Add sparkle and shine to designs Aida Cloth Even-weave fabric for cross stitch Linen Fabric Traditional fabric for fine embroidery Embroidery Hoops Keep fabric taut while...","categories": [],
+        "excerpt":"← Back to Specialty Craft Categories Material Usage Embroidery Floss Cotton thread in hundreds of colours Pearl Cotton Thicker, lustrous embroidery thread Metallic Threads Add sparkle and shine to designs Aida Cloth Even-weave fabric for cross stitch Linen Fabric Traditional fabric for fine embroidery Embroidery Hoops Keep fabric taut while...","categories": [],
         "tags": [],
         "url": "/categories/specialty-supplies/embroidery-cross-stitch/",
         "teaser": null
@@ -396,13 +468,13 @@ var store = [{
         "teaser": null
       },{
         "title": "Garden Art & Sculptures",
-        "excerpt":"← Back to Specialty Craft Categories Material Usage Weather-resistant Materials Outdoor durability for garden art Rebar Structural support for large sculptures Outdoor Paint UV-resistant coloring Stainless Steel Wire Rust-resistant armature material Garden Stakes Support and anchor art pieces Outdoor Adhesives Weather-resistant bonding Protective Coatings Extend life of garden art Natural...","categories": [],
+        "excerpt":"← Back to Specialty Craft Categories Material Usage Weather-resistant Materials Outdoor durability for garden art Rebar Structural support for large sculptures Outdoor Paint UV-resistant colouring Stainless Steel Wire Rust-resistant armature material Garden Stakes Support and anchor art pieces Outdoor Adhesives Weather-resistant bonding Protective Coatings Extend life of garden art Natural...","categories": [],
         "tags": [],
         "url": "/categories/specialty-supplies/garden-art-sculptures/",
         "teaser": null
       },{
         "title": "Glass Art & Stained Glass",
-        "excerpt":"← Back to Specialty Craft Categories Material Usage Sheet Glass Base material for cutting and shaping Cathedral Glass Textured, translucent colored glass Opalescent Glass Partially opaque with color variations Lead Came Traditional framework for stained glass Copper Foil Tiffany technique for detailed work Soldering Iron Join foil and lead came...","categories": [],
+        "excerpt":"← Back to Specialty Craft Categories Material Usage Sheet Glass Base material for cutting and shaping Cathedral Glass Textured, translucent coloured glass Opalescent Glass Partially opaque with colour variations Lead Came Traditional framework for stained glass Copper Foil Tiffany technique for detailed work Soldering Iron Join foil and lead came...","categories": [],
         "tags": [],
         "url": "/categories/specialty-supplies/glass-art-stained-glass/",
         "teaser": null
@@ -414,7 +486,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Holiday Ornament Crafting",
-        "excerpt":"← Back to Specialty Craft Categories Material Usage Clear Glass Ornaments Fillable bases for custom designs Ornament Caps Metal tops with hanging loops Glitter Sparkly interior decorations Acrylic Paint Color glass and other surfaces Ribbon Hanging loops and decorative bows Miniature Elements Tiny decorations for inside ornaments Polymer Clay Custom-shaped...","categories": [],
+        "excerpt":"← Back to Specialty Craft Categories Material Usage Clear Glass Ornaments Fillable bases for custom designs Ornament Caps Metal tops with hanging loops Glitter Sparkly interior decorations Acrylic Paint Colour glass and other surfaces Ribbon Hanging loops and decorative bows Miniature Elements Tiny decorations for inside ornaments Polymer Clay Custom-shaped...","categories": [],
         "tags": [],
         "url": "/categories/specialty-supplies/holiday-ornament-crafting/",
         "teaser": null
@@ -438,7 +510,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Leather Working",
-        "excerpt":"← Back to Specialty Craft Categories Material Usage Vegetable Tanned Leather Toolable leather for carved designs Chrome Tanned Leather Soft, flexible leather for garments Leather Dye Permanent coloring for natural leather Leather Finish Protective coating and sheen Leather Needles Heavy-duty needles for thick materials Waxed Thread Strong, weather-resistant stitching Leather...","categories": [],
+        "excerpt":"← Back to Specialty Craft Categories Material Usage Vegetable Tanned Leather Toolable leather for carved designs Chrome Tanned Leather Soft, flexible leather for garments Leather Dye Permanent colouring for natural leather Leather Finish Protective coating and sheen Leather Needles Heavy-duty needles for thick materials Waxed Thread Strong, weather-resistant stitching Leather...","categories": [],
         "tags": [],
         "url": "/categories/specialty-supplies/leather-working/",
         "teaser": null
@@ -468,7 +540,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Mosaic Art",
-        "excerpt":"← Back to Specialty Craft Categories Material Usage Glass Tiles Pre-cut colored glass pieces Ceramic Tiles Durable, varied surface options Stone Pieces Natural materials for organic looks Tile Nippers Cut tiles to desired shapes Mosaic Adhesive Attach tiles to base surfaces Grout Fill spaces between tiles Grout Float Spread grout...","categories": [],
+        "excerpt":"← Back to Specialty Craft Categories Material Usage Glass Tiles Pre-cut coloured glass pieces Ceramic Tiles Durable, varied surface options Stone Pieces Natural materials for organic looks Tile Nippers Cut tiles to desired shapes Mosaic Adhesive Attach tiles to base surfaces Grout Fill spaces between tiles Grout Float Spread grout...","categories": [],
         "tags": [],
         "url": "/categories/specialty-supplies/mosaic-art/",
         "teaser": null
@@ -480,13 +552,13 @@ var store = [{
         "teaser": null
       },{
         "title": "Origami",
-        "excerpt":"← Back to Specialty Craft Categories Material Usage Origami Paper (Kami) Standard thin paper in various colors Washi Paper Traditional Japanese handmade paper Foil Paper Metallic finish, holds creases well Duo Paper Different colors on each side Patterned Origami Paper Decorative designs and textures Tissue Foil Ultra-thin for complex models...","categories": [],
+        "excerpt":"← Back to Specialty Craft Categories Material Usage Origami Paper (Kami) Standard thin paper in various colours Washi Paper Traditional Japanese handmade paper Foil Paper Metallic finish, holds creases well Duo Paper Different colours on each side Patterned Origami Paper Decorative designs and textures Tissue Foil Ultra-thin for complex models...","categories": [],
         "tags": [],
         "url": "/categories/specialty-supplies/origami/",
         "teaser": null
       },{
         "title": "Painting & Fine Arts",
-        "excerpt":"← Back to Specialty Craft Categories Material Usage Acrylic Paint Versatile, water-based, quick drying Oil Paint Traditional, slow drying, blendable Watercolor Paint Transparent, water-based, luminous effects Gouache Paint Opaque watercolor with matte finish Canvas Boards Affordable painting surface for practice Stretched Canvas Professional painting surface, various sizes Watercolor Paper Textured...","categories": [],
+        "excerpt":"← Back to Specialty Craft Categories Material Usage Acrylic Paint Versatile, water-based, quick drying Oil Paint Traditional, slow drying, blendable Watercolour Paint Transparent, water-based, luminous effects Gouache Paint Opaque watercolour with matte finish Canvas Boards Affordable painting surface for practice Stretched Canvas Professional painting surface, various sizes Watercolour Paper Textured...","categories": [],
         "tags": [],
         "url": "/categories/specialty-supplies/painting-fine-arts/",
         "teaser": null
@@ -504,7 +576,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Polymer Clay & Sculpting",
-        "excerpt":"← Back to Specialty Craft Categories Material Usage Sculpey Premo Professional-grade polymer clay with strength Fimo Professional European clay for precise color mixing Super Sculpey Flesh-toned clay for figurines Liquid Sculpey Adhesive and transfer medium Pasta Machine Clay conditioning and sheet rolling Texture Plates Create consistent surface patterns Ball Tools...","categories": [],
+        "excerpt":"← Back to Specialty Craft Categories Material Usage Sculpey Premo Professional-grade polymer clay with strength Fimo Professional European clay for precise colour mixing Super Sculpey Flesh-toned clay for figurines Liquid Sculpey Adhesive and transfer medium Pasta Machine Clay conditioning and sheet rolling Texture Plates Create consistent surface patterns Ball Tools...","categories": [],
         "tags": [],
         "url": "/categories/specialty-supplies/polymer-clay-sculpting/",
         "teaser": null
@@ -516,7 +588,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Pyrography (Wood Burning)",
-        "excerpt":"← Back to Specialty Craft Categories Material Usage Wood Burning Pen Heated tool for burning designs Interchangeable Tips Different shapes for various effects Basswood Panels Soft wood ideal for burning Carbon Paper Transfer designs to wood Fine Sandpaper Smooth wood surface before burning Wood Stain Enhance burned designs with color...","categories": [],
+        "excerpt":"← Back to Specialty Craft Categories Material Usage Wood Burning Pen Heated tool for burning designs Interchangeable Tips Different shapes for various effects Basswood Panels Soft wood ideal for burning Carbon Paper Transfer designs to wood Fine Sandpaper Smooth wood surface before burning Wood Stain Enhance burned designs with colour...","categories": [],
         "tags": [],
         "url": "/categories/specialty-supplies/pyrography-wood-burning/",
         "teaser": null
@@ -528,7 +600,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Resin Arts & Epoxy Crafts",
-        "excerpt":"← Back to Specialty Craft Categories Material Usage Epoxy Resin Thick pours, coasters, jewelry making UV Resin Small projects, quick curing under UV light Deep Pour Resin Thick castings without overheating Fast-Cure Resin Rapid project completion Alcohol Inks Fluid, organic color patterns Resin Pigments Concentrated colorants for resin Pearl Powders...","categories": [],
+        "excerpt":"← Back to Specialty Craft Categories Material Usage Epoxy Resin Thick pours, coasters, jewelry making UV Resin Small projects, quick curing under UV light Deep Pour Resin Thick castings without overheating Fast-Cure Resin Rapid project completion Alcohol Inks Fluid, organic colour patterns Resin Pigments Concentrated colourants for resin Pearl Powders...","categories": [],
         "tags": [],
         "url": "/categories/specialty-supplies/resin-arts-epoxy-crafts/",
         "teaser": null
@@ -594,7 +666,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Vinyl Cutting",
-        "excerpt":"← Back to Specialty Craft Categories Material Usage Adhesive Vinyl Permanent decals for cars, walls, glass Removable Vinyl Temporary decorations, easy removal Heat Transfer Vinyl (HTV) Iron-on designs for fabric and clothing Holographic Vinyl Shimmery, color-changing effects Glitter Vinyl Sparkly finish for special projects Cutting Mats Sticky surface to hold...","categories": [],
+        "excerpt":"← Back to Specialty Craft Categories Material Usage Adhesive Vinyl Permanent decals for cars, walls, glass Removable Vinyl Temporary decorations, easy removal Heat Transfer Vinyl (HTV) Iron-on designs for fabric and clothing Holographic Vinyl Shimmery, colour-changing effects Glitter Vinyl Sparkly finish for special projects Cutting Mats Sticky surface to hold...","categories": [],
         "tags": [],
         "url": "/categories/specialty-supplies/vinyl-cutting/",
         "teaser": null
@@ -636,7 +708,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Natural Dyes & Materials",
-        "excerpt":"Common Natural Dye Sources Dye Source Color Range Prep Red Onion Skins Purple, pink Simmer in water Avocado Pits &amp; Skins Blush, dusty pink Clean and boil Turmeric Bright yellow Use caution, stains easily Black Beans Grey to blue Soak, don’t boil Red Cabbage Purple to green (pH sensitive) Simmer...","categories": ["sustainable-crafting","natural-dyeing","textile-art"],
+        "excerpt":"Common Natural Dye Sources Dye Source Colour Range Prep Red Onion Skins Purple, pink Simmer in water Avocado Pits &amp; Skins Blush, dusty pink Clean and boil Turmeric Bright yellow Use caution, stains easily Black Beans Grey to blue Soak, don’t boil Red Cabbage Purple to green (pH sensitive) Simmer...","categories": ["sustainable-crafting","natural-dyeing","textile-art"],
         "tags": ["natural dyes","botanical","fabric dye","mordants","eco print"],
         "url": "/categories/sustainable-crafting/natural-dyes/",
         "teaser": null
