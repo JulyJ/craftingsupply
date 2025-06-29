@@ -35,6 +35,18 @@ var store = [{
         "url": "/categories/business/",
         "teaser": null
       },{
+        "title": "Splurge or Save",
+        "excerpt":"The Investment Decision Framework Factors That Determine Spending Strategy Decision Factor Splurge Indicators Save Indicators Weight in Decision Usage Frequency Daily/weekly use Occasional projects High Project Impact Affects final quality significantly Minimal quality difference High Durability Needs Heavy use, professional demands Light use, temporary projects Medium Learning Curve Skill development...","categories": ["budgeting","crafting","tools","supplies"],
+        "tags": ["budget-crafting","tool-investment","craft-supplies","spending-guide","value-crafting"],
+        "url": "/categories/splurge-vs-save/",
+        "teaser": null
+      },{
+        "title": "Cricut & Cutting Machines Cheatsheet",
+        "excerpt":"Cutting Machine Types &amp; Brands Popular Machine Categories Machine Type Cutting Force Material Compatibility Price Range Best For Entry-Level Personal Light to medium Paper, vinyl, thin fabric $150-350 Hobby crafters, beginners Mid-Range Versatile Medium to heavy Wide material range $300-600 Serious crafters, small business Professional Multi-Tool Heavy duty Thick materials,...","categories": ["cutting-machines","cricut","cheatsheet","DIY","crafting","small-business"],
+        "tags": ["cricut","silhouette","cutting-machine","vinyl","crafting","personalization","small-business","design-space"],
+        "url": "/cheatsheets/cutting-machines/",
+        "teaser": null
+      },{
         "title": "Laser Cutting Cheatsheet",
         "excerpt":"Laser Cutter Types &amp; Technologies Desktop vs. Professional Models Machine Category Work Area Size Power Range Price Range Best For Entry-Level Desktop 8” x 12” to 12” x 20” 5-15W diode $200-800 Hobby projects, learning Mid-Range Desktop 16” x 24” to 20” x 28” 40-60W CO2 $2,000-6,000 Small business, prototyping...","categories": ["laser-cutting","cheatsheet","DIY","technology","small-business"],
         "tags": ["laser-cutter","precision-cutting","engraving","crafting","maker","small-business","digital-fabrication"],
@@ -57,18 +69,6 @@ var store = [{
         "excerpt":"Calligraphy Styles Overview Style Look &amp; Feel Tools Used Skill Level Common Uses Modern Script Loose, fluid, whimsical Brush pens, nibs Beginner+ Wedding invites, prints Copperplate Elegant, looping Pointed pen + ink Intermediate+ Envelopes, certificates Gothic / Blackletter Bold, angular Broad nib dip pens Intermediate Posters, logos Italic Slanted, legible...","categories": ["calligraphy","art","lettering","cheatsheet","tools","DIY","small-business"],
         "tags": ["calligraphy","hand-lettering","pens","dip-ink","brush","nibs","typography","design"],
         "url": "/cheatsheets/calligraphy-tools/",
-        "teaser": null
-      },{
-        "title": "Foiling & Embossing Cheatsheet",
-        "excerpt":"Key Techniques Overview Technique Description Tools Needed Best For Heat Embossing Powder melted with heat gun creates raised design Embossing powder, heat gun, embossing ink Cards, invitations, tags Cold Foiling Foil applied via adhesive and pressure without heat Foil sheets, laminator or press, adhesive Large prints, commercial Hot Foiling (Foil...","categories": ["foiling","embossing","cheatsheet","crafting","DIY","small-business"],
-        "tags": ["foiling","embossing","heat foil","cold foil","embossing powders","crafting","personalization"],
-        "url": "/cheatsheets/foiling-embossing/",
-        "teaser": null
-      },{
-        "title": "Foiling & Embossing Cheatsheet",
-        "excerpt":"Key Techniques Overview Technique Description Tools Needed Best For Heat Embossing Powder melted with heat gun creates raised design Embossing powder, heat gun, embossing ink Cards, invitations, tags Cold Foiling Foil applied via adhesive and pressure without heat Foil sheets, laminator or press, adhesive Large prints, commercial Hot Foiling (Foil...","categories": ["foiling","embossing","cheatsheet","crafting","DIY","small-business"],
-        "tags": ["foiling","embossing","heat foil","cold foil","embossing powders","crafting","personalization"],
-        "url": "/cheatsheets/foiling-embossing/",
         "teaser": null
       },{
         "title": "Heat Transfer Vinyl Cheatsheet",
@@ -161,6 +161,48 @@ var store = [{
         "url": "/categories/woodworking-tools/",
         "teaser": null
       },{
+        "title": "Large Craft Studio Design",
+        "excerpt":"Essential Crafting Zones Zone Purpose Key Items Work Zone Main task space Table, chair, tools Prep Zone Cutting, measuring, material sorting Mats, blades, rulers Finishing Zone Painting, gluing, assembling Drying racks, press Storage Zone Supply organization Cabinets, bins Shipping &amp; Photography Online sales support Lights, backdrop, scale Workflow Layout Tips...","categories": ["craft-room","workspace","studio"],
+        "tags": ["craft studio","creative zones","large workspace","craft layout","safety"],
+        "url": "/categories/craft-room/large-studio-design/",
+        "teaser": null
+      },{
+        "title": "Material Storage Solutions",
+        "excerpt":"Common Material Categories &amp; Tips Material Ideal Storage Key Notes Paper/Cardstock Vertical files, clear bins Humidity controlled Vinyl Sheets Hanging folders, tubes Avoid curling, UV exposure Fabric Rolled on boards, drawers Away from direct sun Paints &amp; Inks Airtight containers Cool, dark, upright storage Resin/Epoxy Original containers, low temp Stable...","categories": ["craft-room","storage","supplies"],
+        "tags": ["material storage","inventory","climate control","supply organization"],
+        "url": "/categories/craft-room/material-storage/",
+        "teaser": null
+      },{
+        "title": "Small Space Craft Organization",
+        "excerpt":"Small Space Must-Haves Solution Description Ideal For Vertical Shelving Tall units for bins, boxes, tools Supplies, paper, paints Fold-Down Desks Wall-mounted, compact Cricut, sketching, writing Rolling Carts Mobile storage and surfaces Daily-use tools, vinyl rolls Stackable Bins Maximize vertical cubbies Buttons, beads, yarn Wall Pegboards Tool and scissors display High-traffic...","categories": ["craft-room","organization","small-spaces"],
+        "tags": ["craft-room","small-space","organizing","storage","mobile-crafting","vertical-storage"],
+        "url": "/categories/craft-room/small-space-organization/",
+        "teaser": null
+      },{
+        "title": "Tool Storage Systems",
+        "excerpt":"Popular Tool Storage Types Storage Type Pros Best For Pegboard Wall Visual access, modular Scissors, rulers, small tools Drawer Cabinets Hidden clutter, stackable Glue, pens, accessories Tool Totes Portable, multi-pocket Shared spaces, on-the-go Rolling Carts Mobile, compact tiers Cricut tools, blades, paints Wall-Mounted Racks Space saving Frequently used hand tools...","categories": ["craft-room","tools","storage"],
+        "tags": ["tool organization","pegboards","drawers","mobile carts","craft storage"],
+        "url": "/categories/craft-room/tool-storage/",
+        "teaser": null
+      },{
+        "title": "Advanced Craft Techniques",
+        "excerpt":"Readiness Assessment: Are You Ready for Advanced Techniques? Prerequisite Skills Checklist Craft Category Basic Skills Required Tool Proficiency Project Experience Woodworking Safe power tool use, measuring accuracy Table saw, router, jointer 10+ completed projects Metalworking Soldering, basic welding Torch work, precision files 5+ metal projects Textiles Machine sewing, pattern alteration...","categories": ["advanced-crafts","skill-building","techniques","professional-crafting"],
+        "tags": ["advanced-techniques","professional-crafts","expert-skills","complex-projects","mastery","specialized-tools"],
+        "url": "/skill-building/advanced-techniques/",
+        "teaser": null
+      },{
+        "title": "Beginner-Friendly Craft Projects",
+        "excerpt":"How to Choose Your First Project Success Factors for Beginners Factor Why It Matters What to Look For Low Tool Requirements Reduces initial investment Projects using basic household items Forgiving Materials Mistakes are easily corrected Fabric, paper, yarn vs. leather, metal Quick Results Builds confidence and momentum Completable in 1-3...","categories": ["beginner-crafts","skill-building","DIY","tutorials"],
+        "tags": ["beginner","easy-crafts","starter-projects","DIY","tutorials","first-time-crafter","simple-projects"],
+        "url": "/skill-building/beginner-friendly-projects/",
+        "teaser": null
+      },{
+        "title": "Cross-Craft Skills: Transferable Techniques Across Crafts",
+        "excerpt":"Universal Craft Skills: The Foundation Core Skills That Transfer Everywhere Skill Category Applications Learning Investment Payoff Multiplier Essential Tools Precision Measurement All crafts requiring accuracy 2-4 weeks 10x Rulers, calipers, squares colour Theory Any visual craft 1-2 months 8x colour wheel, samples Spatial Visualization 3D projects, patterns 3-6 months 6x...","categories": ["skill-building","cross-craft","techniques","versatile-skills"],
+        "tags": ["transferable-skills","multi-craft","versatile-techniques","skill-transfer","craft-crossover","universal-skills"],
+        "url": "/skill-building/cross-craft-skills/",
+        "teaser": null
+      },{
         "title": "Craft Show Preparation: What to Pack, Bring, and Know",
         "excerpt":"Craft Show Prep = 80% Planning, 20% Selling Markets and craft fairs are a powerful way to connect with customers, if you’re prepared. Here’s how to pack smart, show up ready, and sell with confidence. 📦 What to Pack: Master Checklist Category Essentials Product Full inventory, display items, extras Pricing...","categories": ["business","events","craft-fairs"],
         "tags": ["craft fairs","market prep","craft booth","vendor checklist","craft sale tips"],
@@ -191,12 +233,6 @@ var store = [{
         "url": "/cheatsheets/",
         "teaser": null
       },{
-        "title": "Cricut & Cutting Machines Cheatsheet",
-        "excerpt":"Cutting Machine Types &amp; Brands Popular Machine Categories Machine Type Cutting Force Material Compatibility Price Range Best For Entry-Level Personal Light to medium Paper, vinyl, thin fabric $150-350 Hobby crafters, beginners Mid-Range Versatile Medium to heavy Wide material range $300-600 Serious crafters, small business Professional Multi-Tool Heavy duty Thick materials,...","categories": ["cutting-machines","cricut","cheatsheet","DIY","crafting","small-business"],
-        "tags": ["cricut","silhouette","cutting-machine","vinyl","crafting","personalization","small-business","design-space"],
-        "url": "/cheatsheets/cutting-machines/",
-        "teaser": null
-      },{
         "title": "Embroidery & Cross-Stitch Cheatsheet",
         "excerpt":"Craft Type Comparison Craft Type Technique Fabric Type Best For Skill Level Embroidery Freeform stitching, decorative Cotton, linen, denim Custom motifs, text, florals All levels Cross-Stitch Grid-based X stitches Aida, evenweave Patterns, pixel art Beginner to intermediate Crewel Work Wool embroidery on linen Linen twill Textured, vintage designs Intermediate Blackwork...","categories": ["embroidery","cross-stitch","textile-art","cheatsheet","needlecraft","DIY","crafting"],
         "tags": ["embroidery","cross-stitch","hoop art","floss","pattern","textile","handmade","DIY"],
@@ -209,34 +245,22 @@ var store = [{
         "url": "/cheatsheets/embroidery-machines/",
         "teaser": null
       },{
+        "title": "Foiling & Embossing Cheatsheet",
+        "excerpt":"Key Techniques Overview Technique Description Tools Needed Best For Heat Embossing Powder melted with heat gun creates raised design Embossing powder, heat gun, embossing ink Cards, invitations, tags Cold Foiling Foil applied via adhesive and pressure without heat Foil sheets, laminator or press, adhesive Large prints, commercial Hot Foiling (Foil...","categories": ["foiling","embossing","cheatsheet","crafting","DIY","small-business"],
+        "tags": ["foiling","embossing","heat foil","cold foil","embossing powders","crafting","personalization"],
+        "url": "/cheatsheets/foiling-embossing/",
+        "teaser": null
+      },{
+        "title": "Foiling & Embossing Cheatsheet",
+        "excerpt":"Key Techniques Overview Technique Description Tools Needed Best For Heat Embossing Powder melted with heat gun creates raised design Embossing powder, heat gun, embossing ink Cards, invitations, tags Cold Foiling Foil applied via adhesive and pressure without heat Foil sheets, laminator or press, adhesive Large prints, commercial Hot Foiling (Foil...","categories": ["foiling","embossing","cheatsheet","crafting","DIY","small-business"],
+        "tags": ["foiling","embossing","heat foil","cold foil","embossing powders","crafting","personalization"],
+        "url": "/cheatsheets/foiling-embossing/",
+        "teaser": null
+      },{
         "title": "Craft Room Organization",
         "excerpt":"Tips and inspiration for organizing your craft room, tools, and materials.   Explore Craft Room Organization Topics      Material Storage   Tool Storage   Small Space Organization   Large Studio Design   Cutting Mats &amp; Surfaces   Lighting Solutions   Mobile Craft Carts  ","categories": [],
         "tags": [],
         "url": "/categories/craft-room/",
-        "teaser": null
-      },{
-        "title": "Large Craft Studio Design",
-        "excerpt":"Essential Crafting Zones Zone Purpose Key Items Work Zone Main task space Table, chair, tools Prep Zone Cutting, measuring, material sorting Mats, blades, rulers Finishing Zone Painting, gluing, assembling Drying racks, press Storage Zone Supply organization Cabinets, bins Shipping &amp; Photography Online sales support Lights, backdrop, scale Workflow Layout Tips...","categories": ["craft-room","workspace","studio"],
-        "tags": ["craft studio","creative zones","large workspace","craft layout","safety"],
-        "url": "/categories/craft-room/large-studio-design/",
-        "teaser": null
-      },{
-        "title": "Material Storage Solutions",
-        "excerpt":"Common Material Categories &amp; Tips Material Ideal Storage Key Notes Paper/Cardstock Vertical files, clear bins Humidity controlled Vinyl Sheets Hanging folders, tubes Avoid curling, UV exposure Fabric Rolled on boards, drawers Away from direct sun Paints &amp; Inks Airtight containers Cool, dark, upright storage Resin/Epoxy Original containers, low temp Stable...","categories": ["craft-room","storage","supplies"],
-        "tags": ["material storage","inventory","climate control","supply organization"],
-        "url": "/categories/craft-room/material-storage/",
-        "teaser": null
-      },{
-        "title": "Small Space Craft Organization",
-        "excerpt":"Small Space Must-Haves Solution Description Ideal For Vertical Shelving Tall units for bins, boxes, tools Supplies, paper, paints Fold-Down Desks Wall-mounted, compact Cricut, sketching, writing Rolling Carts Mobile storage and surfaces Daily-use tools, vinyl rolls Stackable Bins Maximize vertical cubbies Buttons, beads, yarn Wall Pegboards Tool and scissors display High-traffic...","categories": ["craft-room","organization","small-spaces"],
-        "tags": ["craft-room","small-space","organizing","storage","mobile-crafting","vertical-storage"],
-        "url": "/categories/craft-room/small-space-organization/",
-        "teaser": null
-      },{
-        "title": "Tool Storage Systems",
-        "excerpt":"Popular Tool Storage Types Storage Type Pros Best For Pegboard Wall Visual access, modular Scissors, rulers, small tools Drawer Cabinets Hidden clutter, stackable Glue, pens, accessories Tool Totes Portable, multi-pocket Shared spaces, on-the-go Rolling Carts Mobile, compact tiers Cricut tools, blades, paints Wall-Mounted Racks Space saving Frequently used hand tools...","categories": ["craft-room","tools","storage"],
-        "tags": ["tool organization","pegboards","drawers","mobile carts","craft storage"],
-        "url": "/categories/craft-room/tool-storage/",
         "teaser": null
       },{
         "title": "Cutting Mats and Surfaces: Protect Your Tools and Your Table",
@@ -269,10 +293,58 @@ var store = [{
         "url": "/categories/local-suppliers/",
         "teaser": null
       },{
-        "title": "Splurge or Save",
-        "excerpt":"The Investment Decision Framework Factors That Determine Spending Strategy Decision Factor Splurge Indicators Save Indicators Weight in Decision Usage Frequency Daily/weekly use Occasional projects High Project Impact Affects final quality significantly Minimal quality difference High Durability Needs Heavy use, professional demands Light use, temporary projects Medium Learning Curve Skill development...","categories": ["budgeting","crafting","tools","supplies"],
-        "tags": ["budget-crafting","tool-investment","craft-supplies","spending-guide","value-crafting"],
-        "url": "/categories/splurge-vs-save/",
+        "title": "Age-Appropriate Crafts: What to Make by Skill Level",
+        "excerpt":"Crafting by Age Group Age Project Types Skills Practiced Materials 2–4 Finger painting, gluing shapes Fine motor, colour Paper, glue sticks, crayons 5–6 Collage, stickers, sponge stamps Shape ID, layering Safety scissors, felt, stickers 7–9 Simple sewing, paper folding, clay Pattern, texture Yarn, pipe cleaners, air-dry clay 10–12 Beading, cardboard...","categories": ["crafting-for-kids","age-level"],
+        "tags": ["kid crafts","beginner projects","crafts by age","child development"],
+        "url": "/crafting-for-kids/age-appropriate-crafts/",
+        "teaser": null
+      },{
+        "title": "Crafting for Kids",
+        "excerpt":"Discover fun, safe, and creative craft ideas and resources for children of all ages.   Explore Crafting for Kids Topics      Age-Appropriate Crafts   Mess-Free Kids Crafts   Recycled Crafts for Kids  ","categories": [],
+        "tags": [],
+        "url": "/categories/crafting-for-kids/",
+        "teaser": null
+      },{
+        "title": "Mess-Free Crafts for Kids: Clean Fun, No Stress",
+        "excerpt":"Top Mess-Free Craft Activities Activity Time Supplies Needed Cleanup Level Sticker Collage 15–30 mins Stickers, paper None Paper Weaving 20–40 mins Pre-cut strips, base sheet None Scratch Art Boards 30 mins Scratch card, stick None Foam Shape Mosaic 20 mins Peel-and-stick foam None Felt Faces 25 mins Pre-cut felt, Velcro...","categories": ["crafting-for-kids","low-mess"],
+        "tags": ["easy crafts","no mess crafts","kid-friendly","cleanup free"],
+        "url": "/crafting-for-kids/mess-free-kids-crafts/",
+        "teaser": null
+      },{
+        "title": "Recycled Crafts for Kids: Creative Projects with Everyday Items",
+        "excerpt":"Easy Recycled Materials to Save Material Craft Use Prep Needed Cardboard Tubes Binoculars, rockets, characters Flatten and cut Egg Cartons Bugs, flowers, trays Cut into sections Cereal Boxes Frames, bookmarks Remove food residue Bottle Caps Mosaic art, wheels Rinse and dry Scrap Paper Collage, origami Trim rough edges Project Ideas...","categories": ["crafting-for-kids","sustainable"],
+        "tags": ["eco crafts","recycled materials","kids projects","zero waste kids"],
+        "url": "/crafting-for-kids/recycled-crafts-for-kids/",
+        "teaser": null
+      },{
+        "title": "Digital Crafting",
+        "excerpt":"Explore digital tools, techniques, and inspiration for modern makers and crafters.   Explore Digital Crafting Topics      Free Design Tools for Crafters   Getting Started with Cricut   How to Make Your Own SVG   Organizing Digital Files  ","categories": [],
+        "tags": [],
+        "url": "/categories/digital-crafting/",
+        "teaser": null
+      },{
+        "title": "Free Design Tools for Digital Crafters",
+        "excerpt":"Recommended Free Tools Tool Purpose Platform Inkscape Create/edit SVGs Windows, Mac, Linux Canva Quick mockups, labels Web, App Vectr Vector drawing Web Krita Free drawing/painting Windows, Mac Gravit Designer SVG design &amp; UI Web Google Fonts Free fonts Web File Types to Know Format Use Editable SVG Cutting machines Yes...","categories": ["digital-crafting","design-tools"],
+        "tags": ["free craft software","SVG tools","design platforms"],
+        "url": "/digital-crafting/free-design-tools-for-crafters/",
+        "teaser": null
+      },{
+        "title": "Getting Started with Cricut: A Beginner’s Setup Guide",
+        "excerpt":"What You Need to Start Item Recommendation Cricut Machine Explore Air 2 or Maker 3 Cutting Mats StandardGrip and LightGrip Materials Vinyl, cardstock, iron-on Tools Weeder, spatula, scraper Software Cricut Design Space (free) First-Time Setup Steps Step Action 1 Plug in and connect via USB or Bluetooth 2 Install Design...","categories": ["digital-crafting","cricut","vinyl"],
+        "tags": ["Cricut beginner","setup tips","first projects","cutting machines"],
+        "url": "/digital-crafting/getting-started-with-cricut/",
+        "teaser": null
+      },{
+        "title": "How to Make Your Own SVG Files for Crafting",
+        "excerpt":"Design Process Overview Step Action 1 Sketch or plan your idea 2 Open tool (Inkscape, Gravit) 3 Use shape/pen tools to draw design 4 Combine, subtract, and align 5 Save as .svg and test it Tips for SVG Success Tip Why It Matters Use only vector shapes Raster parts won’t...","categories": ["digital-crafting","svg"],
+        "tags": ["svg design","custom files","digital crafting","design space"],
+        "url": "/digital-crafting/how-to-make-your-own-svg/",
+        "teaser": null
+      },{
+        "title": "Organizing Digital Craft Files: Keep Your SVGs & Assets Tidy",
+        "excerpt":"Recommended Folder Structure Folder Contents Designs/Raw Original or purchased files Designs/Edited Modified SVGs or templates Projects/Completed Final versions by date or name Assets/Fonts Installed or downloaded fonts Assets/Mockups Canva, Photoshop templates Inspiration Saved images or screenshots File Naming Format Examples File Type Suggested Naming SVG flower-bundle-layered-2025.svg PNG label-round-vinyl-3inch.png Template envelope-A6-foldguide.pdf...","categories": ["digital-crafting","file-management"],
+        "tags": ["SVG organization","file structure","craft file tips","asset storage"],
+        "url": "/digital-crafting/organizing-digital-files/",
         "teaser": null
       },{
         "title": "About",
@@ -323,22 +395,28 @@ var store = [{
         "url": "/tags/",
         "teaser": null
       },{
-        "title": "Advanced Craft Techniques",
-        "excerpt":"Readiness Assessment: Are You Ready for Advanced Techniques? Prerequisite Skills Checklist Craft Category Basic Skills Required Tool Proficiency Project Experience Woodworking Safe power tool use, measuring accuracy Table saw, router, jointer 10+ completed projects Metalworking Soldering, basic welding Torch work, precision files 5+ metal projects Textiles Machine sewing, pattern alteration...","categories": ["advanced-crafts","skill-building","techniques","professional-crafting"],
-        "tags": ["advanced-techniques","professional-crafts","expert-skills","complex-projects","mastery","specialized-tools"],
-        "url": "/skill-building/advanced-techniques/",
+        "title": "Creative Prompts for Crafters: Break Blocks and Try Something New",
+        "excerpt":"10 One-Line Prompts Prompt Try With Make something only using scraps Fabric, vinyl, wood Choose 3 random colours and build around them Markers, paint, clay Recreate your favorite childhood object Foam, yarn, cardboard Make a piece with no straight lines Paper, vinyl, wire Use only circles as your design element...","categories": ["inspiration","creativity","practice"],
+        "tags": ["creative prompts","daily practice","artist block","craft ideas"],
+        "url": "/inspiration/creative-prompts-for-crafters/",
         "teaser": null
       },{
-        "title": "Beginner-Friendly Craft Projects",
-        "excerpt":"How to Choose Your First Project Success Factors for Beginners Factor Why It Matters What to Look For Low Tool Requirements Reduces initial investment Projects using basic household items Forgiving Materials Mistakes are easily corrected Fabric, paper, yarn vs. leather, metal Quick Results Builds confidence and momentum Completable in 1-3...","categories": ["beginner-crafts","skill-building","DIY","tutorials"],
-        "tags": ["beginner","easy-crafts","starter-projects","DIY","tutorials","first-time-crafter","simple-projects"],
-        "url": "/skill-building/beginner-friendly-projects/",
+        "title": "Finding Your Craft Style: Discover What Makes Your Work Unique",
+        "excerpt":"Style Discovery Table Element Options What It Might Mean Colours Neutral, bold, pastel, neon Your emotional tone Materials Natural, synthetic, recycled, high-finish Crafting values Patterns Minimalist, ornate, geometric Design mindset Techniques Hand-finished, machine-cut, mixed Process preference Final Use Decorative, wearable, functional Purpose focus Self-Audit: What Do You Make Most? Question...","categories": ["inspiration","craft-identity"],
+        "tags": ["craft style","creative identity","personal branding","self-discovery"],
+        "url": "/inspiration/finding-your-craft-style/",
         "teaser": null
       },{
-        "title": "Cross-Craft Skills: Transferable Techniques Across Crafts",
-        "excerpt":"Universal Craft Skills: The Foundation Core Skills That Transfer Everywhere Skill Category Applications Learning Investment Payoff Multiplier Essential Tools Precision Measurement All crafts requiring accuracy 2-4 weeks 10x Rulers, calipers, squares colour Theory Any visual craft 1-2 months 8x colour wheel, samples Spatial Visualization 3D projects, patterns 3-6 months 6x...","categories": ["skill-building","cross-craft","techniques","versatile-skills"],
-        "tags": ["transferable-skills","multi-craft","versatile-techniques","skill-transfer","craft-crossover","universal-skills"],
-        "url": "/skill-building/cross-craft-skills/",
+        "title": "Inspiration",
+        "excerpt":"Find creative inspiration, project ideas, and stories from the crafting community.   Explore Inspiration Topics      Creative Prompts for Crafters   Finding Your Craft Style   Moodboard Your Ideas  ","categories": [],
+        "tags": [],
+        "url": "/categories/inspiration/",
+        "teaser": null
+      },{
+        "title": "Moodboard Your Ideas: Visual Planning for Creative Projects",
+        "excerpt":"Moodboard Building Blocks Element Examples Colour Palette Paint chips, screenshots, fabric scraps Material Samples Swatches of vinyl, yarn, clay, wood Visual Themes Photos, illustrations, product shots Fonts &amp; Text Style words, quotes, product names Shapes Repeated icons, geometry, layout sketches Digital vs. Physical Type Pros Tools Digital Easy to edit,...","categories": ["inspiration","project-planning","design"],
+        "tags": ["moodboard","visual planning","craft design","creative prep"],
+        "url": "/inspiration/moodboard-your-ideas/",
         "teaser": null
       },{
         "title": "Adhesive Know-How: Choosing the Right Glue for Every Craft",
@@ -761,10 +839,28 @@ var store = [{
         "url": "/categories/sustainable-crafting/recycled-materials/",
         "teaser": null
       },{
+        "title": "Eco-Friendly Finishes: Safer Seals and Sustainable Shine",
+        "excerpt":"Comparison of Eco-Friendly Finishes Finish Type Base Material Common Uses Dry Time VOC Level Notes Plant-Based Oils Flaxseed, tung Wood, paper, leather 12–24 hrs Low Natural sheen, reapplication needed Shellac Resin + alcohol Wood, paper 30–60 min Low Derived from natural resin Water-Based Poly Acrylic blend Wood, vinyl, paper 1–2...","categories": ["sustainable-crafting","finishes","eco-friendly"],
+        "tags": ["non-toxic","natural sealants","eco-finishes","sustainable coatings","low-VOC"],
+        "url": "/sustainable-crafting/eco-friendly-finishes/",
+        "teaser": null
+      },{
+        "title": "Energy-Efficient Tools: Power Smarter, Craft Longer",
+        "excerpt":"Low-Energy Crafting Tools Tool Type Efficient Model Features Average Wattage Power-Saving Benefit LED Desk Lamp Dimmable, directional 5–10 W 80–90% less than incandescent Soldering Iron Rapid heat-up, auto-off 20–60 W Reduced standby waste Glue Gun Low-temp, auto-shutoff 20–40 W Safer and lower draw Rotary Tool Brushless, variable speed 30–100 W...","categories": ["sustainable-crafting","tools","eco-friendly"],
+        "tags": ["energy-saving tools","efficient crafting","eco workshop","green power","low-energy tools"],
+        "url": "/sustainable-crafting/energy-efficient-tools/",
+        "teaser": null
+      },{
         "title": "Sustainable Crafting",
-        "excerpt":"Discover eco-friendly, natural, and recycled crafting ideas and resources in this section.   Explore Sustainable Crafting Topics      Eco-Friendly Supplies   Natural Dyes   Recycled Materials  ","categories": [],
+        "excerpt":"Discover eco-friendly, natural, and recycled crafting ideas and resources in this section.   Explore Sustainable Crafting Topics      Eco-Friendly Supplies   Natural Dyes   Recycled Materials   Eco-Friendly Finishes   Energy-Efficient Tools   Sustainable Packaging Options  ","categories": [],
         "tags": [],
         "url": "/categories/sustainable-crafting/",
+        "teaser": null
+      },{
+        "title": "Sustainable Packaging Options for Craft Businesses",
+        "excerpt":"Eco Packaging Materials Overview Material Recyclable Compostable Best Use Kraft Paper Yes Yes Wrapping, stuffing Corrugated Cardboard Yes No Shipping boxes Paper Tape Yes Yes Sealing boxes Tissue Paper (Uncoated) Yes Yes Wrapping, layering Plant-Based Mailers No Yes Mailing soft items Glassine Bags Yes Yes Protecting prints, paper Compostable Labels...","categories": ["sustainable-crafting","packaging","eco-business"],
+        "tags": ["eco packaging","shipping materials","plastic-free","recyclable","compostable"],
+        "url": "/sustainable-crafting/sustainable-packaging-options/",
         "teaser": null
       },{
         "title": "Welcome to Crafting Supply Hub",
