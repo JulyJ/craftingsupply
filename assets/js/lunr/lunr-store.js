@@ -35,18 +35,6 @@ var store = [{
         "url": "/categories/business/",
         "teaser": null
       },{
-        "title": "Splurge or Save",
-        "excerpt":"The Investment Decision Framework Factors That Determine Spending Strategy Decision Factor Splurge Indicators Save Indicators Weight in Decision Usage Frequency Daily/weekly use Occasional projects High Project Impact Affects final quality significantly Minimal quality difference High Durability Needs Heavy use, professional demands Light use, temporary projects Medium Learning Curve Skill development...","categories": ["budgeting","crafting","tools","supplies"],
-        "tags": ["budget-crafting","tool-investment","craft-supplies","spending-guide","value-crafting"],
-        "url": "/categories/splurge-vs-save/",
-        "teaser": null
-      },{
-        "title": "Cricut & Cutting Machines Cheatsheet",
-        "excerpt":"Cutting Machine Types &amp; Brands Popular Machine Categories Machine Type Cutting Force Material Compatibility Price Range Best For Entry-Level Personal Light to medium Paper, vinyl, thin fabric $150-350 Hobby crafters, beginners Mid-Range Versatile Medium to heavy Wide material range $300-600 Serious crafters, small business Professional Multi-Tool Heavy duty Thick materials,...","categories": ["cutting-machines","cricut","cheatsheet","DIY","crafting","small-business"],
-        "tags": ["cricut","silhouette","cutting-machine","vinyl","crafting","personalization","small-business","design-space"],
-        "url": "/cheatsheets/cutting-machines/",
-        "teaser": null
-      },{
         "title": "Laser Cutting Cheatsheet",
         "excerpt":"Laser Cutter Types &amp; Technologies Desktop vs. Professional Models Machine Category Work Area Size Power Range Price Range Best For Entry-Level Desktop 8” x 12” to 12” x 20” 5-15W diode $200-800 Hobby projects, learning Mid-Range Desktop 16” x 24” to 20” x 28” 40-60W CO2 $2,000-6,000 Small business, prototyping...","categories": ["laser-cutting","cheatsheet","DIY","technology","small-business"],
         "tags": ["laser-cutter","precision-cutting","engraving","crafting","maker","small-business","digital-fabrication"],
@@ -69,12 +57,6 @@ var store = [{
         "excerpt":"Calligraphy Styles Overview Style Look &amp; Feel Tools Used Skill Level Common Uses Modern Script Loose, fluid, whimsical Brush pens, nibs Beginner+ Wedding invites, prints Copperplate Elegant, looping Pointed pen + ink Intermediate+ Envelopes, certificates Gothic / Blackletter Bold, angular Broad nib dip pens Intermediate Posters, logos Italic Slanted, legible...","categories": ["calligraphy","art","lettering","cheatsheet","tools","DIY","small-business"],
         "tags": ["calligraphy","hand-lettering","pens","dip-ink","brush","nibs","typography","design"],
         "url": "/cheatsheets/calligraphy-tools/",
-        "teaser": null
-      },{
-        "title": "Heat Transfer Vinyl Cheatsheet",
-        "excerpt":"HTV Types &amp; Characteristics Type Material Composition Finish Best For Durability Application Temp (°F) Price Range Standard HTV PVC or PU Matte or Glossy T-shirts, cotton blends High 305–320°F $5–10/yard Stretch HTV PU with elastomer Matte Sportswear, spandex Very High 280–300°F $7–12/yard Metallic HTV PU with metallic finish Shiny Fashion...","categories": ["HTV","vinyl","cheatsheet","crafting","DIY","small-business"],
-        "tags": ["heat transfer vinyl","HTV","vinyl cutting","crafting","personalization","apparel","DIY"],
-        "url": "/cheatsheets/heat-transfer-vinyl/",
         "teaser": null
       },{
         "title": "Jewelry Making Cheatsheet",
@@ -161,18 +143,6 @@ var store = [{
         "url": "/categories/woodworking-tools/",
         "teaser": null
       },{
-        "title": "Large Craft Studio Design",
-        "excerpt":"Essential Crafting Zones Zone Purpose Key Items Work Zone Main task space Table, chair, tools Prep Zone Cutting, measuring, material sorting Mats, blades, rulers Finishing Zone Painting, gluing, assembling Drying racks, press Storage Zone Supply organization Cabinets, bins Shipping &amp; Photography Online sales support Lights, backdrop, scale Workflow Layout Tips...","categories": ["craft-room","workspace","studio"],
-        "tags": ["craft studio","creative zones","large workspace","craft layout","safety"],
-        "url": "/categories/craft-room/large-studio-design/",
-        "teaser": null
-      },{
-        "title": "Material Storage Solutions",
-        "excerpt":"Common Material Categories &amp; Tips Material Ideal Storage Key Notes Paper/Cardstock Vertical files, clear bins Humidity controlled Vinyl Sheets Hanging folders, tubes Avoid curling, UV exposure Fabric Rolled on boards, drawers Away from direct sun Paints &amp; Inks Airtight containers Cool, dark, upright storage Resin/Epoxy Original containers, low temp Stable...","categories": ["craft-room","storage","supplies"],
-        "tags": ["material storage","inventory","climate control","supply organization"],
-        "url": "/categories/craft-room/material-storage/",
-        "teaser": null
-      },{
         "title": "Small Space Craft Organization",
         "excerpt":"Small Space Must-Haves Solution Description Ideal For Vertical Shelving Tall units for bins, boxes, tools Supplies, paper, paints Fold-Down Desks Wall-mounted, compact Cricut, sketching, writing Rolling Carts Mobile storage and surfaces Daily-use tools, vinyl rolls Stackable Bins Maximize vertical cubbies Buttons, beads, yarn Wall Pegboards Tool and scissors display High-traffic...","categories": ["craft-room","organization","small-spaces"],
         "tags": ["craft-room","small-space","organizing","storage","mobile-crafting","vertical-storage"],
@@ -233,6 +203,12 @@ var store = [{
         "url": "/cheatsheets/",
         "teaser": null
       },{
+        "title": "Cricut & Cutting Machines Cheatsheet",
+        "excerpt":"Cutting Machine Types &amp; Brands Popular Machine Categories Machine Type Cutting Force Material Compatibility Price Range Best For Entry-Level Personal Light to medium Paper, vinyl, thin fabric $150-350 Hobby crafters, beginners Mid-Range Versatile Medium to heavy Wide material range $300-600 Serious crafters, small business Professional Multi-Tool Heavy duty Thick materials,...","categories": ["cutting-machines","cricut","cheatsheet","DIY","crafting","small-business"],
+        "tags": ["cricut","silhouette","cutting-machine","vinyl","crafting","personalization","small-business","design-space"],
+        "url": "/cheatsheets/cutting-machines/",
+        "teaser": null
+      },{
         "title": "Embroidery & Cross-Stitch Cheatsheet",
         "excerpt":"Craft Type Comparison Craft Type Technique Fabric Type Best For Skill Level Embroidery Freeform stitching, decorative Cotton, linen, denim Custom motifs, text, florals All levels Cross-Stitch Grid-based X stitches Aida, evenweave Patterns, pixel art Beginner to intermediate Crewel Work Wool embroidery on linen Linen twill Textured, vintage designs Intermediate Blackwork...","categories": ["embroidery","cross-stitch","textile-art","cheatsheet","needlecraft","DIY","crafting"],
         "tags": ["embroidery","cross-stitch","hoop art","floss","pattern","textile","handmade","DIY"],
@@ -257,10 +233,28 @@ var store = [{
         "url": "/cheatsheets/foiling-embossing/",
         "teaser": null
       },{
+        "title": "Heat Transfer Vinyl Cheatsheet",
+        "excerpt":"HTV Types &amp; Characteristics Type Material Composition Finish Best For Durability Application Temp (°F) Price Range Standard HTV PVC or PU Matte or Glossy T-shirts, cotton blends High 305–320°F $5–10/yard Stretch HTV PU with elastomer Matte Sportswear, spandex Very High 280–300°F $7–12/yard Metallic HTV PU with metallic finish Shiny Fashion...","categories": ["HTV","vinyl","cheatsheet","crafting","DIY","small-business"],
+        "tags": ["heat transfer vinyl","HTV","vinyl cutting","crafting","personalization","apparel","DIY"],
+        "url": "/cheatsheets/heat-transfer-vinyl/",
+        "teaser": null
+      },{
         "title": "Craft Room Organization",
         "excerpt":"Tips and inspiration for organizing your craft room, tools, and materials.   Explore Craft Room Organization Topics      Material Storage   Tool Storage   Small Space Organization   Large Studio Design   Cutting Mats &amp; Surfaces   Lighting Solutions   Mobile Craft Carts  ","categories": [],
         "tags": [],
         "url": "/categories/craft-room/",
+        "teaser": null
+      },{
+        "title": "Large Craft Studio Design",
+        "excerpt":"Essential Crafting Zones Zone Purpose Key Items Work Zone Main task space Table, chair, tools Prep Zone Cutting, measuring, material sorting Mats, blades, rulers Finishing Zone Painting, gluing, assembling Drying racks, press Storage Zone Supply organization Cabinets, bins Shipping &amp; Photography Online sales support Lights, backdrop, scale Workflow Layout Tips...","categories": ["craft-room","workspace","studio"],
+        "tags": ["craft studio","creative zones","large workspace","craft layout","safety"],
+        "url": "/categories/craft-room/large-studio-design/",
+        "teaser": null
+      },{
+        "title": "Material Storage Solutions",
+        "excerpt":"Common Material Categories &amp; Tips Material Ideal Storage Key Notes Paper/Cardstock Vertical files, clear bins Humidity controlled Vinyl Sheets Hanging folders, tubes Avoid curling, UV exposure Fabric Rolled on boards, drawers Away from direct sun Paints &amp; Inks Airtight containers Cool, dark, upright storage Resin/Epoxy Original containers, low temp Stable...","categories": ["craft-room","storage","supplies"],
+        "tags": ["material storage","inventory","climate control","supply organization"],
+        "url": "/categories/craft-room/material-storage/",
         "teaser": null
       },{
         "title": "Cutting Mats and Surfaces: Protect Your Tools and Your Table",
@@ -291,6 +285,12 @@ var store = [{
         "excerpt":"A comprehensive guide to Canadian craft and art suppliers, organized by province. Province Store Website Focus National Michaels canada.michaels.com Crafts, decor, DIY, art, seasonal kits National, QC DeSerres deserres.ca Artist-grade supplies &amp; crafts National Walmart Canada walmart.ca General craft &amp; DIY items National Dollarama dollarama.com Inexpensive basic craft items National...","categories": [],
         "tags": ["local-suppliers","stores-by-province","suppliers","canada"],
         "url": "/categories/local-suppliers/",
+        "teaser": null
+      },{
+        "title": "Splurge or Save",
+        "excerpt":"The Investment Decision Framework Factors That Determine Spending Strategy Decision Factor Splurge Indicators Save Indicators Weight in Decision Usage Frequency Daily/weekly use Occasional projects High Project Impact Affects final quality significantly Minimal quality difference High Durability Needs Heavy use, professional demands Light use, temporary projects Medium Learning Curve Skill development...","categories": ["budgeting","crafting","tools","supplies"],
+        "tags": ["budget-crafting","tool-investment","craft-supplies","spending-guide","value-crafting"],
+        "url": "/categories/splurge-vs-save/",
         "teaser": null
       },{
         "title": "Age-Appropriate Crafts: What to Make by Skill Level",
@@ -384,7 +384,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Start Here",
-        "excerpt":"Welcome! This page will help you get started with crafting, finding supplies, and using this site. How to Use This Site Search: Use the Search page to quickly find posts, guides, and resources by keyword. Tags: Explore topics by Tags. Tags help you discover related posts, such as #canadian-made, tools,...","categories": [],
+        "excerpt":"Welcome! This page will help you get started with crafting, finding supplies, and making the most of Crafting Supply Hub. What You’ll Find Here Craft Supplies: Learn how to choose, source, and compare materials for any project. Cheatsheets: Quick reference guides for tools, techniques, and materials. Budget &amp; Sustainable Crafting:...","categories": [],
         "tags": [],
         "url": "/start-here/",
         "teaser": null
@@ -417,6 +417,84 @@ var store = [{
         "excerpt":"Moodboard Building Blocks Element Examples Colour Palette Paint chips, screenshots, fabric scraps Material Samples Swatches of vinyl, yarn, clay, wood Visual Themes Photos, illustrations, product shots Fonts &amp; Text Style words, quotes, product names Shapes Repeated icons, geometry, layout sketches Digital vs. Physical Type Pros Tools Digital Easy to edit,...","categories": ["inspiration","project-planning","design"],
         "tags": ["moodboard","visual planning","craft design","creative prep"],
         "url": "/inspiration/moodboard-your-ideas/",
+        "teaser": null
+      },{
+        "title": "Air-Dry Clay for Beginners: Types, Properties, and Applications",
+        "excerpt":"What is Air-Dry Clay? Air-dry clay is a water-based modeling material that hardens naturally through evaporation without requiring kiln firing or oven baking. Air-dry clay is one of the earliest artisan supplies in human civilization, consisting of natural clay minerals mixed with binding agents and water. Modern formulations include paper...","categories": ["craft-supplies","clay"],
+        "tags": ["air dry clay","modeling clay","clay crafts","beginner clay","clay types"],
+        "url": "/material-guides/air-dry-clay-for-beginners/",
+        "teaser": null
+      },{
+        "title": "The Complete Guide to Plywood Types for Crafters and Makers",
+        "excerpt":"Choosing the right plywood can make or break your crafting project. Whether you’re laser cutting intricate designs, building furniture, or creating decorative pieces, understanding the different types of plywood and their properties is essential for achieving professional results. Understanding Plywood Construction Plywood is manufactured by bonding layers (plies) of wood...","categories": ["craft-supplies","materials","wood"],
+        "tags": ["plywood types","laser plywood","baltic birch","MDF","hardwood core","woodworking","crafting materials"],
+        "url": "/material-guides/all-about-plywood-types/",
+        "teaser": null
+      },{
+        "title": "Embroidery Floss & Thread Guide: Materials, Types & Techniques",
+        "excerpt":"What is Embroidery Floss? Embroidery floss is a loosely twisted thread composed of multiple strands (typically 6) that can be separated and used individually or in combination depending on your project needs. Unlike regular sewing thread, embroidery floss is specifically designed for decorative stitching, offering superior colour retention, sheen, and...","categories": ["craft-supplies","embroidery"],
+        "tags": ["embroidery floss","thread types","cotton floss","silk thread","embroidery materials"],
+        "url": "/material-guides/embroidery-floss-thread-guide/",
+        "teaser": null
+      },{
+        "title": "Jewelry Making: Bead Materials, Stringing & Tools Guide",
+        "excerpt":"What are Jewelry Beads? Jewelry beads are decorative elements with holes for stringing, available in countless materials, shapes, sizes, and finishes. They serve as the primary building blocks for necklaces, bracelets, earrings, and other beaded jewelry. Understanding bead properties, sizing systems, and compatibility with stringing materials is essential for creating...","categories": ["craft-supplies","jewelry-making"],
+        "tags": ["jewelry beads","stringing materials","beading wire","jewelry tools","bead types"],
+        "url": "/material-guides/jewelry-beads-stringing-guide/",
+        "teaser": null
+      },{
+        "title": "Jewelry Making: Wire Gauges, Findings & Components Guide",
+        "excerpt":"What are Jewelry Findings? Jewelry findings are the functional and decorative components used to connect, finish, and enhance jewelry pieces. These essential hardware elements include clasps, jump rings, ear wires, head pins, and various connectors that transform raw materials into wearable art. Understanding wire gauges and findings is crucial for...","categories": ["craft-supplies","jewelry-making"],
+        "tags": ["jewelry wire","jump rings","clasps","jewelry findings","wire gauge","jewelry supplies"],
+        "url": "/material-guides/jewelry-wire-findings-guide/",
+        "teaser": null
+      },{
+        "title": "Laser-Ready Acrylic Comparison: Cast vs Extruded and More",
+        "excerpt":"Cast vs. Extruded Acrylic Property Cast Acrylic Extruded Acrylic Laser Engraving Frosted, clean detail Poor or unclear Edge Finish Slightly frosted Clear/glossy Melting Point Higher Lower Thickness Tolerance Slight variations More consistent Price Higher Lower Manufacturing Cell-cast in molds Continuous extrusion Stress Levels Lower internal stress Higher internal stress Cracking...","categories": ["craft-supplies","acrylic","laser-materials"],
+        "tags": ["laser acrylic","cast acrylic","extruded acrylic","engraving materials"],
+        "url": "/material-guides/laser-ready-acrylic-comparison/",
+        "teaser": null
+      },{
+        "title": "Material Guides",
+        "excerpt":"Explore in-depth guides and comparisons for popular crafting materials. Guide Title Description All About Plywood Types Learn about different plywood types for crafting and laser cutting. Laser-Ready Acrylic Comparison Compare acrylic options for laser cutting and crafting. Vinyl for Beginners A beginner’s guide to using vinyl in your projects. Air-Dry...","categories": [],
+        "tags": [],
+        "url": "/material-guides/",
+        "teaser": null
+      },{
+        "title": "Polymer Clay for Beginners: Types, Properties, and Working Guide",
+        "excerpt":"What is Polymer Clay? Polymer clay is a versatile modeling compound made from polyvinyl chloride (PVC) particles suspended in plasticizer. Unlike traditional clay, it doesn’t dry out when exposed to air and must be baked in an oven to harden permanently. This makes it ideal for detailed work, as you...","categories": ["craft-supplies","clay"],
+        "tags": ["polymer clay","oven bake clay","clay crafts","beginner clay","clay types"],
+        "url": "/material-guides/polymer-clay-for-beginners/",
+        "teaser": null
+      },{
+        "title": "Resin for Beginners: Types, Properties, and Applications",
+        "excerpt":"What is Craft Resin? Craft resin is a liquid polymer that hardens into a clear, durable, glass-like finish when cured. It’s used to create jewelry, coasters, art pieces, and protective coatings. The material starts as a viscous liquid and transforms into a solid through chemical reactions (epoxy) or UV light...","categories": ["craft-supplies","resin"],
+        "tags": ["resin crafting","epoxy resin","UV resin","beginner resin","resin types"],
+        "url": "/material-guides/resin-for-beginners/",
+        "teaser": null
+      },{
+        "title": "Soap Making: Complete Material Guide for Beginners",
+        "excerpt":"What is Soap Making? Soap making is the process of creating soap through saponification - a chemical reaction between fats or oils and an alkali (lye). This ancient craft has evolved into both an art form and practical skill, allowing crafters to create custom soaps with specific properties, scents, and...","categories": ["craft-supplies","soap-making"],
+        "tags": ["soap making","lye","saponification","soap oils","cold process soap","melt and pour"],
+        "url": "/material-guides/soap-making-guide/",
+        "teaser": null
+      },{
+        "title": "Vinyl for Beginners: Types, Tools, and Tips",
+        "excerpt":"What is Craft Vinyl? Craft vinyl is a thin, flexible material with an adhesive backing used for decorating surfaces, creating custom designs, and personalizing items. It comes in two main categories: adhesive vinyl (applied cold) and heat transfer vinyl (applied with heat). Understanding these differences is crucial for successful projects....","categories": ["craft-supplies","vinyl"],
+        "tags": ["vinyl crafting","HTV","adhesive vinyl","beginner vinyl","cutting vinyl"],
+        "url": "/material-guides/vinyl-for-beginners/",
+        "teaser": null
+      },{
+        "title": "Wax & Candle Making: Complete Material Guide for Beginners",
+        "excerpt":"What is Candle Making? Candle making is the art and craft of creating candles from various wax materials, wicks, and additives. This ancient practice has evolved from a necessity for lighting into a popular hobby and commercial enterprise. Modern candle making combines traditional techniques with contemporary materials, offering crafters endless...","categories": ["craft-supplies","candle-making"],
+        "tags": ["candle wax","candle making","wax types","candle supplies","beginner candle making"],
+        "url": "/material-guides/wax-candle-making-guide/",
+        "teaser": null
+      },{
+        "title": "Yarn & Fiber Arts Guide: Materials, Types & Techniques",
+        "excerpt":"What is Yarn? Yarn is a continuous strand of twisted or spun fibers used for knitting, crocheting, weaving, and other textile arts. Created by spinning natural or synthetic fibers together, yarn comes in countless varieties of weight, texture, colour, and composition. The choice of yarn fundamentally affects the appearance, feel,...","categories": ["craft-supplies","fiber-arts"],
+        "tags": ["yarn types","knitting yarn","crochet yarn","fiber content","yarn weights"],
+        "url": "/material-guides/yarn-fiber-arts-guide/",
         "teaser": null
       },{
         "title": "Adhesive Know-How: Choosing the Right Glue for Every Craft",
