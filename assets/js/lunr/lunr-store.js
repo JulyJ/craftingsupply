@@ -151,7 +151,7 @@ var store = [{
       },{
         "title": "Tool Storage Systems",
         "excerpt":"Popular Tool Storage Types Storage Type Pros Best For Pegboard Wall Visual access, modular Scissors, rulers, small tools Drawer Cabinets Hidden clutter, stackable Glue, pens, accessories Tool Totes Portable, multi-pocket Shared spaces, on-the-go Rolling Carts Mobile, compact tiers Cricut tools, blades, paints Wall-Mounted Racks Space saving Frequently used hand tools...","categories": ["craft-room","tools","storage"],
-        "tags": ["tool organization","pegboards","drawers","mobile carts","craft storage"],
+        "tags": ["tool-organization","crafting","cutting-tips","beginner","miniatures","heat-transfer-vinyl","pegboards","drawers","mobile carts","craft storage"],
         "url": "/categories/craft-room/tool-storage/",
         "teaser": null
       },{
@@ -175,7 +175,7 @@ var store = [{
       },{
         "title": "Craft Show Preparation: What to Pack, Bring, and Know",
         "excerpt":"Craft Show Prep = 80% Planning, 20% Selling Markets and craft fairs are a powerful way to connect with customers, if you’re prepared. Here’s how to pack smart, show up ready, and sell with confidence. 📦 What to Pack: Master Checklist Category Essentials Product Full inventory, display items, extras Pricing...","categories": ["business","events","craft-fairs"],
-        "tags": ["craft fairs","market prep","craft booth","vendor checklist","craft sale tips"],
+        "tags": ["crafting","tool-organization","cutting-tips","beginner","miniatures","heat-transfer-vinyl","craft fairs","market prep","craft booth","vendor checklist","craft sale tips"],
         "url": "/business/craft-show-preparation/",
         "teaser": null
       },{
@@ -390,7 +390,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Tags",
-        "excerpt":"Explore posts by tag and discover new topics.             #canadian-made (1)      ","categories": [],
+        "excerpt":"Explore posts and pages by tag. Click a tag to see all related content.       Popular Tags:        #crafting           #tool organization           #cutting-tips           #beginner           #miniatures           #heat transfer vinyl           #DIY           #small-business           #upcycling           #embroidery           #jewelry           #eco-crafting           #resin           #sewing           #painting           #budget-tools           #craft-supplies           #personalization           #beginner-friendly           #creative-block           #craft-room     ","categories": [],
         "tags": [],
         "url": "/tags/",
         "teaser": null
@@ -463,19 +463,19 @@ var store = [{
       },{
         "title": "Polymer Clay for Beginners: Types, Properties, and Working Guide",
         "excerpt":"What is Polymer Clay? Polymer clay is a versatile modeling compound made from polyvinyl chloride (PVC) particles suspended in plasticizer. Unlike traditional clay, it doesn’t dry out when exposed to air and must be baked in an oven to harden permanently. This makes it ideal for detailed work, as you...","categories": ["craft-supplies","clay"],
-        "tags": ["polymer clay","oven bake clay","clay crafts","beginner clay","clay types"],
+        "tags": ["polymer clay","oven bake clay","clay crafts","beginner clay","clay types","beginner-friendly"],
         "url": "/material-guides/polymer-clay-for-beginners/",
         "teaser": null
       },{
         "title": "Resin for Beginners: Types, Properties, and Applications",
         "excerpt":"What is Craft Resin? Craft resin is a liquid polymer that hardens into a clear, durable, glass-like finish when cured. It’s used to create jewelry, coasters, art pieces, and protective coatings. The material starts as a viscous liquid and transforms into a solid through chemical reactions (epoxy) or UV light...","categories": ["craft-supplies","resin"],
-        "tags": ["resin crafting","epoxy resin","UV resin","beginner resin","resin types"],
+        "tags": ["resin crafting","epoxy resin","UV resin","beginner resin","resin types","beginner-friendly"],
         "url": "/material-guides/resin-for-beginners/",
         "teaser": null
       },{
         "title": "Soap Making: Complete Material Guide for Beginners",
         "excerpt":"What is Soap Making? Soap making is the process of creating soap through saponification - a chemical reaction between fats or oils and an alkali (lye). This ancient craft has evolved into both an art form and practical skill, allowing crafters to create custom soaps with specific properties, scents, and...","categories": ["craft-supplies","soap-making"],
-        "tags": ["soap making","lye","saponification","soap oils","cold process soap","melt and pour"],
+        "tags": ["soap making","lye","saponification","soap oils","cold process soap","melt and pour","beginner-friendly"],
         "url": "/material-guides/soap-making-guide/",
         "teaser": null
       },{
@@ -487,7 +487,7 @@ var store = [{
       },{
         "title": "Wax & Candle Making: Complete Material Guide for Beginners",
         "excerpt":"What is Candle Making? Candle making is the art and craft of creating candles from various wax materials, wicks, and additives. This ancient practice has evolved from a necessity for lighting into a popular hobby and commercial enterprise. Modern candle making combines traditional techniques with contemporary materials, offering crafters endless...","categories": ["craft-supplies","candle-making"],
-        "tags": ["candle wax","candle making","wax types","candle supplies","beginner candle making"],
+        "tags": ["candle wax","candle making","wax types","candle supplies","beginner candle making","beginner-friendly"],
         "url": "/material-guides/wax-candle-making-guide/",
         "teaser": null
       },{
@@ -511,7 +511,7 @@ var store = [{
       },{
         "title": "Cutting Mastery: Precision Tips for All Materials",
         "excerpt":"Why Cutting Skill Matters Whether you’re working with delicate paper, tough leather, or rigid acrylic, cutting is one of the most fundamental, and unforgiving, craft skills. A clean cut can elevate a project; a jagged or off-mark cut can ruin hours of work. Precision cutting isn’t about speed, it’s about...","categories": ["skill-building","cutting","fundamentals","precision"],
-        "tags": ["cutting-tips","sharp-tools","craft-accuracy","material-handling","cutting-techniques","clean-edges"],
+        "tags": ["cutting-tips","sharp-tools","craft-accuracy","material-handling","cutting-techniques","clean-edges","beginner-friendly"],
         "url": "/skill-building/cutting-mastery/",
         "teaser": null
       },{
@@ -523,7 +523,7 @@ var store = [{
       },{
         "title": "Practice Exercises: Build Crafting Mastery One Step at a Time",
         "excerpt":"Why Practice Exercises Matter Practicing isn’t just for beginners. Every great crafter, from hobbyists to pros, benefits from routine skill workouts. Purposeful repetition builds muscle memory, sharpens technique, and prevents costly errors. These exercises can be tailored to any craft, whether you’re wielding a paintbrush, rotary cutter, or soldering iron....","categories": ["skill-building","practice","exercises","hands-on"],
-        "tags": ["craft drills","repetition","technique-building","practice-routines","craft-fundamentals","skill-mastery"],
+        "tags": ["craft drills","repetition","technique-building","practice-routines","craft-fundamentals","skill-mastery","beginner-friendly"],
         "url": "/skill-building/practice-exercises/",
         "teaser": null
       },{
@@ -535,19 +535,19 @@ var store = [{
       },{
         "title": "Understanding Scale & Proportion in Craft Design",
         "excerpt":"Why Scale &amp; Proportion Matter in Craft Design Good design isn’t just about colour or texture, it’s about how all parts relate to each other in size and balance. Scale and proportion help create realism, harmony, and functionality in every kind of craft. From dollhouses to wall art, jewelry to...","categories": ["skill-building","design-principles","fundamentals"],
-        "tags": ["scale","proportion","design","craft-planning","visual-balance","layout-techniques"],
+        "tags": ["scale","proportion","design","craft-planning","visual-balance","layout-techniques","beginner-friendly"],
         "url": "/skill-building/scale-and-proportion/",
         "teaser": null
       },{
         "title": "Skill Building: Improve Your Crafting Skills",
         "excerpt":"Article Title Description Adhesive Know-How Tips and tricks for using adhesives in crafting. Advanced Techniques Take your skills to the next level with advanced methods. Beginner Friendly Projects Easy projects to get you started. Colour Confidence Master colour theory and application. Cross-Craft Skills Skills that apply across multiple crafts. Cutting...","categories": ["skill-building","fundamentals"],
-        "tags": ["crafting","skill-building","practice","learning","improvement","techniques"],
+        "tags": ["crafting","tool-organization","cutting-tips","beginner","miniatures","heat-transfer-vinyl","skill-building","practice","learning","improvement","techniques"],
         "url": "/skill-building/",
         "teaser": null
       },{
         "title": "Track Your Crafting Progress: Journals, Logs, and Practice Sheets",
         "excerpt":"Why Tracking Helps You Improve Faster Your brain forgets what your journal remembers. Logging your craft practice turns random creativity into measurable growth. Whether you’re painting miniatures, sewing garments, crafting stickers, or working with vinyl, keeping track of what you make, and how you made it, can: Build consistency Reveal...","categories": ["skill-building","organization","practice"],
-        "tags": ["craft journals","progress tracking","practice logs","creative routine","improvement tools","habit building"],
+        "tags": ["craft journals","progress tracking","practice logs","creative routine","improvement tools","habit building","beginner-friendly"],
         "url": "/skill-building/track-your-crafting-progress/",
         "teaser": null
       },{
