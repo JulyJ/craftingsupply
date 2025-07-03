@@ -35,9 +35,15 @@ var store = [{
         "url": "/categories/business/",
         "teaser": null
       },{
+        "title": "Cricut & Cutting Machines Cheatsheet",
+        "excerpt":"Cutting Machine Types &amp; Brands Popular Machine Categories Machine Type Cutting Force Material Compatibility Price Range Best For Entry-Level Personal Light to medium Paper, vinyl, thin fabric $150-350 Hobby crafters, beginners Mid-Range Versatile Medium to heavy Wide material range $300-600 Serious crafters, small business Professional Multi-Tool Heavy duty Thick materials,...","categories": ["cutting-machines","cricut","cheatsheet","DIY","crafting","small-business"],
+        "tags": ["cricut","silhouette","cutting-machine","vinyl","crafting","personalization","small-business","design-space","cheatsheet"],
+        "url": "/cheatsheets/cutting-machines/",
+        "teaser": null
+      },{
         "title": "Laser Cutting Cheatsheet",
         "excerpt":"Laser Cutter Types &amp; Technologies Desktop vs. Professional Models Machine Category Work Area Size Power Range Price Range Best For Entry-Level Desktop 8” x 12” to 12” x 20” 5-15W diode $200-800 Hobby projects, learning Mid-Range Desktop 16” x 24” to 20” x 28” 40-60W CO2 $2,000-6,000 Small business, prototyping...","categories": ["laser-cutting","cheatsheet","DIY","technology","small-business"],
-        "tags": ["laser-cutter","precision-cutting","engraving","crafting","maker","small-business","digital-fabrication"],
+        "tags": ["laser-cutter","precision-cutting","engraving","crafting","maker","small-business","digital-fabrication","cheatsheet"],
         "url": "/cheatsheets/laser-cutting/",
         "teaser": null
       },{
@@ -49,37 +55,31 @@ var store = [{
       },{
         "title": "3D Printing Cheatsheet",
         "excerpt":"3D Printer Types &amp; Features Common Printer Types Printer Type Technology Print Materials Resolution Price Range Ideal Use FDM (Fused Deposition Modeling) Melts and extrudes filament PLA, PETG, ABS, TPU 50–300 microns $200–$1,000 Prototyping, functional parts SLA (Resin) Cures resin with UV light Standard, tough, flexible resin 25–100 microns $250–$1,500...","categories": ["3d-printing","cheatsheet","crafting","small-business","maker-tech"],
-        "tags": ["3d-printer","filament","resin","FDM","SLA","crafting","prototyping","DIY","miniatures","small-business"],
+        "tags": ["3d-printer","filament","resin","FDM","SLA","crafting","prototyping","DIY","miniatures","small-business","cheatsheet"],
         "url": "/cheatsheets/3d-printing/",
         "teaser": null
       },{
         "title": "Calligraphy & Lettering Cheatsheet",
         "excerpt":"Calligraphy Styles Overview Style Look &amp; Feel Tools Used Skill Level Common Uses Modern Script Loose, fluid, whimsical Brush pens, nibs Beginner+ Wedding invites, prints Copperplate Elegant, looping Pointed pen + ink Intermediate+ Envelopes, certificates Gothic / Blackletter Bold, angular Broad nib dip pens Intermediate Posters, logos Italic Slanted, legible...","categories": ["calligraphy","art","lettering","cheatsheet","tools","DIY","small-business"],
-        "tags": ["calligraphy","hand-lettering","pens","dip-ink","brush","nibs","typography","design"],
+        "tags": ["calligraphy","hand-lettering","pens","dip-ink","brush","nibs","typography","design","cheatsheet"],
         "url": "/cheatsheets/calligraphy-tools/",
         "teaser": null
       },{
         "title": "Embroidery & Cross-Stitch Cheatsheet",
         "excerpt":"Craft Type Comparison Craft Type Technique Fabric Type Best For Skill Level Embroidery Freeform stitching, decorative Cotton, linen, denim Custom motifs, text, florals All levels Cross-Stitch Grid-based X stitches Aida, evenweave Patterns, pixel art Beginner to intermediate Crewel Work Wool embroidery on linen Linen twill Textured, vintage designs Intermediate Blackwork...","categories": ["embroidery","cross-stitch","textile-art","cheatsheet","needlecraft","DIY","crafting"],
-        "tags": ["embroidery","cross-stitch","hoop art","floss","pattern","textile","handmade","DIY"],
+        "tags": ["embroidery","cross-stitch","hoop art","floss","pattern","textile","handmade","DIY","cheatsheet"],
         "url": "/cheatsheets/embroidery-cross-stitch/",
         "teaser": null
       },{
         "title": "Embroidery Machines Cheatsheet",
         "excerpt":"Embroidery Machine Types Machine Type Hoop Size Features Best For Price Range Single-Needle 4x4”–6x10” Simple, entry-level Hobbyists, beginners $300–$1,200 Multi-Needle 5x7”–8x14”+ Multiple thread colours Small businesses $2,500–10,000 Sewing + Embroidery Combo 4x4”–6x10” Dual function Crafters, limited space $500–2,000 Commercial Machines 12x18”+ Industrial-grade High-volume business $10,000+ Brand Comparison Matrix Brand Popular...","categories": ["embroidery","machines","textile","cheatsheet","crafting","small-business"],
-        "tags": ["embroidery","embroidery-machine","applique","textile-crafting","monogramming","small-business"],
+        "tags": ["embroidery","embroidery-machine","applique","textile-crafting","monogramming","small-business","cheatsheet"],
         "url": "/cheatsheets/embroidery-machines/",
         "teaser": null
       },{
         "title": "Foiling & Embossing Cheatsheet",
         "excerpt":"Key Techniques Overview Technique Description Tools Needed Best For Heat Embossing Powder melted with heat gun creates raised design Embossing powder, heat gun, embossing ink Cards, invitations, tags Cold Foiling Foil applied via adhesive and pressure without heat Foil sheets, laminator or press, adhesive Large prints, commercial Hot Foiling (Foil...","categories": ["foiling","embossing","cheatsheet","crafting","DIY","small-business"],
         "tags": ["foiling","embossing","heat foil","cold foil","embossing powders","crafting","personalization","cheatsheet"],
-        "url": "/cheatsheets/foiling-embossing/",
-        "teaser": null
-      },{
-        "title": "Foiling & Embossing Cheatsheet",
-        "excerpt":"Key Techniques Overview Technique Description Tools Needed Best For Heat Embossing Powder melted with heat gun creates raised design Embossing powder, heat gun, embossing ink Cards, invitations, tags Cold Foiling Foil applied via adhesive and pressure without heat Foil sheets, laminator or press, adhesive Large prints, commercial Hot Foiling (Foil...","categories": ["foiling","embossing","cheatsheet","crafting","DIY","small-business"],
-        "tags": ["foiling","embossing","heat foil","cold foil","embossing powders","crafting","personalization"],
         "url": "/cheatsheets/foiling-embossing/",
         "teaser": null
       },{
@@ -91,13 +91,13 @@ var store = [{
       },{
         "title": "Jewelry Making Cheatsheet",
         "excerpt":"Popular Jewelry Styles &amp; Techniques Style/Technique Description Complexity Tools Needed Beading Stringing beads onto thread or wire ⭐ Pliers, crimp tool Wire Wrapping Sculpting wire around stones ⭐⭐ Round-nose pliers Polymer Clay Molded, baked clay shapes ⭐⭐ Clay tools, oven Resin Casting Pouring resin into molds ⭐⭐⭐ Molds, UV/epoxy resin...","categories": ["jewelry-making","cheatsheet","DIY","crafting","small-business"],
-        "tags": ["jewelry","handmade","beads","wire-wrapping","resin","polymer-clay","accessories","small-business"],
+        "tags": ["jewelry","handmade","beads","wire-wrapping","resin","polymer-clay","accessories","small-business","cheatsheet"],
         "url": "/cheatsheets/jewelry-making/",
         "teaser": null
       },{
         "title": "Leathercraft Cheatsheet",
         "excerpt":"Essential Leathercraft Tools Tool Purpose Notes Cutting Knife / Rotary Cutter Cutting leather pieces Sharp blades, precision required Leather Shears Heavy-duty scissors For cutting thick leather Edge Beveler Rounds off leather edges Adds professional finish Hole Punch Set Creates holes for stitching, hardware Different sizes for various uses Stitching Groover...","categories": ["leathercraft","cheatsheet","DIY","crafting","small-business"],
-        "tags": ["leathercraft","leather tools","hand stitching","leatherworking","craft supplies","small business"],
+        "tags": ["leathercraft","leather tools","hand stitching","leatherworking","craft supplies","small business","cheatsheet"],
         "url": "/cheatsheets/leathercraft/",
         "teaser": null
       },{
@@ -109,19 +109,19 @@ var store = [{
       },{
         "title": "Metal Stamping Cheatsheet",
         "excerpt":"Core Metal Stamping Tools Tool Purpose Notes Steel Stamping Blanks Surface for stamping Available in aluminum, brass, copper, stainless steel Letter/Design Stamps Imprint letters/symbols Available in multiple fonts/sizes Metal Stamping Hammer Delivers precise strike Brass head preferred to reduce bounce Steel Bench Block Firm stamping surface Reduces vibration for cleaner...","categories": ["metalworking","jewelry","cheatsheet","DIY","tools","small-business"],
-        "tags": ["metal stamping","jewelry","blanks","personalization","craft tools","engraving","hand tools"],
+        "tags": ["metal stamping","jewelry","blanks","personalization","craft tools","engraving","hand tools","cheatsheet"],
         "url": "/cheatsheets/metal-stamping/",
         "teaser": null
       },{
         "title": "Miniature Making & Dollhouses Cheatsheet",
         "excerpt":"Common Dollhouse Scales Scale Ratio Notes Best For 1:12 1 inch = 1 foot Most popular Standard dollhouses 1:24 ½ inch = 1 foot Half scale Small spaces, collectors 1:48 ¼ inch = 1 foot “Quarter scale” Travel kits, detailed builds 1:144 1/12 of 1:12 Micro Inside other dollhouses 1:6...","categories": ["miniatures","dollhouses","cheatsheet","DIY","crafting","scale-models"],
-        "tags": ["miniatures","dollhouses","diorama","scale modeling","hobby crafts","crafting"],
+        "tags": ["miniatures","dollhouses","diorama","scale modeling","hobby crafts","crafting","cheatsheet"],
         "url": "/cheatsheets/miniatures-dollhouses/",
         "teaser": null
       },{
         "title": "Painting & Art Supplies Cheatsheet",
         "excerpt":"Types of Paint Paint Type Base Drying Time Surface Compatibility Skill Level Notes Acrylic Water-based Fast (5–30 mins) Canvas, wood, paper, fabric ⭐⭐ Versatile, beginner-friendly Watercolour Water-based Very fast (5–15 mins) Watercolour paper ⭐ Transparent layers Gouache Water-based Medium (15–45 mins) Paper, wood ⭐⭐ Matte, vibrant, reactivates Oil Oil-based Slow...","categories": ["art","painting","supplies","cheatsheet","DIY","crafting","small-business"],
-        "tags": ["painting","acrylic","watercolour","canvas","brushes","art-supplies","mixed-media","small-business"],
+        "tags": ["painting","acrylic","watercolour","canvas","brushes","art-supplies","mixed-media","small-business","cheatsheet"],
         "url": "/cheatsheets/painting-art-supplies/",
         "teaser": null
       },{
@@ -133,43 +133,43 @@ var store = [{
       },{
         "title": "Pottery Wheels & Kilns",
         "excerpt":"Pottery Wheel Types Wheel Type Power Source Pros Cons Ideal For Electric Wheel Plug-in motor Quiet, efficient, portable Needs power Hobbyists, indoor studios Kick Wheel Manual, foot-powered No electricity, durable Heavy, tiring Traditionalists, outdoor use Portable Mini Wheel Electric (compact) Affordable, small footprint Lower torque, small projects Beginners, small pieces...","categories": ["clay","ceramics","pottery","equipment","small-business"],
-        "tags": ["pottery","ceramics","kiln","wheel","clay","studio","firing","glaze","sculpting"],
+        "tags": ["pottery","ceramics","kiln","wheel","clay","studio","firing","glaze","sculpting","cheatsheet"],
         "url": "/categories/pottery-wheels-kilns/",
         "teaser": null
       },{
         "title": "Quilting & Patchwork Cheatsheet",
         "excerpt":"Essential Quilting Tools Tool Use Notes Rotary Cutter Cut fabric with precision Use with cutting mat Self-Healing Cutting Mat Protects surfaces Use size at least 18”x24” Quilting Ruler Straight cuts and measuring 6.5”x24” is versatile Sewing Machine Piecing and quilting Walking foot or ¼” foot preferred Pins/Clips Hold fabric pieces...","categories": ["quilting","sewing","textile","patchwork","cheatsheet","DIY","crafting"],
-        "tags": ["quilting","patchwork","sewing","fabric art","textile design","DIY quilts","handmade"],
+        "tags": ["quilting","patchwork","sewing","fabric art","textile design","DIY quilts","handmade","cheatsheet"],
         "url": "/cheatsheets/quilting-patchwork/",
         "teaser": null
       },{
         "title": "Resin Casting & Epoxy Art Guide",
         "excerpt":"Resin &amp; Epoxy Types Overview Type Description Best Use Cure Time Safety Notes Epoxy Resin Two-part, clear or tinted Jewelry, coatings, art 12-48 hours Use gloves, ventilate area Polyester Resin Fast curing, stronger smell Casting large items 15-30 mins Use respirator, well ventilated UV Resin Cures under UV light quickly...","categories": ["resin","epoxy","casting","crafting","DIY","small-business"],
-        "tags": ["resin casting","epoxy art","molds","curing","crafting","jewelry","coatings"],
+        "tags": ["resin casting","epoxy art","molds","curing","crafting","jewelry","coatings","cheatsheet"],
         "url": "/categories/resin-epoxy-art/",
         "teaser": null
       },{
         "title": "Sewing Cheatsheet",
         "excerpt":"Essential Sewing Tools Cheat Sheet Tool Purpose Beginner Friendly Average Cost Notes Fabric Scissors Clean cutting ✅ $15–40 Keep for fabric only Rotary Cutter Precision cutting ✅ $10–30 Works best with cutting mat Cutting Mat Protects surface ✅ $20–100 Self-healing is best Pins &amp; Clips Hold fabric ✅ $5–15 Clips...","categories": ["sewing","fabric","cheatsheet","tools","DIY","crafting","small-business"],
-        "tags": ["sewing","fabric","tools","quilting","embroidery","fashion","DIY","small-business"],
+        "tags": ["sewing","fabric","tools","quilting","embroidery","fashion","DIY","small-business","cheatsheet","sewing"],
         "url": "/cheatsheets/sewing-tools/",
         "teaser": null
       },{
         "title": "Soap & Candle Making Cheatsheet",
         "excerpt":"Soap Making Methods Overview Method Difficulty Cure Time Best For Safety Level Melt and Pour ⭐ (Easy) 0 hrs Beginners, kids Low Cold Process ⭐⭐ (Moderate) 4-6 weeks Custom soap recipes Medium Hot Process ⭐⭐ (Moderate) 1-2 weeks Rustic soaps, faster cure High Rebatching ⭐⭐ (Moderate) 1 week Salvaging batches...","categories": ["soap","candle","cheatsheet","DIY","crafting","small-business"],
-        "tags": ["soap making","candle making","melt and pour","cold process","wax","wicks","fragrance","crafting","handmade"],
+        "tags": ["soap making","candle making","melt and pour","cold process","wax","wicks","fragrance","crafting","handmade","cheatsheet"],
         "url": "/cheatsheets/soap-candle-making/",
         "teaser": null
       },{
         "title": "Stamp Carving Tools & Techniques",
         "excerpt":"Essential Stamp Carving Tools Tool Purpose Notes Carving Gouges Remove material with curved blades Set includes U, V, flat shapes Linoleum Cutters Precision cutting in linocut &amp; rubber Interchangeable blades Craft Knives (X-Acto) Fine detail cutting, trimming Replace blades often Rubber Carving Blocks Material for stamps Soft, easy to carve...","categories": ["stamp-carving","tools","DIY","crafting","small-business"],
-        "tags": ["stamp carving","rubber stamps","linocut","carving tools","DIY","personalization","craft supplies"],
+        "tags": ["stamp carving","rubber stamps","linocut","carving tools","DIY","personalization","craft supplies","cheatsheet"],
         "url": "/categories/stamp-carving/",
         "teaser": null
       },{
         "title": "Woodworking Tools for Crafters",
         "excerpt":"Core Woodworking Tool Categories Tool Type Examples Best Use Power Required Budget Hand Tools Chisels, mallets, hand saws Precision shaping, detail None $5–$100 Portable Power Tools Drill, jigsaw, sander Small shop projects Yes $30–$300 Benchtop Tools Miter saw, scroll saw, drill press Cutting and drilling Yes $100–$500 Stationary Machines Table...","categories": ["woodworking","crafting","DIY","tools","small-business"],
-        "tags": ["woodworking","tools","saws","sanding","engraving","furniture","DIY","small-business"],
+        "tags": ["woodworking","tools","saws","sanding","engraving","furniture","DIY","small-business","cheatsheet"],
         "url": "/categories/woodworking-tools/",
         "teaser": null
       },{
@@ -241,49 +241,55 @@ var store = [{
       },{
         "title": "Candle Making Cheatsheet",
         "excerpt":"Essential Candle Making Tools Tool Category Basic Tools Advanced Tools Price Range Purpose Melting Double boiler, microwave-safe container Wax melter, electric melting pot $20-150 Melting wax safely and evenly Measuring Kitchen scale, measuring cups Digital scale, graduated cylinders $15-80 Precise wax and fragrance ratios Temperature Candy thermometer Digital thermometer, infrared...","categories": ["candle-making","wax-crafts","home-decor","cheatsheet","DIY","handmade","aromatherapy"],
-        "tags": ["candle-wax","wicks","fragrance-oils","candle-containers","soy-wax","beeswax","paraffin","candle-dyes"],
+        "tags": ["candle-wax","wicks","fragrance-oils","candle-containers","soy-wax","beeswax","paraffin","candle-dyes","cheatsheet"],
         "url": "/cheatsheets/candle-making/",
         "teaser": null
       },{
         "title": "Card Making Cheatsheet",
         "excerpt":"Essential Card Making Tools Tool Category Basic Tools Advanced Tools Price Range Purpose Cutting Tools Scissors, craft knife, ruler Paper trimmer, die-cutting machine $15-300 Precise cuts, shapes Adhesives Glue stick, double-sided tape Foam tape, liquid glue, runner $10-40 Secure attachment, dimension Stamping Ink pads, clear stamps Embossing powder, heat gun...","categories": ["card-making","paper-crafts","stamping","cheatsheet","DIY","greeting-cards","handmade"],
-        "tags": ["handmade-cards","paper-crafting","stamping","embossing","die-cutting","cardstock","greeting-cards","invitations"],
+        "tags": ["handmade-cards","paper-crafting","stamping","embossing","die-cutting","cardstock","greeting-cards","invitations","cheatsheet"],
         "url": "/cheatsheets/card-making/",
         "teaser": null
       },{
         "title": "Ceramics Cheatsheet",
         "excerpt":"Advanced Ceramic Materials Material Type Composition Max Temperature Applications Properties Technical Porcelain High alumina, low iron 2650°F (1450°C) Electrical insulators, lab ware High strength, low porosity Alumina (Al₂O₃) 85-99% aluminum oxide 3200°F (1760°C) Cutting tools, wear parts Extreme hardness, chemical resistance Zirconia (ZrO₂) Zirconium oxide 4800°F (2650°C) Dental implants, engine...","categories": ["ceramics","advanced-pottery","technical-ceramics","industrial-ceramics","cheatsheet","kiln-technology","ceramic-chemistry"],
-        "tags": ["ceramic-materials","advanced-glazing","kiln-atmosphere","ceramic-engineering","refractory","porcelain","technical-ceramics","ceramic-chemistry"],
+        "tags": ["ceramic-materials","advanced-glazing","kiln-atmosphere","ceramic-engineering","refractory","porcelain","technical-ceramics","ceramic-chemistry","cheatsheet"],
         "url": "/cheatsheets/ceramics/",
+        "teaser": null
+      },{
+        "title": "Crochet Cheatsheet",
+        "excerpt":"Essential Crochet Tools Tool Category Basic Tools Advanced Tools Price Range Purpose Hooks Aluminum, plastic Ergonomic grips, interchangeable $5-80 Creating stitches, loops Measuring Tape measure, gauge ruler Blocking mats, T-pins $10-50 Accurate measurements, blocking Cutting Scissors, yarn cutter Thread snips, cord cutter $5-25 Clean cuts, finishing Markers Stitch markers, row...","categories": ["crochet","yarn-crafts","fiber-arts","cheatsheet","DIY","handmade","hook-work"],
+        "tags": ["crochet-patterns","yarn-weights","crochet-hooks","stitches","gauge","granny-squares","amigurumi","tapestry-crochet","cheatsheet"],
+        "url": "/cheatsheets/crochet/",
         "teaser": null
       },{
         "title": "Floral Crafts Cheatsheet",
         "excerpt":"Flower Types &amp; Characteristics Flower Type Longevity Cost Skill Level Best Uses Fresh Cut Flowers 3-14 days Medium-High All levels Bouquets, centerpieces, events Dried Flowers 6-12 months Low-Medium Beginner Wreaths, potpourri, rustic decor Silk/Artificial Years Medium Beginner Permanent displays, allergy-friendly Preserved Flowers 1-3 years High Intermediate Luxury arrangements, keepsakes Paper...","categories": ["floral","crafts","flowers","cheatsheet","tools","DIY","arrangements"],
-        "tags": ["flower-arranging","dried-flowers","silk-flowers","wreaths","bouquets","floral-foam","botanical"],
+        "tags": ["flower-arranging","dried-flowers","silk-flowers","wreaths","bouquets","floral-foam","botanical","cheatsheet"],
         "url": "/cheatsheets/floral-crafts/",
         "teaser": null
       },{
         "title": "Glass Fusing Cheatsheet",
         "excerpt":"Essential Glass Fusing Tools Tool Category Basic Tools Professional Tools Price Range Purpose Kiln Equipment Small tabletop kiln, kiln wash Large programmable kiln, pyrometer $300-3000 Firing glass projects Glass Cutting Basic glass cutter, grozing pliers Ring saw, glass grinder, diamond blade saw $25-800 Cutting and shaping glass Safety Gear Safety...","categories": ["glass-fusing","kiln-forming","warm-glass","fused-glass","cheatsheet","DIY","handmade","glass-crafts"],
-        "tags": ["glass-fusing-tools","kiln","compatible-glass","firing-schedules","slumping","tack-fusing","full-fusing","COE"],
+        "tags": ["glass-fusing-tools","kiln","compatible-glass","firing-schedules","slumping","tack-fusing","full-fusing","COE","cheatsheet"],
         "url": "/cheatsheets/glass-fusing/",
         "teaser": null
       },{
         "title": "Knitting Cheatsheet",
         "excerpt":"Essential Knitting Tools Tool Category Basic Tools Advanced Tools Price Range Purpose Needles Straight, circular, DPNs Interchangeable sets, cable needles $5-200 Creating stitches, shaping Measuring Tape measure, ruler Gauge ruler, blocking mats $10-50 Accurate measurements, blocking Cutting Scissors, yarn cutter Thread snips, rotary cutter $8-30 Clean cuts, finishing Markers Stitch...","categories": ["knitting","yarn-crafts","fiber-arts","cheatsheet","DIY","handmade","needlework"],
-        "tags": ["knitting-patterns","yarn-weights","knitting-needles","stitches","gauge","blocking","cable-knitting","colourwork"],
+        "tags": ["knitting-patterns","yarn-weights","knitting-needles","stitches","gauge","blocking","cable-knitting","colourwork","cheatsheet"],
         "url": "/cheatsheets/knitting/",
         "teaser": null
       },{
         "title": "Model Making Cheatsheet",
         "excerpt":"Model Types &amp; Scales Model Type Common Scales Skill Level Detail Level Typical Time Aircraft Models 1/72, 1/48, 1/32 Beginner+ Medium-High 8-20 hours Military Vehicles 1/35, 1/48 Intermediate High 15-40 hours Cars &amp; Motorcycles 1/24, 1/25 Beginner Medium 10-25 hours Ships &amp; Submarines 1/350, 1/700 Intermediate+ Very High 20-60 hours...","categories": ["modeling","hobby","miniatures","cheatsheet","tools","DIY","crafts"],
-        "tags": ["plastic-models","scale-models","miniatures","painting","weathering","dioramas","kits"],
+        "tags": ["plastic-models","scale-models","miniatures","painting","weathering","dioramas","kits","cheatsheet"],
         "url": "/cheatsheets/model-making/",
         "teaser": null
       },{
         "title": "Mosaic Art Cheatsheet",
         "excerpt":"Mosaic Materials (Tesserae) Material Type Durability Cost Best For Cutting Method Ceramic Tiles High Low-Medium Beginners, indoor/outdoor Tile nippers, wet saw Glass Tiles High Medium-High Decorative, backsplashes Glass cutters, nippers Natural Stone Very High Medium-High Outdoor, rustic designs Diamond blade, chisel Vitreous Glass Very High High Pools, wet areas Specialized...","categories": ["mosaic","art","tiles","cheatsheet","tools","DIY","crafts"],
-        "tags": ["mosaic-art","tesserae","grout","tile-cutting","glass-mosaic","ceramic","stone","installation"],
+        "tags": ["mosaic-art","tesserae","grout","tile-cutting","glass-mosaic","ceramic","stone","installation","cheatsheet"],
         "url": "/cheatsheets/mosaic-art/",
         "teaser": null
       },{
@@ -295,13 +301,13 @@ var store = [{
       },{
         "title": "Pottery Cheatsheet",
         "excerpt":"Essential Pottery Tools Tool Category Basic Tools Advanced Tools Price Range Purpose Hand Building Wire tools, ribs, sponges Texture rollers, stamps, extruders $20-150 Shaping, smoothing, texturing Wheel Throwing Throwing ribs, wire, calipers Pottery wheel, chuck, bats $50-2000 Centering, pulling, measuring Trimming Loop tools, turning tools Adjustable trimming tools, chucks $15-100...","categories": ["pottery","ceramics","clay-work","kiln-firing","cheatsheet","DIY","handmade","wheel-throwing"],
-        "tags": ["clay-types","glazing","firing","pottery-wheel","hand-building","bisque","stoneware","earthenware","porcelain"],
+        "tags": ["clay-types","glazing","firing","pottery-wheel","hand-building","bisque","stoneware","earthenware","porcelain","cheatsheet"],
         "url": "/cheatsheets/pottery/",
         "teaser": null
       },{
         "title": "Quilling Cheatsheet",
         "excerpt":"Essential Quilling Tools Tool Category Basic Tools Advanced Tools Price Range Purpose Rolling Tools Slotted tool, needle tool Electric quilling machine $5-150 Creating coils, tight rolls Shaping Tools Toothpick, tweezers Dome tool, circle sizer $10-40 Precise shaping, manipulation Cutting Tools Scissors, craft knife Paper shredder, strip cutter $15-80 Uniform strips,...","categories": ["quilling","paper-filigree","paper-crafts","cheatsheet","DIY","paper-rolling","handmade"],
-        "tags": ["paper-quilling","filigree","coiling","paper-strips","quilling-tools","rolled-paper","decorative-art"],
+        "tags": ["paper-quilling","filigree","coiling","paper-strips","quilling-tools","rolled-paper","decorative-art","cheatsheet"],
         "url": "/cheatsheets/quilling/",
         "teaser": null
       },{
@@ -319,56 +325,98 @@ var store = [{
       },{
         "title": "Soap Making Cheatsheet",
         "excerpt":"Essential Soap Making Tools Tool Category Basic Tools Advanced Tools Price Range Purpose Safety Equipment Safety goggles, gloves, apron Face shield, respirator mask $20-80 Lye handling protection Measuring Digital scale, measuring cups Precision scale (0.1g), graduated cylinders $25-150 Accurate measurements critical Mixing Silicone spatulas, wooden spoons Immersion blender, stand mixer...","categories": ["soap-making","natural-skincare","DIY","handmade","cheatsheet","cold-process","hot-process"],
-        "tags": ["lye-soap","saponification","essential-oils","soap-base","glycerin","soap-molds","superfat","trace"],
+        "tags": ["lye-soap","saponification","essential-oils","soap-base","glycerin","soap-molds","superfat","trace","cheatsheet"],
         "url": "/cheatsheets/soap-making/",
         "teaser": null
       },{
         "title": "Stained Glass Cheatsheet",
         "excerpt":"Essential Stained Glass Tools Tool Category Basic Tools Professional Tools Price Range Purpose Glass Cutting Glass cutter, breaking pliers Oil-filled cutters, circle cutters $15-150 Scoring and breaking glass Pattern Work Carbon paper, scissors, shears Light table, pattern knife $20-200 Transferring and cutting patterns Leading Lead knife, fid, horseshoe nails Lead...","categories": ["stained-glass","glass-art","leadlight","copper-foil","cheatsheet","DIY","handmade","glass-crafts"],
-        "tags": ["stained-glass-tools","glass-cutting","leading","soldering","glass-types","came","copper-foil","kiln-forming"],
+        "tags": ["stained-glass-tools","glass-cutting","leading","soldering","glass-types","came","copper-foil","kiln-forming","cheatsheet"],
         "url": "/cheatsheets/stained-glass/",
         "teaser": null
       },{
         "title": "Acrylic Painting Cheatsheet",
         "excerpt":"Acrylic Paint Types Paint Type Consistency Opacity Best Use Notes Heavy Body Thick, buttery High Canvas, impasto techniques Holds brushstrokes well Soft Body Smooth, fluid Medium Detail, glazing, fluid work Good flow, mixes easily High Flow Ink-like Transparent Airbrush, calligraphy Great for fine lines Student Grade Varies Medium Practice, beginners...","categories": ["painting","acrylic","art","DIY","guides"],
-        "tags": ["acrylic","painting","art techniques","beginner art","brushes","canvas painting","colour mixing"],
+        "tags": ["acrylic","painting","art techniques","beginner art","brushes","canvas painting","colour mixing","cheatsheet"],
         "url": "/cheatsheets/acrylic-painting/",
+        "teaser": null
+      },{
+        "title": "Bath Bomb Making Cheatsheet",
+        "excerpt":"Essential Ingredients &amp; Ratios Basic Bath Bomb Formula Ingredient Percentage Function Quality Grade Cost/lb Baking Soda 40-50% Alkaline base, fizzing agent Food grade $1-$3 Citric Acid 20-25% Acid component, creates fizz Food/USP grade $3-$8 Cornstarch 10-15% Binding agent, smooth texture Food grade $2-$5 Cream of Tartar 5-10% Hardening agent, stability...","categories": ["bath-bombs","cheatsheet","crafting","small-business","cosmetics"],
+        "tags": ["bath-bombs","fizzy-bombs","essential-oils","baking-soda","citric-acid","crafting","cosmetics","small-business","cheatsheet"],
+        "url": "/cheatsheets/bath-bomb-making/",
         "teaser": null
       },{
         "title": "Batik Cheatsheet",
         "excerpt":"Fabric Types &amp; Dye Compatibility Fabric Type Best Dye Types Ease of Dyeing Notes Cotton Fiber reactive dyes Easy Absorbs vibrant colours Silk Acid dyes Intermediate Smooth finish, bright colours Rayon Fiber reactive dyes Easy Soft hand, vivid colour uptake Linen Fiber reactive dyes Intermediate Natural texture, less absorbent Wool...","categories": ["textiles","crafts","dyeing","DIY","traditional"],
-        "tags": ["batik","wax resist dyeing","fabric dyeing","textile crafts","Indonesian crafts"],
+        "tags": ["batik","wax resist dyeing","fabric dyeing","textile crafts","Indonesian crafts","cheatsheet"],
         "url": "/cheatsheets/batik/",
+        "teaser": null
+      },{
+        "title": "Beeswax Wraps Making Cheatsheet",
+        "excerpt":"What Are Beeswax Wraps? Beeswax wraps are reusable, natural alternatives to plastic wrap made from fabric coated with beeswax and other natural ingredients. They are breathable, washable, and compostable. Materials Needed Material Description Notes Cotton Fabric Lightweight, tightly woven Organic or quilting cotton works best Beeswax Pellets Pure, food-grade beeswax...","categories": ["DIY","eco-friendly","crafts","sustainable","kitchen"],
+        "tags": ["beeswax wraps","DIY food wrap","sustainable crafts","eco-friendly kitchen","zero waste","cheatsheet"],
+        "url": "/cheatsheets/beeswax-wraps-making/",
+        "teaser": null
+      },{
+        "title": "Birdhouse & Feeder Crafting Cheatsheet",
+        "excerpt":"Why Build Birdhouses &amp; Feeders? Providing safe nesting and feeding spaces supports local bird populations and adds charm to your garden or outdoor space. Common Materials Material Description Pros Cons Untreated Wood Natural wood, cedar, pine, or oak Durable, safe for birds Needs weather protection Recycled Wood Repurposed pallets or...","categories": ["DIY","woodworking","crafts","gardening","wildlife"],
+        "tags": ["birdhouse","bird feeder","woodworking","DIY crafts","wildlife habitat","garden crafts"],
+        "url": "/cheatsheets/birdhouse-feeder-crafting/",
+        "teaser": null
+      },{
+        "title": "Bookbinding Cheatsheet",
+        "excerpt":"Essential Materials &amp; Tools Basic Bookbinding Materials Material Purpose Quality Grade Cost/Unit Supplier Type Text Paper Interior pages 60-80gsm $0.02-$0.08/sheet Paper suppliers Cover Paper Book covers 120-300gsm $0.05-$0.25/sheet Art supply stores Bookboard Hard covers 2-4mm thickness $2-$8/sheet Bookbinding suppliers Book Cloth Cover material Cotton/linen $8-$25/yard Specialty suppliers PVA Glue Binding...","categories": ["bookbinding","cheatsheet","crafting","small-business","publishing"],
+        "tags": ["bookbinding","book-arts","paper-crafts","binding-techniques","hand-binding","crafting","publishing","small-business","cheatsheet"],
+        "url": "/cheatsheets/bookbinding/",
+        "teaser": null
+      },{
+        "title": "Broderie Anglaise Cheatsheet",
+        "excerpt":"What is Broderie Anglaise? Broderie Anglaise, meaning “English embroidery,” is a traditional whitework technique featuring patterns of eyelets (small holes) surrounded by embroidery stitches, creating decorative lace-like fabric textures. Common Stitches in Broderie Anglaise Stitch Name Description Use Case Difficulty Eyelet Stitch Circular stitch around cut-out holes Forms the characteristic...","categories": ["embroidery","textile","sewing","crafts","DIY"],
+        "tags": ["broderie anglaise","embroidery","eyelet lace","sewing techniques","needlework","DIY crafts"],
+        "url": "/cheatsheets/broderie-anglaise/",
+        "teaser": null
+      },{
+        "title": "Chainmaille Weaving Cheatsheet",
+        "excerpt":"What is Chainmaille? Chainmaille is the art of interlocking metal rings (jump rings) in patterned weaves. Historically used for armor, today it’s also a popular jewelry technique producing intricate bracelets, earrings, and more. Tools &amp; Materials Tool / Material Use Notes Jump Rings Main component; circular metal rings Aluminum, stainless,...","categories": ["metalwork","jewelry","historical crafts","DIY"],
+        "tags": ["chainmaille","jump rings","jewelry making","medieval crafts","weave patterns","cheatsheet"],
+        "url": "/cheatsheets/chainmaille-weaving/",
         "teaser": null
       },{
         "title": "Charcoal Drawing Cheatsheet",
         "excerpt":"Charcoal Types &amp; Characteristics Type Description Best Uses Vine Charcoal Soft, light, easy to erase Sketching, light shading Compressed Charcoal Dense, dark, less crumbly Deep shadows, bold lines Powdered Charcoal Loose powder for broad shading Backgrounds, blending Charcoal Pencils Encased, sharpened for detail Fine lines, precision work Essential Drawing Tools...","categories": ["drawing","charcoal","art","crafts"],
-        "tags": ["charcoal drawing","drawing techniques","art supplies","sketching"],
+        "tags": ["charcoal drawing","drawing techniques","art supplies","sketching","cheatsheet"],
         "url": "/cheatsheets/charcoal-drawing/",
         "teaser": null
       },{
         "title": "Craft Cheatsheets",
-        "excerpt":"Browse Craft Cheatsheets: Category Cheatsheet Textile &amp; Fiber Arts Sewing Cheatsheet Quilting &amp; Patchwork Cheatsheet Embroidery &amp; Cross-Stitch Cheatsheet Embroidery Machines Cheatsheet Macramé &amp; Knotting Cheatsheet Weaving Cheatsheet Knitting Cheatsheet Crochet Cheatsheet Shibori Cheatsheet Tie-Dye Cheatsheet Batik Cheatsheet Surface &amp; Fine Arts Painting Cheatsheet Acrylic Painting Cheatsheet Oil Painting Cheatsheet...","categories": [],
+        "excerpt":"Browse Craft Cheatsheets: Category Cheatsheet Textile &amp; Fiber Arts Sewing Cheatsheet Quilting &amp; Patchwork Cheatsheet Embroidery &amp; Cross-Stitch Cheatsheet Embroidery Machines Cheatsheet Macramé &amp; Knotting Cheatsheet Weaving Cheatsheet Knitting Cheatsheet Crochet Cheatsheet Shibori Cheatsheet Tie-Dye Cheatsheet Batik Cheatsheet Nalbinding Needle Felting Needle Lace Reverse Appliqué Sashiko Smocking Techniques Tambour Beading...","categories": [],
         "tags": ["cheatsheet"],
         "url": "/cheatsheets/",
         "teaser": null
       },{
-        "title": "Cricut & Cutting Machines Cheatsheet",
-        "excerpt":"Cutting Machine Types &amp; Brands Popular Machine Categories Machine Type Cutting Force Material Compatibility Price Range Best For Entry-Level Personal Light to medium Paper, vinyl, thin fabric $150-350 Hobby crafters, beginners Mid-Range Versatile Medium to heavy Wide material range $300-600 Serious crafters, small business Professional Multi-Tool Heavy duty Thick materials,...","categories": ["cutting-machines","cricut","cheatsheet","DIY","crafting","small-business"],
-        "tags": ["cricut","silhouette","cutting-machine","vinyl","crafting","personalization","small-business","design-space","cheatsheet"],
-        "url": "/cheatsheets/cutting-machines/",
-        "teaser": null
-      },{
-        "title": "Crochet Cheatsheet",
-        "excerpt":"Essential Crochet Tools Tool Category Basic Tools Advanced Tools Price Range Purpose Hooks Aluminum, plastic Ergonomic grips, interchangeable $5-80 Creating stitches, loops Measuring Tape measure, gauge ruler Blocking mats, T-pins $10-50 Accurate measurements, blocking Cutting Scissors, yarn cutter Thread snips, cord cutter $5-25 Clean cuts, finishing Markers Stitch markers, row...","categories": ["crochet","yarn-crafts","fiber-arts","cheatsheet","DIY","handmade","hook-work"],
-        "tags": ["crochet-patterns","yarn-weights","crochet-hooks","stitches","gauge","granny-squares","amigurumi","tapestry-crochet"],
-        "url": "/cheatsheets/crochet/",
-        "teaser": null
-      },{
         "title": "Clay Sculpture Cheatsheet",
         "excerpt":"Clay Types Overview Clay Type Firing Needed Hardness When Dry Best Use Notes Air-Dry Clay No Brittle Crafts, decor, prototypes Sealing needed for water resistance Polymer Clay Oven bake Durable Figurines, jewelry Bakes at low oven temps (130°C) Ceramic Clay Kiln required Very strong Functional pottery, sculpture Includes earthenware, stoneware...","categories": ["sculpture","clay","art","3D","DIY","modeling"],
-        "tags": ["clay sculpture","air-dry clay","polymer clay","ceramic","armature","modeling tools","kiln"],
+        "tags": ["clay sculpture","air-dry clay","polymer clay","ceramic","armature","modeling tools","kiln","cheatsheet"],
         "url": "/cheatsheets/clay-sculpture/",
+        "teaser": null
+      },{
+        "title": "Cold Porcelain Modeling Cheatsheet",
+        "excerpt":"What is Cold Porcelain? Cold porcelain is an air-dry modeling clay made from simple household ingredients like cornstarch and white glue. It dries hard without baking and is popular for crafting delicate flowers, figurines, and decorative items. Basic Cold Porcelain Recipe Ingredient Amount Purpose White Glue (PVA) 1 cup (240...","categories": ["modeling","crafts","DIY","air-dry clay","sculpture"],
+        "tags": ["cold porcelain","air-dry clay","modeling","sculpture","DIY crafts","cheatsheet"],
+        "url": "/cheatsheets/cold-porcelain-modeling/",
+        "teaser": null
+      },{
+        "title": "Coptic Binding & Book Art Cheatsheet",
+        "excerpt":"What is Coptic Binding? Coptic binding is a centuries-old bookbinding technique using exposed chain stitches along the spine. This method allows books to lay flat when open, making it ideal for sketchbooks, journals, and artists’ books. Essential Tools &amp; Materials Tool / Material Use Notes Paper (Text Block) Inside pages...","categories": ["paper crafts","bookbinding","DIY","fine arts"],
+        "tags": ["coptic binding","bookbinding","handmade books","journal making","book art","paper crafts","cheatsheet"],
+        "url": "/cheatsheets/coptic-binding/",
+        "teaser": null
+      },{
+        "title": "Decoupage Cheatsheet",
+        "excerpt":"What is Decoupage? Decoupage is the art of decorating objects with cut-out paper or fabric designs, layered with adhesives and sealed with a protective finish. It’s a versatile, low-cost craft for transforming furniture, containers, home decor, and more. Recommended Surfaces Surface Type Prep Required? Notes Wood (raw) Light sanding Smooth...","categories": ["paper crafts","upcycling","DIY","home-decor","surface-arts"],
+        "tags": ["decoupage","Mod Podge","paper crafts","upcycling","decorative art","cheatsheet","sealing techniques"],
+        "url": "/cheatsheets/decoupage/",
         "teaser": null
       },{
         "title": "Digital Painting Cheatsheet",
@@ -379,20 +427,104 @@ var store = [{
       },{
         "title": "Dioramas Cheatsheet",
         "excerpt":"Common Diorama Scales Scale Ratio Typical Use Advantages 1:12 1 inch = 1 foot Dollhouses, furniture models Detailed, easy to find materials 1:24 1/2 inch = 1 foot Miniature scenes, small figures Balance detail &amp; size 1:35 1/35 scale Military models, vehicles Popular for military dioramas 1:48 1/4 inch =...","categories": ["miniatures","crafts","dioramas","modeling","DIY"],
-        "tags": ["dioramas","miniature scenes","model making","scenery","crafting"],
+        "tags": ["dioramas","miniature scenes","model making","scenery","crafting","cheatsheet"],
         "url": "/cheatsheets/dioramas/",
+        "teaser": null
+      },{
+        "title": "DIY Inks & Pigments Cheatsheet",
+        "excerpt":"Overview DIY inks and pigments let you craft custom colours from natural and synthetic materials. These can be used for calligraphy, painting, textile dyeing, and mixed media art. Common Pigment Sources Source Type Examples Colour Range Notes Plant-based Indigo, turmeric, beetroot, walnut Blues, yellows, reds, browns Often need mordants or...","categories": ["art","painting","DIY","natural-dyes","pigments"],
+        "tags": ["DIY inks","pigments","natural dyes","colour mixing","ink recipes","art supplies","crafts"],
+        "url": "/cheatsheets/diy-inks-pigments/",
         "teaser": null
       },{
         "title": "Embossing on Fabric Cheatsheet",
         "excerpt":"Common Embossing Methods on Fabric Method Description Best For Tools Needed Heat Embossing Using heat and embossing powders Small designs, fabric cards Heat gun, embossing powders Foil Embossing Applying foil with adhesive and heat Metallic, shiny effects Foil sheets, heat press Thermography Powder raised with heat on wet ink Raised...","categories": ["fabric-crafts","embossing","DIY","textile-art"],
-        "tags": ["embossing","fabric embossing","textile embossing","heat embossing","craft techniques","cheatsheet/charcoal-drawing"],
+        "tags": ["embossing","fabric embossing","textile embossing","heat embossing","craft techniques","cheatsheet","charcoal-drawing"],
         "url": "/cheatsheets/embossing-on-fabric/",
+        "teaser": null
+      },{
+        "title": "Enameling Cheatsheet",
+        "excerpt":"What is Enameling? Enameling is the art of fusing powdered glass to metal at high temperatures, creating colourful, durable decorative surfaces used in jewelry and metal art. Essential Tools &amp; Materials Item Description Notes Enameling Kiln Electric or gas kiln for firing enamel Temperature control is essential Torch Propane or...","categories": ["jewelry","metalwork","crafts","DIY"],
+        "tags": ["enameling","jewelry making","metal art","kiln firing","vitreous enamel","cheatsheet"],
+        "url": "/cheatsheets/enameling/",
+        "teaser": null
+      },{
+        "title": "Encaustic Painting Cheatsheet",
+        "excerpt":"What is Encaustic Painting? Encaustic painting is an ancient art form using heated beeswax mixed with damar resin and pigments. The artist paints with molten wax and fuses each layer using heat, creating rich, textured, and luminous effects. Essential Tools &amp; Materials Tool / Material Purpose Notes Beeswax Primary medium...","categories": ["painting","fine arts","mixed media","DIY"],
+        "tags": ["encaustic painting","hot wax","mixed media","fine art","beeswax","art techniques","cheatsheet"],
+        "url": "/cheatsheets/encaustic-painting/",
+        "teaser": null
+      },{
+        "title": "Faux Leather Crafting Cheatsheet",
+        "excerpt":"What is Faux Leather? Faux leather is a synthetic material that mimics the look and feel of genuine leather. It’s popular in crafting for accessories, bags, keychains, earrings, and more. It’s often made from vinyl or polyurethane (PU). Essential Tools &amp; Supplies Tool / Supply Use Case Notes Faux Leather...","categories": ["fabrics","sewing","upcycling","DIY","accessories"],
+        "tags": ["faux leather","leather crafting","vegan leather","bag making","cutting machines","cheatsheet"],
+        "url": "/cheatsheets/faux-leather-crafting/",
+        "teaser": null
+      },{
+        "title": "Festival & Parade Float Decor Cheatsheet",
+        "excerpt":"Common Materials Material Description Pros Cons Crepe Paper Lightweight, colourful paper Affordable, easy to shape Fragile, not weatherproof Floral Foam Base for flower arrangements Holds water, supports stems Can dry out quickly Chicken Wire Flexible wire mesh Good for shaping large forms Sharp edges, needs gloves Fabric (Tulle, Satin) Adds...","categories": ["events","crafts","decor","DIY"],
+        "tags": ["festival decor","parade float","float decoration","event crafts","DIY decor","large-scale crafts"],
+        "url": "/cheatsheets/festival-parade-float-decor/",
+        "teaser": null
+      },{
+        "title": "Finger Puppet Making Cheatsheet",
+        "excerpt":"Materials Needed Material Description Notes Felt Fabric Soft, non-fraying fabric Easy to cut and sew or glue Cotton Fabric Lightweight and flexible For more detailed puppets Thread Polyester or cotton thread Colour-matched Embroidery Floss For facial features and details Adds texture and colour Glue Fabric glue or hot glue gun...","categories": ["DIY","crafts","sewing","toys","kids"],
+        "tags": ["finger puppet","puppet making","DIY toys","sewing crafts","kids crafts","soft toys"],
+        "url": "/cheatsheets/finger-puppet-making/",
         "teaser": null
       },{
         "title": "Flower Arranging Cheatsheet",
         "excerpt":"Arrangement Styles Style Name Description Typical Shape Best For Round Bouquet Symmetrical, dome-shaped design Circular Weddings, gifts Cascade/Waterfall Flowing downward, trailing shape Inverted teardrop Bridal bouquets, formals Linear/Modern Vertical or horizontal minimalist Line or triangle Contemporary decor Garden-Style Loose, natural arrangement Asymmetrical Rustic events, home decor Topiary Sculpted, ball-like form...","categories": ["floral","arrangements","crafts","DIY","botanical","flowers"],
-        "tags": ["flower arranging","bouquets","centerpieces","floristry","flower design","floral techniques","vase arrangements"],
+        "tags": ["flower arranging","bouquets","centerpieces","floristry","flower design","floral techniques","vase arrangements","cheatsheet"],
         "url": "/cheatsheets/flower-arranging/",
+        "teaser": null
+      },{
+        "title": "Foraging & Natural Dyeing Cheatsheet",
+        "excerpt":"Foraging Basics Tip Details Know your local region Use guidebooks or apps to identify safe plants Forage ethically Take only 10% of what’s available; never from protected land Use gloves and scissors Avoid skin irritation or plant damage Avoid pollutants Never collect near roads, industrial areas, or sprayed farmland Record...","categories": ["natural dyeing","foraging","eco-crafts","DIY","fiber arts","sustainability"],
+        "tags": ["natural dyes","foraging","botanical dyeing","eco printing","fabric dyeing","sustainable crafts","cheatsheet"],
+        "url": "/cheatsheets/foraging-natural-dyeing/",
+        "teaser": null
+      },{
+        "title": "Garden Markers & Signs Cheatsheet",
+        "excerpt":"Why Use Garden Markers &amp; Signs? Garden markers help identify plants, organize garden spaces, and add decorative charm to your outdoor or indoor garden. Common Materials Material Description Pros Cons Wood Natural, easy to paint or carve Eco-friendly, customizable Can weather and rot Metal Durable, weather-resistant Long-lasting, sleek look Can...","categories": ["gardening","DIY","crafts","home-decor"],
+        "tags": ["garden markers","garden signs","plant labels","DIY gardening","garden crafts","cheatsheet"],
+        "url": "/cheatsheets/garden-markers-signs/",
+        "teaser": null
+      },{
+        "title": "Hydrogel Crafts Cheatsheet",
+        "excerpt":"What Are Hydrogel Crafts? Hydrogels are super-absorbent polymers that retain large amounts of water. Often found as tiny beads or crystals, they swell into squishy spheres when soaked. Hydrogel crafts use these water-filled forms for sensory play, décor, science projects, and eco-friendly art. Common Types of Hydrogels Type Description Best...","categories": ["science-crafts","kids","DIY","sensory","eco-crafts"],
+        "tags": ["hydrogel","water beads","sensory play","crafts for kids","slime","eco crafts","cheatsheet"],
+        "url": "/cheatsheets/hydrogel-crafts/",
+        "teaser": null
+      },{
+        "title": "Kumihimo Braiding Cheatsheet",
+        "excerpt":"What is Kumihimo? Kumihimo is a traditional Japanese braiding technique that creates intricate, strong cords by interlacing threads or cords using a specialized disk or loom. It’s popular for jewelry, accessories, and decorative trims. Essential Tools &amp; Materials Item Description Notes Kumihimo Disk Foam or wooden disk with numbered slots...","categories": ["fiber arts","braiding","jewelry making","crafts","DIY"],
+        "tags": ["kumihimo","braiding","Japanese braiding","friendship bracelets","fiber crafts","cheatsheet"],
+        "url": "/cheatsheets/kumihimo-braiding/",
+        "teaser": null
+      },{
+        "title": "Laser Cutting and Engraving Cheatsheet",
+        "excerpt":"Laser Types &amp; Features Common Laser Types Laser Type Technology Power Range Wavelength Price Range Ideal Use CO2 Laser Gas-filled tube 40-150W 10.6μm $300-$8,000 Wood, acrylic, paper, fabric cutting Diode Laser Semiconductor 5-40W 405-450nm $200-$2,000 Engraving, thin wood/acrylic cutting Fiber Laser Fiber optic amplifier 20-100W 1064nm $2,000-$15,000 Metal engraving, anodized...","categories": ["laser-cutting","cheatsheet","crafting","small-business","maker-tech"],
+        "tags": ["laser-cutter","engraving","cutting","CO2","diode","fiber","crafting","prototyping","DIY","small-business","cheatsheet"],
+        "url": "/cheatsheets/laser-cutting/",
+        "teaser": null
+      },{
+        "title": "Latch Hook & Rug Tufting Cheatsheet",
+        "excerpt":"Tools &amp; Materials Overview Item Description Notes Latch Hook Tool Hand tool with a latch to pull yarn Essential for latch hook rugs Tufting Gun Electric or pneumatic for fast tufting Used for large or commercial rugs Canvas/Grid Mesh backing with holes Choose rug canvas for latch hook or monk’s...","categories": ["textile","fiber arts","rug making","crafts","DIY"],
+        "tags": ["latch hook","rug tufting","latch hook rug","tufting gun","fiber crafts","DIY rugs","cheatsheet"],
+        "url": "/cheatsheets/latch-hook-rug-tufting/",
+        "teaser": null
+      },{
+        "title": "Mask Making Cheatsheet",
+        "excerpt":"Types of Masks Mask Type Description Common Use Complexity Level Fabric Face Mask Reusable cloth mask Health protection Beginner Costume Mask Decorative or character masks Theatrical, cosplay Intermediate Paper Mache Mask Molded mask from paper layers Arts and crafts, theater Intermediate to Advanced Leather Mask Handcrafted leather masks Costume, masquerade...","categories": ["DIY","crafts","sewing","costumes","health"],
+        "tags": ["mask making","DIY masks","sewing masks","face masks","costume masks","crafts"],
+        "url": "/cheatsheets/mask-making/",
+        "teaser": null
+      },{
+        "title": "Miniature Doll Clothes Cheatsheet",
+        "excerpt":"Materials Needed Material Description Notes Lightweight Fabrics Cotton, silk, satin, chiffon Easy to manipulate at small scale Thread Fine polyester or cotton thread Match colour to fabric Interfacing Thin stabilizer for structure Adds firmness to collars and cuffs Miniature Notions Tiny buttons, snaps, Velcro For closures and decoration Elastic Thread...","categories": ["sewing","crafts","miniatures","DIY","dolls"],
+        "tags": ["miniature clothes","doll clothes","sewing miniatures","DIY doll clothes","crafts","tiny sewing"],
+        "url": "/cheatsheets/miniature-doll-clothes/",
         "teaser": null
       },{
         "title": "Miniatures Cheatsheet",
@@ -407,51 +539,123 @@ var store = [{
         "url": "/cheatsheets/mixed-media-sculpture/",
         "teaser": null
       },{
+        "title": "Moss Art & Living Wall Cheatsheet",
+        "excerpt":"Moss Art vs. Living Walls: What’s the Difference? Feature Moss Art (Preserved) Living Wall (Live Moss) Requires Watering ❌ No ✅ Yes (Regular misting or irrigation) Lighting Needs ❌ None (can go in dark areas) ✅ Indirect light or artificial grow lights Maintenance Very low Moderate Longevity 5–10 years indoors...","categories": ["eco-crafts","home-decor","DIY","botanical","green-art","sustainable"],
+        "tags": ["moss art","living wall","vertical garden","preserved moss","biophilic design","green decor","cheatsheet"],
+        "url": "/cheatsheets/moss-art-living-wall/",
+        "teaser": null
+      },{
+        "title": "Nalbinding Cheatsheet",
+        "excerpt":"What is Nalbinding? Nalbinding is an ancient handcraft technique that predates knitting and crochet, involving looping short lengths of yarn with a single-eyed needle to create fabric. It is valued for warm, durable textiles like mittens, socks, and hats. Essential Tools &amp; Materials Item Description Notes Nalbinding Needle Large, blunt...","categories": ["fiber arts","textile crafts","traditional crafts","knitting","crochet"],
+        "tags": ["nalbinding","traditional fiber craft","looped sewing","yarn crafts","historical crafts","cheatsheet"],
+        "url": "/cheatsheets/nalbinding/",
+        "teaser": null
+      },{
         "title": "Needle Felting Cheatsheet",
         "excerpt":"Wool Types for Needle Felting Wool Type Characteristics Best Uses Merino Wool Soft, fine fibers Detailed work, soft textures Corriedale Wool Medium fiber diameter General purpose, durability Romney Wool Coarser fibers Sculptures needing firm texture Icelandic Wool Dual coat (soft undercoat + coarse outer) Textured pieces, felting layers Alpaca Wool...","categories": ["fiber-arts","crafts","needle-felting","DIY"],
         "tags": ["needle felting","wool","felting tools","crafting","fiber arts","cheatsheet"],
         "url": "/cheatsheets/needle-felting/",
         "teaser": null
       },{
+        "title": "Needle Lace Cheatsheet",
+        "excerpt":"What is Needle Lace? Needle lace is a delicate handcraft technique where lace is created solely with needle and thread by building intricate patterns of loops, knots, and stitches over a temporary backing. Essential Materials Material Description Notes Linen or Cotton Thread Strong, fine threads for lacework Size 60–100 are...","categories": ["textile","embroidery","lace","crafts","DIY"],
+        "tags": ["needle lace","lace making","embroidery","textile art","handcraft","cheatsheet"],
+        "url": "/cheatsheets/needle-lace/",
+        "teaser": null
+      },{
         "title": "Oil Painting Cheatsheet",
         "excerpt":"Oil Paint Characteristics Feature Description Note Drying Time Slow (days to weeks) Allows blending and adjustments Opacity Ranges from transparent to opaque Depends on pigment type Colour Vibrancy Extremely rich, doesn’t dull when dry Great for detailed and rich work Finish Naturally glossy Can be adjusted with varnish Durability Excellent...","categories": ["painting","oil","art","DIY","guides"],
-        "tags": ["oil painting","brushes","mediums","solvents","layering","beginner oil art","traditional painting"],
+        "tags": ["oil painting","brushes","mediums","solvents","layering","beginner oil art","traditional painting","cheatsheet"],
         "url": "/cheatsheets/oil-painting/",
+        "teaser": null
+      },{
+        "title": "Paper Quilling 3D Sculptures Cheatsheet",
+        "excerpt":"What is 3D Paper Quilling? 3D paper quilling is the art of rolling, shaping, and assembling strips of paper into dimensional sculptures—like animals, flowers, figures, and decorative objects—by stacking and shaping basic coils and forms. Essential Tools &amp; Materials Item Description Notes Quilling Tool Slotted tool or needle tool For...","categories": ["paper crafts","sculpting","DIY","quilling"],
+        "tags": ["paper quilling","3D quilling","paper sculpture","quilled art","cheatsheet"],
+        "url": "/cheatsheets/paper-quilling-3d/",
         "teaser": null
       },{
         "title": "Pastels (Oil & Chalk) Cheatsheet",
         "excerpt":"Types of Pastels Pastel Type Description Characteristics Best Uses Chalk (Soft) Pastels Powdery, vibrant, blendable Soft texture, dusty, fragile Fine art, blending, layering Hard Pastels Firmer, less powdery More control, less dust Detail work, underdrawing Oil Pastels Creamy, waxy texture Rich colours, water-resistant Bold strokes, mixed media Pan Pastels Soft...","categories": ["drawing","pastels","art","crafts"],
-        "tags": ["pastels","oil pastels","chalk pastels","drawing techniques","art supplies"],
+        "tags": ["pastels","oil pastels","chalk pastels","drawing techniques","art supplies","cheatsheet"],
         "url": "/cheatsheets/pastels-oil-chalk/",
+        "teaser": null
+      },{
+        "title": "Plush Toy Sewing Cheatsheet",
+        "excerpt":"Materials Needed Material Description Notes Fabric Fleece, minky, cotton, felt Soft, durable, and safe for kids Thread Polyester or cotton thread Colour matched to fabric Stuffing Polyester fiberfill, cotton, wool Hypoallergenic options available Safety Eyes/Nose Plastic or embroidered features Use safety backs for durability Embroidery Floss For details and facial...","categories": ["sewing","crafts","DIY","toys","textile"],
+        "tags": ["plush toy","sewing","DIY toy","soft toy","stuffed animal","crafts","sewing tips"],
+        "url": "/cheatsheets/plush-toy-sewing/",
+        "teaser": null
+      },{
+        "title": "Polymer Clay Caning Cheatsheet",
+        "excerpt":"What is Polymer Clay Caning? Caning is the process of stacking and shaping different colours of polymer clay into a log (cane) with a pattern that runs through its entire length—similar to a slice of candy. The design remains consistent through the cross-section, even when reduced or sliced. Tools &amp;...","categories": ["polymer-clay","sculpting","jewelry","crafts","DIY"],
+        "tags": ["polymer clay","millefiori","cane work","clay jewelry","sculpting","DIY","cheatsheet"],
+        "url": "/cheatsheets/polymer-clay-caning/",
         "teaser": null
       },{
         "title": "Pressed Flower Art Cheatsheet",
         "excerpt":"Best Flowers for Pressing Flower Type Pressing Results Colour Retention Notes Pansies Flat &amp; colourful Excellent Quick drying, vivid hues Violets Small &amp; delicate Excellent Ideal for small projects Daisies Flat petals Very good Trim stem before pressing Hydrangeas Multi-petal clusters Moderate Can lose vibrancy Fern Leaves Flat &amp; lacy...","categories": ["pressed-flowers","botanical","art","crafting","nature","DIY"],
-        "tags": ["pressed flowers","flower pressing","floral crafts","botanical art","nature crafts","eco art"],
+        "tags": ["pressed flowers","flower pressing","floral crafts","botanical art","nature crafts","eco art","cheatsheet"],
         "url": "/cheatsheets/pressed-flowers/",
         "teaser": null
       },{
         "title": "Pyrography Cheatsheet",
         "excerpt":"Pyrography Tools &amp; Equipment Tool Type Description Price Range Skill Level Notes Basic Woodburner Pen Single heat, interchangeable tips $15–$40 Beginner Good for line work and simple projects Variable Temp Tool Adjustable heat settings $40–$120 Intermediate Allows shading, texture work Professional Burner (Wire) Precise heat control, interchangeable tips $100–$300+ Advanced...","categories": ["woodburning","pyrography","DIY","crafts","art","guides"],
-        "tags": ["woodburning","pyrography tools","beginner pyrography","wood art","tips","techniques","safety"],
+        "tags": ["woodburning","pyrography tools","beginner pyrography","wood art","tips","techniques","safety","cheatsheet"],
         "url": "/cheatsheets/pyrography/",
+        "teaser": null
+      },{
+        "title": "Resin Jewelry with Embedded Objects Cheatsheet",
+        "excerpt":"What is Embedded Resin Jewelry? This technique uses resin to encase small objects like dried flowers, glitter, stones, and charms into transparent jewelry pieces. Perfect for earrings, pendants, rings, and charms. Resin Types Resin Type Cure Time Ideal For Notes Epoxy Resin 12–48 hours Deep molds, large batches Crystal-clear, bubble-resistant...","categories": ["resin","jewelry","casting","crafts","DIY"],
+        "tags": ["resin jewelry","UV resin","epoxy","embedded flowers","inclusions","casting","molds","cheatsheet"],
+        "url": "/cheatsheets/resin-jewelry-embedding/",
+        "teaser": null
+      },{
+        "title": "Reverse Appliqué Cheatsheet",
+        "excerpt":"What is Reverse Appliqué? Reverse appliqué is a sewing technique where layers of fabric are sewn together and then portions of the top layers are cut away to reveal the fabric underneath, creating intricate designs and textures. Essential Tools &amp; Materials Item Description Notes Sewing Needle Sharp hand-sewing or machine...","categories": ["sewing","textile arts","crafts","appliqué","DIY"],
+        "tags": ["reverse appliqué","appliqué","sewing techniques","fabric layering","textile crafts","cheatsheet"],
+        "url": "/cheatsheets/reverse-applique/",
+        "teaser": null
+      },{
+        "title": "Sashiko Cheatsheet",
+        "excerpt":"What is Sashiko? Sashiko is a traditional Japanese form of hand embroidery using simple running stitches to create geometric and decorative patterns, often used for reinforcing or decorating fabric. Essential Tools &amp; Materials Item Description Notes Sashiko Needle Long, thick needle with a sharp point Easier to push through thick...","categories": ["textile","embroidery","traditional crafts","Japanese crafts","DIY"],
+        "tags": ["sashiko","embroidery","Japanese stitching","running stitch","visible mending","cheatsheet"],
+        "url": "/cheatsheets/sashiko/",
         "teaser": null
       },{
         "title": "Scale Models Cheatsheet",
         "excerpt":"Common Scale Sizes Scale Ratio Typical Uses Advantages 1:12 1 inch = 1 ft Dollhouses, furniture models High detail, easy to handle 1:24 1/2 inch = 1 ft Miniature vehicles, buildings Good detail, compact size 1:35 Military scale Military vehicles, figures Popular for military modeling 1:48 Aircraft scale Aircraft models,...","categories": ["modeling","crafts","scale-models","DIY","miniatures"],
-        "tags": ["scale models","model kits","miniature building","painting","assembly"],
+        "tags": ["scale models","model kits","miniature building","painting","assembly","cheatsheet"],
         "url": "/cheatsheets/scale-models/",
+        "teaser": null
+      },{
+        "title": "Screen Printing Cheatsheet",
+        "excerpt":"Screen Printing Equipment &amp; Setup Essential Equipment Equipment Size/Type Price Range Purpose Skill Level Screens 110-305 mesh $15-$50 each Image transfer All levels Squeegees 6”-18” wide $10-$40 each Ink application All levels Emulsion Photo emulsion $20-$60/quart Screen coating Intermediate Transparency Film 8.5”x11” to 13”x19” $0.50-$2/sheet Stencil creation All levels Exposure...","categories": ["screen-printing","cheatsheet","crafting","small-business","textiles"],
+        "tags": ["screen-printing","silkscreen","t-shirts","ink","squeegee","emulsion","crafting","apparel","small-business","cheatsheet"],
+        "url": "/cheatsheets/screen-printing/",
+        "teaser": null
+      },{
+        "title": "Seed Paper Making Cheatsheet",
+        "excerpt":"What is Seed Paper? Seed paper is handmade paper embedded with seeds. When planted in soil and watered, the paper breaks down and the seeds grow. It’s a beautiful eco-friendly craft used for cards, invitations, gift tags, bookmarks, and more. Basic Materials Material Purpose Notes Recycled paper (scrap) Main ingredient...","categories": ["eco-crafts","papermaking","DIY","gardening","sustainable","upcycling"],
+        "tags": ["seed paper","eco-friendly crafts","handmade paper","DIY gifts","recycled paper","sustainability","cheatsheet"],
+        "url": "/cheatsheets/seed-paper-making/",
         "teaser": null
       },{
         "title": "Shibori Cheatsheet",
         "excerpt":"Fabric Types &amp; Dye Compatibility Fabric Type Best Dye Types Ease of Dyeing Notes Cotton Fiber reactive, indigo Easy Absorbs rich colours Silk Acid dyes, indigo Intermediate Smooth texture, vibrant colours Linen Fiber reactive Intermediate Natural texture, slightly rough Rayon Fiber reactive Easy Soft feel, good dye uptake Wool Acid...","categories": ["textiles","crafts","dyeing","DIY","traditional"],
-        "tags": ["shibori","fabric dyeing","Japanese crafts","resist dyeing","indigo dye"],
+        "tags": ["shibori","fabric dyeing","Japanese crafts","resist dyeing","indigo dye","cheatsheet"],
         "url": "/cheatsheets/shibori/",
+        "teaser": null
+      },{
+        "title": "Smocking Techniques Cheatsheet",
+        "excerpt":"What is Smocking? Smocking is a decorative embroidery technique that gathers fabric in regular pleats and secures them with stitching, creating stretchy and textured patterns often used on garments and home textiles. Common Smocking Stitches Stitch Name Description Use Case Difficulty Cable Stitch Creates raised, twisted lines Borders and outlines...","categories": ["textile","sewing","embroidery","crafts","DIY"],
+        "tags": ["smocking","embroidery","sewing techniques","fabric manipulation","needlework","cheatsheet"],
+        "url": "/cheatsheets/smocking-techniques/",
         "teaser": null
       },{
         "title": "Spinning Yarn Cheatsheet",
         "excerpt":"Common Fiber Types for Spinning Fiber Type Characteristics Best Uses Wool (Merino, Corriedale, Romney) Soft to medium staple length, elastic General purpose yarns, garments Alpaca Silky, warm, less elastic Soft, warm yarns Cotton Short staple, strong Lightweight yarns, summer garments Silk Lustrous, strong Luxury yarns, blends Linen (Flax) Smooth, strong,...","categories": ["fiber-arts","crafts","spinning","DIY"],
-        "tags": ["spinning yarn","fiber arts","wool","spinning wheel","drop spindle"],
+        "tags": ["spinning yarn","fiber arts","wool","spinning wheel","drop spindle","cheatsheet"],
         "url": "/cheatsheets/spinning-yarn/",
         "teaser": null
       },{
@@ -461,16 +665,70 @@ var store = [{
         "url": "/cheatsheets/spray-paint/",
         "teaser": null
       },{
+        "title": "Stone Painting Cheatsheet",
+        "excerpt":"Tools &amp; Supplies Item Use Notes Smooth Stones Painting surface River rocks or landscaping stones work best Acrylic Paints Main coloring medium Use outdoor-safe paints for durability Paint Pens Fine detail work Great for outlines, lettering Brushes (Various Sizes) Detail and fill areas Round and liner brushes recommended Palette &amp;...","categories": ["DIY","painting","home-decor","crafts","surface-arts"],
+        "tags": ["stone painting","rock art","painted rocks","acrylic painting","nature crafts","cheatsheet","mandala stones"],
+        "url": "/cheatsheets/stone-painting/",
+        "teaser": null
+      },{
+        "title": "Sublimation Printing Cheatsheet",
+        "excerpt":"Sublimation Printer Types &amp; Features Common Printer Models Printer Model Print Size Ink Type Price Range Print Speed Ideal Use Epson EcoTank ET-2800 8.5” x 11” Sublimation ink refill $200-$300 10 ppm Beginners, small items Epson EcoTank ET-4800 8.5” x 11” Sublimation ink refill $300-$400 15 ppm Home business, versatile...","categories": ["sublimation-printing","cheatsheet","crafting","small-business","heat-press"],
+        "tags": ["sublimation","heat-press","polyester","mugs","tumblers","t-shirts","crafting","personalization","small-business","cheatsheet"],
+        "url": "/cheatsheets/sublimation-printing/",
+        "teaser": null
+      },{
+        "title": "Tambour Beading Cheatsheet",
+        "excerpt":"What is Tambour Beading? Tambour beading is a technique of applying beads to fabric using a fine hook needle to create chain stitches with beads, producing intricate and fast bead embroidery. Originally from tambour embroidery, it’s widely used in haute couture and detailed embellishment. Essential Tools &amp; Materials Item Description...","categories": ["embroidery","beadwork","textile arts","crafts","DIY"],
+        "tags": ["tambour beading","bead embroidery","chain stitch","hand embroidery","needlework","cheatsheet"],
+        "url": "/cheatsheets/tambour-beading/",
+        "teaser": null
+      },{
+        "title": "Tatting & Shuttle Lace Cheatsheet",
+        "excerpt":"What is Tatting &amp; Shuttle Lace? Tatting is a form of handmade lace created by knotting thread with a shuttle or needle to form durable, decorative motifs often used for trims, doilies, and embellishments. Essential Tools Tool Description Notes Tatting Shuttle Small tool to hold and guide thread Plastic, metal,...","categories": ["textile","lace","embroidery","crafts","DIY"],
+        "tags": ["tatting","shuttle lace","lace making","needlework","handcraft","DIY lace","crafts"],
+        "url": "/cheatsheets/tatting-shuttle-lace/",
+        "teaser": null
+      },{
         "title": "Tatting Cheatsheet",
         "excerpt":"Tatting Types Type Description Tools Used Difficulty Shuttle Tatting Uses a shuttle to create knots Tatting shuttle, thread Beginner to advanced Needle Tatting Uses a needle to form loops and knots Tatting needle, thread Beginner to intermediate Essential Tatting Tools Tool Purpose Notes Tatting Shuttle Holds and guides thread Plastic,...","categories": ["fiber-arts","crafts","tatting","DIY"],
         "tags": ["tatting","lace making","shuttle tatting","needle tatting","fiber arts","cheatsheet"],
         "url": "/cheatsheets/tatting/",
         "teaser": null
       },{
+        "title": "Temporary Tattoo Making Cheatsheet",
+        "excerpt":"Common Temporary Tattoo Types Type Description Best For Durability Decal/Transfer Tattoos Printed designs on transfer paper Easy DIY, kids, events 3-7 days Henna Natural dye applied by hand Traditional, intricate designs 1-3 weeks Jagua Gel Plant-based blue-black dye Realistic tattoo look 1-2 weeks Airbrush Tattoos Stenciled spray-on designs Quick event...","categories": ["DIY","crafts","body art","tattoos"],
+        "tags": ["temporary tattoo","tattoo making","DIY body art","skin art","transfer tattoos"],
+        "url": "/cheatsheets/temporary-tattoo-making/",
+        "teaser": null
+      },{
+        "title": "Terrarium Building Cheatsheet",
+        "excerpt":"What is a Terrarium? A terrarium is a miniature garden enclosed in a glass container, creating a controlled environment ideal for growing small plants indoors. Types of Terrariums Type Description Best For Maintenance Level Closed Terrarium Sealed glass container Moisture-loving plants Low Open Terrarium Open top or vented container Succulents...","categories": ["gardening","DIY","crafts","indoor-plants","home-decor"],
+        "tags": ["terrarium","indoor gardening","DIY terrarium","plants","home decor","gardening tips"],
+        "url": "/cheatsheets/terrarium-building/",
+        "teaser": null
+      },{
         "title": "Tie-Dye Cheatsheet",
         "excerpt":"Fabric Types &amp; Dye Compatibility Fabric Type Best Dye Types Ease of Dyeing Notes Cotton Fiber reactive, procion Easy Absorbs vibrant colours Rayon Fiber reactive, procion Easy Soft hand, bright colours Silk Acid dyes Intermediate Delicate, luxurious finish Polyester Disperse dyes Difficult Requires high heat Wool Acid dyes Intermediate Warm...","categories": ["textiles","crafts","dyeing","DIY","fashion"],
-        "tags": ["tie-dye","fabric dyeing","textile crafts","DIY fashion","colourful crafts"],
+        "tags": ["tie-dye","fabric dyeing","textile crafts","DIY fashion","colourful crafts","cheatsheet"],
         "url": "/cheatsheets/tie-dye/",
+        "teaser": null
+      },{
+        "title": "Tole Painting Cheatsheet",
+        "excerpt":"What is Tole Painting? Tole painting is a decorative folk art technique that uses detailed brushwork—often with acrylic paints—on wooden or metal objects. It combines flat base painting with intricate floral, scroll, or seasonal designs. Essential Tools &amp; Materials Tool / Material Description Notes Acrylic Paints Fast-drying, opaque, and water-soluble...","categories": ["painting","decorative arts","crafts","DIY"],
+        "tags": ["tole painting","folk art","decorative painting","acrylics","brushwork","cheatsheet"],
+        "url": "/cheatsheets/tole-painting/",
+        "teaser": null
+      },{
+        "title": "UV Resin Layering Cheatsheet",
+        "excerpt":"What Is UV Resin Layering? UV resin layering is a technique where clear resin is cured in multiple thin stages to build up depth, encase objects, or create three-dimensional effects. Each layer is cured under UV light before adding the next. Basic Tools &amp; Materials Item Use Notes UV Resin...","categories": ["resin","jewelry","crafts","DIY"],
+        "tags": ["UV resin","resin layering","embedded objects","clear resin","jewelry","cheatsheet","small crafts"],
+        "url": "/cheatsheets/uv-resin-layering/",
+        "teaser": null
+      },{
+        "title": "Visible Mending Cheatsheet",
+        "excerpt":"What is Visible Mending? Visible mending is a creative technique that repairs holes, tears, or worn areas on clothing and textiles by embracing the repair as a decorative element rather than hiding it. It promotes sustainability and personalized style. Essential Tools &amp; Materials Item Description Notes Darning Needle Thick needle...","categories": ["textile","sewing","upcycling","crafts","DIY"],
+        "tags": ["visible mending","darning","embroidery repair","fabric patching","sustainable fashion","cheatsheet"],
+        "url": "/cheatsheets/visible-mending/",
         "teaser": null
       },{
         "title": "Wall Art Making Cheatsheet",
@@ -481,13 +739,13 @@ var store = [{
       },{
         "title": "Watercolour Painting Cheatsheet",
         "excerpt":"Watercolour Paper Types Paper Type Texture Weight (gsm/lb) Best For Notes Hot Pressed Smooth 190–300 gsm / 90–140 lb Detail work, illustration Ink-friendly, shows brushstrokes Cold Pressed Slightly textured 300 gsm / 140 lb General watercolour use Most versatile type Rough Heavily textured 300+ gsm / 140–300 lb Abstract, texture-focused...","categories": ["painting","watercolour","art","DIY","guides"],
-        "tags": ["watercolour","painting","brush techniques","colour mixing","beginner art","art tools","water media"],
+        "tags": ["watercolour","painting","brush techniques","colour mixing","beginner art","art tools","water media","cheatsheet"],
         "url": "/cheatsheets/watercolour-painting/",
         "teaser": null
       },{
         "title": "Weaving Cheatsheet",
         "excerpt":"Loom Types Loom Type Description Best For Price Range Portability Frame Loom Simple open rectangle Wall hangings, small projects $15–$50 High Rigid Heddle Loom Portable with heddle to lift warp Scarves, light fabrics $100–$300 Medium Table Loom Multi-shaft, more advanced Fabric samples, patterns $200–$800 Medium Floor Loom Large and complex...","categories": ["fiber-arts","weaving","DIY","crafts","textiles","guides"],
-        "tags": ["weaving","loom weaving","fiber arts","yarn types","tapestry","beginner weaving","textile crafts"],
+        "tags": ["weaving","loom weaving","fiber arts","yarn types","tapestry","beginner weaving","textile crafts","cheatsheet"],
         "url": "/cheatsheets/weaving/",
         "teaser": null
       },{
@@ -499,13 +757,13 @@ var store = [{
       },{
         "title": "Wood Carving Cheatsheet",
         "excerpt":"Carving Tool Types Tool Type Description Best For Price Range Skill Level Carving Knives Sharp pointed knives for control Whittling, shaping $10–$50 Beginner+ Gouges Curved edge tools in various sweeps Hollows, curves $15–$80 Intermediate V-Tools V-shaped blade Detail, texture lines $20–$60 Intermediate Chisels Flat blade, used with mallet Relief and...","categories": ["woodworking","carving","DIY","crafts","art","guides"],
-        "tags": ["wood carving","whittling","wood sculpture","carving tools","beginner carving","techniques"],
+        "tags": ["wood carving","whittling","wood sculpture","carving tools","beginner carving","techniques","cheatsheet"],
         "url": "/cheatsheets/wood-carving/",
         "teaser": null
       },{
         "title": "Wreath Making Cheatsheet",
         "excerpt":"Wreath Base Types Base Type Description Best Use Difficulty Grapevine Natural vines, rustic aesthetic Dried, silk, faux floral designs Beginner Foam Ring Lightweight floral foam Fresh flowers, short-term use Beginner Wire Frame Sturdy wire circle Layered foliage, greenery-heavy Intermediate Straw Wreath Compressed straw circle Farmhouse, dried arrangements Beginner+ Moss Base...","categories": ["floral","wreaths","crafts","DIY","botanical","home-decor"],
-        "tags": ["wreath making","floral wreaths","seasonal crafts","DIY wreath","home decor","dried flowers","base forms"],
+        "tags": ["wreath making","floral wreaths","seasonal crafts","DIY wreath","home decor","dried flowers","base forms","cheatsheet"],
         "url": "/cheatsheets/wreath-making/",
         "teaser": null
       },{
@@ -630,27 +888,9 @@ var store = [{
         "teaser": null
       },{
         "title": "Tags",
-        "excerpt":"Explore posts and pages by tag. Click a tag to see all related content.       Popular Tags:        #crafting           #tool organization           #cutting-tips           #beginner           #miniatures           #heat transfer vinyl           #DIY           #small-business           #upcycling           #embroidery           #jewelry           #eco-crafting           #resin           #sewing           #painting           #budget-tools           #craft-supplies           #personalization           #beginner-friendly           #creative-block           #craft-room           #cheatsheet     ","categories": [],
+        "excerpt":"Explore posts and pages by tag. Click a tag to see all related content.       Popular Tags:        #cheatsheet           #crafting           #DIY           #small-business           #painting           #miniatures           #embroidery           #jewelry           #personalization           #resin           #sewing           #upcycling           #beginner-friendly           #eco-crafting     ","categories": [],
         "tags": [],
         "url": "/tags/",
-        "teaser": null
-      },{
-        "title": "Advanced Craft Techniques",
-        "excerpt":"Readiness Assessment: Are You Ready for Advanced Techniques? Prerequisite Skills Checklist Craft Category Basic Skills Required Tool Proficiency Project Experience Woodworking Safe power tool use, measuring accuracy Table saw, router, jointer 10+ completed projects Metalworking Soldering, basic welding Torch work, precision files 5+ metal projects Textiles Machine sewing, pattern alteration...","categories": ["advanced-crafts","skill-building","techniques","professional-crafting"],
-        "tags": ["advanced-techniques","professional-crafts","expert-skills","complex-projects","mastery","specialized-tools"],
-        "url": "/skill-building/advanced-techniques/",
-        "teaser": null
-      },{
-        "title": "Beginner-Friendly Craft Projects",
-        "excerpt":"How to Choose Your First Project Success Factors for Beginners Factor Why It Matters What to Look For Low Tool Requirements Reduces initial investment Projects using basic household items Forgiving Materials Mistakes are easily corrected Fabric, paper, yarn vs. leather, metal Quick Results Builds confidence and momentum Completable in 1-3...","categories": ["beginner-crafts","skill-building","DIY","tutorials"],
-        "tags": ["beginner","easy-crafts","starter-projects","DIY","tutorials","first-time-crafter","simple-projects"],
-        "url": "/skill-building/beginner-friendly-projects/",
-        "teaser": null
-      },{
-        "title": "Cross-Craft Skills: Transferable Techniques Across Crafts",
-        "excerpt":"Universal Craft Skills: The Foundation Core Skills That Transfer Everywhere Skill Category Applications Learning Investment Payoff Multiplier Essential Tools Precision Measurement All crafts requiring accuracy 2-4 weeks 10x Rulers, calipers, squares colour Theory Any visual craft 1-2 months 8x colour wheel, samples Spatial Visualization 3D projects, patterns 3-6 months 6x...","categories": ["skill-building","cross-craft","techniques","versatile-skills"],
-        "tags": ["transferable-skills","multi-craft","versatile-techniques","skill-transfer","craft-crossover","universal-skills"],
-        "url": "/skill-building/cross-craft-skills/",
         "teaser": null
       },{
         "title": "Creative Prompts for Crafters: Break Blocks and Try Something New",
@@ -669,6 +909,24 @@ var store = [{
         "excerpt":"Find creative inspiration, project ideas, and stories from the crafting community.   Explore Inspiration Topics      Creative Prompts for Crafters   Finding Your Craft Style   Moodboard Your Ideas  ","categories": [],
         "tags": [],
         "url": "/categories/inspiration/",
+        "teaser": null
+      },{
+        "title": "Advanced Craft Techniques",
+        "excerpt":"Readiness Assessment: Are You Ready for Advanced Techniques? Prerequisite Skills Checklist Craft Category Basic Skills Required Tool Proficiency Project Experience Woodworking Safe power tool use, measuring accuracy Table saw, router, jointer 10+ completed projects Metalworking Soldering, basic welding Torch work, precision files 5+ metal projects Textiles Machine sewing, pattern alteration...","categories": ["advanced-crafts","skill-building","techniques","professional-crafting"],
+        "tags": ["advanced-techniques","professional-crafts","expert-skills","complex-projects","mastery","specialized-tools"],
+        "url": "/skill-building/advanced-techniques/",
+        "teaser": null
+      },{
+        "title": "Beginner-Friendly Craft Projects",
+        "excerpt":"How to Choose Your First Project Success Factors for Beginners Factor Why It Matters What to Look For Low Tool Requirements Reduces initial investment Projects using basic household items Forgiving Materials Mistakes are easily corrected Fabric, paper, yarn vs. leather, metal Quick Results Builds confidence and momentum Completable in 1-3...","categories": ["beginner-crafts","skill-building","DIY","tutorials"],
+        "tags": ["beginner","easy-crafts","starter-projects","DIY","tutorials","first-time-crafter","simple-projects"],
+        "url": "/skill-building/beginner-friendly-projects/",
+        "teaser": null
+      },{
+        "title": "Cross-Craft Skills: Transferable Techniques Across Crafts",
+        "excerpt":"Universal Craft Skills: The Foundation Core Skills That Transfer Everywhere Skill Category Applications Learning Investment Payoff Multiplier Essential Tools Precision Measurement All crafts requiring accuracy 2-4 weeks 10x Rulers, calipers, squares colour Theory Any visual craft 1-2 months 8x colour wheel, samples Spatial Visualization 3D projects, patterns 3-6 months 6x...","categories": ["skill-building","cross-craft","techniques","versatile-skills"],
+        "tags": ["transferable-skills","multi-craft","versatile-techniques","skill-transfer","craft-crossover","universal-skills"],
+        "url": "/skill-building/cross-craft-skills/",
         "teaser": null
       },{
         "title": "Moodboard Your Ideas: Visual Planning for Creative Projects",
