@@ -38,7 +38,7 @@ var store = [{
         "title": "Starting a Craft Side Hustle",
         "excerpt":"Phase 1: Decide What to Sell Product Type Examples Notes Handmade Items Jewelry, resin art, candles, bags Direct crafting time needed Custom Orders Personalized shirts, signs, stationery Charge for time and uniqueness Digital Products SVG files, patterns, templates Passive income potential Craft Supplies Stickers, kits, blanks Inventory + fulfillment required...","categories": ["business","side-hustle","crafting"],
         "tags": ["side-hustle","craft-business","home-business","handmade","small-business"],
-        "url": "/categories/business/starting-craft-side-hustle/",
+        "url": "/business/starting-craft-side-hustle/",
         "teaser": null
       },{
         "title": "3D Printing Cheatsheet",
@@ -612,7 +612,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Stone Painting Cheatsheet",
-        "excerpt":"Tools &amp; Supplies Item Use Notes Smooth Stones Painting surface River rocks or landscaping stones work best Acrylic Paints Main coloring medium Use outdoor-safe paints for durability Paint Pens Fine detail work Great for outlines, lettering Brushes (Various Sizes) Detail and fill areas Round and liner brushes recommended Palette &amp;...","categories": ["DIY","painting","home-decor","crafts","surface-arts"],
+        "excerpt":"Tools &amp; Supplies Item Use Notes Smooth Stones Painting surface River rocks or landscaping stones work best Acrylic Paints Main colouring medium Use outdoor-safe paints for durability Paint Pens Fine detail work Great for outlines, lettering Brushes (Various Sizes) Detail and fill areas Round and liner brushes recommended Palette &amp;...","categories": ["DIY","painting","home-decor","crafts","surface-arts"],
         "tags": ["stone painting","rock art","painted rocks","acrylic painting","nature crafts","cheatsheet","mandala stones"],
         "url": "/cheatsheets/stone-painting/",
         "teaser": null
@@ -720,7 +720,7 @@ var store = [{
         "teaser": null
       },{
         "title": "DIY Craft Supply Alternatives",
-        "excerpt":"Homemade Paints &amp; Dyes Supply DIY Alternative Ingredients Finger Paint Homemade Finger Paint Flour, water, salt, food coloring Puffy Paint Homemade Puffy Paint Shaving cream, white glue, food coloring Natural Dyes Vegetable Dyes Onion skins, avocado pits, turmeric, berries Sidewalk Chalk Paint DIY Sidewalk Chalk Paint Cornstarch, water, food coloring...","categories": ["budget-crafting","DIY","supplies"],
+        "excerpt":"Homemade Paints &amp; Dyes Supply DIY Alternative Ingredients Finger Paint Homemade Finger Paint Flour, water, salt, food colouring Puffy Paint Homemade Puffy Paint Shaving cream, white glue, food colouring Natural Dyes Vegetable Dyes Onion skins, avocado pits, turmeric, berries Sidewalk Chalk Paint DIY Sidewalk Chalk Paint Cornstarch, water, food colouring...","categories": ["budget-crafting","DIY","supplies"],
         "tags": ["diy-supplies","craft-hacks","budget-crafting","homemade-craft-materials"],
         "url": "/budget-crafting/diy-craft-supply-alternatives/",
         "teaser": null
@@ -732,7 +732,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Building a Brand for Your Craft Business",
-        "excerpt":"Elements of a Strong Brand Element Description Brand Name The name of your business. It should be memorable and easy to spell. Logo A visual representation of your brand. It should be simple, recognizable, and versatile. Color Palette The colors you use in your branding. They should be consistent across...","categories": ["business","branding"],
+        "excerpt":"Elements of a Strong Brand Element Description Brand Name The name of your business. It should be memorable and easy to spell. Logo A visual representation of your brand. It should be simple, recognizable, and versatile. Colour Palette The colours you use in your branding. They should be consistent across...","categories": ["business","branding"],
         "tags": ["branding","craft-business","small-business","marketing"],
         "url": "/business/building-a-brand/",
         "teaser": null
@@ -1002,7 +1002,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Labeling and Inventory for Crafters",
-        "excerpt":"Labeling Systems System Best For Tools Label Maker Creating neat and uniform labels. Label maker, tape cartridges Chalkboard Labels Reusable and easy to update. Chalkboard labels, chalk markers Printable Labels Customizable with different fonts and colors. Printer, sticker paper Color-Coding Quickly identifying categories of supplies. Colored tape, stickers, or labels...","categories": ["craft-room","organization","inventory"],
+        "excerpt":"Labeling Systems System Best For Tools Label Maker Creating neat and uniform labels. Label maker, tape cartridges Chalkboard Labels Reusable and easy to update. Chalkboard labels, chalk markers Printable Labels Customizable with different fonts and colours. Printer, sticker paper Colour-Coding Quickly identifying categories of supplies. Coloured tape, stickers, or labels...","categories": ["craft-room","organization","inventory"],
         "tags": ["labeling","inventory-management","craft-organization","craft-supplies"],
         "url": "/craft-room/labeling-and-inventory/",
         "teaser": null
@@ -1086,7 +1086,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Digital Art for Fabric Printing",
-        "excerpt":"Understanding File Requirements Requirement Description Best Practice Resolution (DPI) Dots Per Inch. Determines print quality. Aim for 150-300 DPI for fabric. Lower DPI results in pixelation. Color Mode How colors are represented. Use RGB for digital design, but be aware that printers use CMYK. Some services convert automatically. File Type...","categories": ["digital-crafting","fabric-printing","design"],
+        "excerpt":"Understanding File Requirements Requirement Description Best Practice Resolution (DPI) Dots Per Inch. Determines print quality. Aim for 150-300 DPI for fabric. Lower DPI results in pixelation. Colour Mode How colours are represented. Use RGB for digital design, but be aware that printers use CMYK. Some services convert automatically. File Type...","categories": ["digital-crafting","fabric-printing","design"],
         "tags": ["digital-fabric-printing","surface-pattern-design","textile-design","print-on-demand"],
         "url": "/digital-crafting/digital-art-for-fabric-printing/",
         "teaser": null
@@ -1211,10 +1211,10 @@ var store = [{
         "url": "/material-guides/laser-ready-acrylic-comparison/",
         "teaser": null
       },{
-        "title": "Color Theory for Crafters",
-        "excerpt":"The Color Wheel: A Crafter’s Best Friend The color wheel is a visual representation of color relationships. Understanding it is the first step to mastering color in your crafts. Color Type Description Examples Primary Colors The three basic colors from which all other colors are made. Red, Yellow, Blue Secondary...","categories": ["inspiration","design","color-theory"],
-        "tags": ["color-theory","design-principles","crafting","color-palette"],
-        "url": "/inspiration/color-theory-for-crafters/",
+        "title": "Colour Theory for Crafters",
+        "excerpt":"The Colour Wheel: A Crafter’s Best Friend The colourr wheel is a visual representation ofcolourur relationships. Understanding it is the first step to masterincolourour in your crafts. Colour Type Description Examples Primary Colours The three basic colourrs from which all othercoloururs are made. Red, Yellow, Blue Secondary Colours Created by...","categories": ["inspiration","design","colourr-theory"],
+        "tags": ["colourr-theory","design-principles","crafting","colourur-palette"],
+        "url": "/inspiration/colourr-theory-for-crafters/",
         "teaser": null
       },{
         "title": "Crafting for Mindfulness and Relaxation",
@@ -1230,13 +1230,13 @@ var store = [{
         "teaser": null
       },{
         "title": "Finding Inspiration in Nature",
-        "excerpt":"Observing Nature for Inspiration Nature is a treasure trove of inspiration. Here are some ways to observe and record it: Technique Description Tools Nature Journaling A place to record your observations, sketches, and ideas. Notebook, pens, pencils, watercolors Photography Capture images of interesting colors, textures, and patterns. Camera or smartphone...","categories": ["inspiration","nature","creativity"],
+        "excerpt":"Observing Nature for Inspiration Nature is a treasure trove of inspiration. Here are some ways to observe and record it: Technique Description Tools Nature Journaling A place to record your observations, sketches, and ideas. Notebook, pens, pencils, watercolours Photography Capture images of interesting colours, textures, and patterns. Camera or smartphone...","categories": ["inspiration","nature","creativity"],
         "tags": ["nature-inspiration","creativity","crafting","nature-journaling"],
         "url": "/inspiration/finding-inspiration-in-nature/",
         "teaser": null
       },{
         "title": "Inspiration",
-        "excerpt":"Find creative inspiration, project ideas, and stories from the crafting community. Explore Inspiration Topics Article Description Color Theory for Crafters A practical guide to color theory for crafters. Learn how to use color to create mood, harmony, and visual interest in your projects. Crafting for Mindfulness and Relaxation A guide...","categories": [],
+        "excerpt":"Find creative inspiration, project ideas, and stories from the crafting community. Explore Inspiration Topics Article Description Colour Theory for Crafters A practical guide tocolourur theory for crafters. Learn how to uscolourour to create mood, harmony, and visual interest in your projects. Crafting for Mindfulness and Relaxation A guide to using...","categories": [],
         "tags": [],
         "url": "/categories/inspiration/",
         "teaser": null
