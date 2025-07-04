@@ -1,14 +1,8 @@
 var store = [{
         "title": "Budget Crafting",
-        "excerpt":"Discover affordable crafting ideas, deals, and money-saving tips in this section.   Explore Budget Crafting Topics      Dollar Store Crafts   Upcycled Projects   Best Budget Tools   Splurge or Save  ","categories": [],
+        "excerpt":"Discover affordable crafting ideas, deals, and money-saving tips in this section. Explore Budget Crafting Topics Article Description Best Budget Tools Essential affordable tools for crafters and DIY enthusiasts. Complete guide to budget-friendly tools that deliver professional results without breaking the bank. Crafting with Free Materials A guide to finding and...","categories": [],
         "tags": [],
         "url": "/categories/budget-crafting/",
-        "teaser": null
-      },{
-        "title": "Canadian-Made Materials",
-        "excerpt":"A directory of Canadian manufacturers producing craft materials domestically. 3D Printing Filaments Material Manufacturer Location Website PLA, ABS, Nylon Matter3D Inc. Victoria, BC matter3d.com PLA Filaments Canadian Filaments Canada canadianfilaments.ca PLA, PETG, Specialty Filaments Eureka Filaments Canada eurekafilaments.ca Laser Cutting Materials Material Manufacturer Location Website TruFlat Laser Plywood TruFlat Plywood...","categories": ["crafts","manufacturing","canada"],
-        "tags": ["craft-materials","canadian-made","3d-printing","resin","yarn","wood","local-suppliers","online-shops"],
-        "url": "/categories/canadian-made/",
         "teaser": null
       },{
         "title": "Best Budget Tools",
@@ -27,12 +21,6 @@ var store = [{
         "excerpt":"Common Items Perfect for Upcycling Furniture &amp; Large Items Original Item Condition Needed Upcycling Potential Skill Level Required Wooden Chairs Structurally sound Painted designs, reupholstered seats Beginner to Intermediate Dressers/Nightstands Drawers functional Colour updates, hardware changes, decoupage Beginner to Advanced Bookcases Shelves intact Paint, wallpaper backing, built-ins Beginner to Intermediate...","categories": ["upcycling","DIY","sustainability"],
         "tags": ["upcycling","repurpose","eco-friendly","DIY","sustainability","crafts"],
         "url": "/categories/upcycling/",
-        "teaser": null
-      },{
-        "title": "Craft Business",
-        "excerpt":"Tips, resources, and stories for running a successful craft business.   Explore Craft Business Topics      Starting a Side Hustle   Craft Show Preparation   Online Selling Platforms   Photography for Crafters   Pricing Handmade Items  ","categories": [],
-        "tags": [],
-        "url": "/categories/business/",
         "teaser": null
       },{
         "title": "Cricut & Cutting Machines Cheatsheet",
@@ -173,30 +161,6 @@ var store = [{
         "url": "/categories/woodworking-tools/",
         "teaser": null
       },{
-        "title": "Large Craft Studio Design",
-        "excerpt":"Essential Crafting Zones Zone Purpose Key Items Work Zone Main task space Table, chair, tools Prep Zone Cutting, measuring, material sorting Mats, blades, rulers Finishing Zone Painting, gluing, assembling Drying racks, press Storage Zone Supply organization Cabinets, bins Shipping &amp; Photography Online sales support Lights, backdrop, scale Workflow Layout Tips...","categories": ["craft-room","workspace","studio"],
-        "tags": ["craft studio","creative zones","large workspace","craft layout","safety"],
-        "url": "/categories/craft-room/large-studio-design/",
-        "teaser": null
-      },{
-        "title": "Material Storage Solutions",
-        "excerpt":"Common Material Categories &amp; Tips Material Ideal Storage Key Notes Paper/Cardstock Vertical files, clear bins Humidity controlled Vinyl Sheets Hanging folders, tubes Avoid curling, UV exposure Fabric Rolled on boards, drawers Away from direct sun Paints &amp; Inks Airtight containers Cool, dark, upright storage Resin/Epoxy Original containers, low temp Stable...","categories": ["craft-room","storage","supplies"],
-        "tags": ["material storage","inventory","climate control","supply organization"],
-        "url": "/categories/craft-room/material-storage/",
-        "teaser": null
-      },{
-        "title": "Small Space Craft Organization",
-        "excerpt":"Small Space Must-Haves Solution Description Ideal For Vertical Shelving Tall units for bins, boxes, tools Supplies, paper, paints Fold-Down Desks Wall-mounted, compact Cricut, sketching, writing Rolling Carts Mobile storage and surfaces Daily-use tools, vinyl rolls Stackable Bins Maximize vertical cubbies Buttons, beads, yarn Wall Pegboards Tool and scissors display High-traffic...","categories": ["craft-room","organization","small-spaces"],
-        "tags": ["craft-room","small-space","organizing","storage","mobile-crafting","vertical-storage"],
-        "url": "/categories/craft-room/small-space-organization/",
-        "teaser": null
-      },{
-        "title": "Tool Storage Systems",
-        "excerpt":"Popular Tool Storage Types Storage Type Pros Best For Pegboard Wall Visual access, modular Scissors, rulers, small tools Drawer Cabinets Hidden clutter, stackable Glue, pens, accessories Tool Totes Portable, multi-pocket Shared spaces, on-the-go Rolling Carts Mobile, compact tiers Cricut tools, blades, paints Wall-Mounted Racks Space saving Frequently used hand tools...","categories": ["craft-room","tools","storage"],
-        "tags": ["tool-organization","crafting","cutting-tips","beginner","miniatures","heat-transfer-vinyl","pegboards","drawers","mobile carts","craft storage"],
-        "url": "/categories/craft-room/tool-storage/",
-        "teaser": null
-      },{
         "title": "Craft Show Preparation: What to Pack, Bring, and Know",
         "excerpt":"Craft Show Prep = 80% Planning, 20% Selling Markets and craft fairs are a powerful way to connect with customers, if you’re prepared. Here’s how to pack smart, show up ready, and sell with confidence. 📦 What to Pack: Master Checklist Category Essentials Product Full inventory, display items, extras Pricing...","categories": ["business","events","craft-fairs"],
         "tags": ["crafting","tool-organization","cutting-tips","beginner","miniatures","heat-transfer-vinyl","craft fairs","market prep","craft booth","vendor checklist","craft sale tips"],
@@ -219,24 +183,6 @@ var store = [{
         "excerpt":"Why Pricing Feels So Hard Underpricing is the #1 mistake new makers make. It’s tempting to price low to compete, but that usually leads to burnout. The goal is a price that covers: Your material costs Your time A fair profit margin Any fees or overhead The Maker Pricing Formula...","categories": ["business","pricing","handmade"],
         "tags": ["handmade pricing","cost calculation","maker business","product pricing","profit margin"],
         "url": "/business/pricing-handmade-items/",
-        "teaser": null
-      },{
-        "title": "Cutting Mats and Surfaces: Protect Your Tools and Your Table",
-        "excerpt":"Why Cutting Surfaces Matter A proper mat will: Protect your table Extend the life of your blades Improve your accuracy Make cleanup easier Save you from replacing tools early Self-Healing Mats: The Crafting Standard These mats are made with a flexible surface that “reseals” after cutting. They’re best for: Rotary...","categories": ["craft-room","tools","workspace"],
-        "tags": ["cutting mats","self-healing mats","rotary cutting","blade care","work surfaces"],
-        "url": "/craft-room/cutting-mats-and-surfaces/",
-        "teaser": null
-      },{
-        "title": "Lighting Solutions: Illuminate Your Craft Room Like a Pro",
-        "excerpt":"Why Lighting Matters in a Craft Room Poor lighting leads to: Eye strain and fatigue Colour mismatches Missed details Slower, less enjoyable crafting Whether you’re sewing, painting, cutting vinyl, or sculpting miniatures, the right lighting makes everything easier and more accurate. 3 Lighting Types Every Craft Room Needs Type Use...","categories": ["craft-room","tools","workspace"],
-        "tags": ["craft lighting","task lights","LED lights","workspace setup","eye strain"],
-        "url": "/craft-room/lighting-solutions/",
-        "teaser": null
-      },{
-        "title": "Mobile Craft Carts: Organize, Roll, and Create Anywhere",
-        "excerpt":"Why Mobile Carts Work for Crafters Rolling carts offer: Easy organization Portability between rooms Great for shared spaces Customizable layout Quick cleanup They’re especially helpful for: Cricut/vinyl cutting Miniatures &amp; model making Kids’ craft zones Small apartments or temporary spaces Best Types of Craft Carts Cart Style Pros Ideal For...","categories": ["craft-room","storage","organization"],
-        "tags": ["craft carts","mobile storage","small space solutions","rolling cart","modular storage"],
-        "url": "/craft-room/mobile-craft-carts/",
         "teaser": null
       },{
         "title": "Candle Making Cheatsheet",
@@ -387,12 +333,6 @@ var store = [{
         "excerpt":"Charcoal Types &amp; Characteristics Type Description Best Uses Vine Charcoal Soft, light, easy to erase Sketching, light shading Compressed Charcoal Dense, dark, less crumbly Deep shadows, bold lines Powdered Charcoal Loose powder for broad shading Backgrounds, blending Charcoal Pencils Encased, sharpened for detail Fine lines, precision work Essential Drawing Tools...","categories": ["drawing","charcoal","art","crafts"],
         "tags": ["charcoal drawing","drawing techniques","art supplies","sketching","cheatsheet"],
         "url": "/cheatsheets/charcoal-drawing/",
-        "teaser": null
-      },{
-        "title": "Craft Cheatsheets",
-        "excerpt":"Browse Craft Cheatsheets: Category Cheatsheet Textile &amp; Fiber Arts Sewing Cheatsheet Quilting &amp; Patchwork Cheatsheet Embroidery &amp; Cross-Stitch Cheatsheet Embroidery Machines Cheatsheet Macramé &amp; Knotting Cheatsheet Weaving Cheatsheet Knitting Cheatsheet Crochet Cheatsheet Shibori Cheatsheet Tie-Dye Cheatsheet Batik Cheatsheet Nalbinding Needle Felting Needle Lace Reverse Appliqué Sashiko Smocking Techniques Tambour Beading...","categories": [],
-        "tags": ["cheatsheet"],
-        "url": "/cheatsheets/",
         "teaser": null
       },{
         "title": "Clay Sculpture Cheatsheet",
@@ -773,22 +713,172 @@ var store = [{
         "url": "/cheatsheets/wreath-making/",
         "teaser": null
       },{
+        "title": "Crafting with Free Materials",
+        "excerpt":"Sources of Free Craft Materials Source Examples Notes Nature Leaves, pinecones, acorns, sticks, stones, sand, shells Ensure items are clean and dry before use. Respect local regulations on collecting. Household Recyclables Cardboard boxes, paper tubes, plastic bottles, egg cartons, tin cans, bottle caps Clean thoroughly. Avoid sharp edges. Junk Mail...","categories": ["budget-crafting","free-materials","upcycling"],
+        "tags": ["free-craft-materials","upcycling","recycled-crafts","zero-waste-crafting"],
+        "url": "/budget-crafting/crafting-with-free-materials/",
+        "teaser": null
+      },{
+        "title": "DIY Craft Supply Alternatives",
+        "excerpt":"Homemade Paints &amp; Dyes Supply DIY Alternative Ingredients Finger Paint Homemade Finger Paint Flour, water, salt, food coloring Puffy Paint Homemade Puffy Paint Shaving cream, white glue, food coloring Natural Dyes Vegetable Dyes Onion skins, avocado pits, turmeric, berries Sidewalk Chalk Paint DIY Sidewalk Chalk Paint Cornstarch, water, food coloring...","categories": ["budget-crafting","DIY","supplies"],
+        "tags": ["diy-supplies","craft-hacks","budget-crafting","homemade-craft-materials"],
+        "url": "/budget-crafting/diy-craft-supply-alternatives/",
+        "teaser": null
+      },{
+        "title": "Thrift Store Craft Supplies",
+        "excerpt":"Best Thrift Store Finds for Crafters Item Category Examples Crafting Potential Textiles Old clothes, bed sheets, curtains, tablecloths Fabric for sewing, quilting, dyeing, rag rugs, t-shirt yarn. Yarn &amp; Thread Unfinished knitting/crochet projects, skeins Scarves, blankets, amigurumi, embroidery. Frames &amp; Mirrors Picture frames, mirrors Repaint, decoupage, create custom art, chalkboards....","categories": ["budget-crafting","thrifting","supplies"],
+        "tags": ["thrift-store","craft-supplies","budget-crafting","upcycling"],
+        "url": "/budget-crafting/thrift-store-craft-supplies/",
+        "teaser": null
+      },{
+        "title": "Building a Brand for Your Craft Business",
+        "excerpt":"Elements of a Strong Brand Element Description Brand Name The name of your business. It should be memorable and easy to spell. Logo A visual representation of your brand. It should be simple, recognizable, and versatile. Color Palette The colors you use in your branding. They should be consistent across...","categories": ["business","branding"],
+        "tags": ["branding","craft-business","small-business","marketing"],
+        "url": "/business/building-a-brand/",
+        "teaser": null
+      },{
+        "title": "Craft Business",
+        "excerpt":"Tips, resources, and stories for running a successful craft business. Explore Craft Business Topics Article Description Building a Brand for Your Craft Business A guide to building a strong brand for your craft business. Learn how to create a memorable brand that connects with customers. Craft Show Preparation Heading to...","categories": [],
+        "tags": [],
+        "url": "/categories/business/",
+        "teaser": null
+      },{
+        "title": "Marketing for Crafters",
+        "excerpt":"Social Media Marketing Platform Best For Content Ideas Instagram Visually-driven products Behind-the-scenes photos, product shots, Reels of your process Pinterest Driving traffic to your shop High-quality product photos, DIY tutorials, inspirational content Facebook Building a community Engaging with customers, sharing updates, running contests TikTok Short-form video content Time-lapses of your...","categories": ["business","marketing"],
+        "tags": ["marketing","craft-business","social-media","email-marketing"],
+        "url": "/business/marketing-for-crafters/",
+        "teaser": null
+      },{
+        "title": "Shipping and Packaging for Handmade Goods",
+        "excerpt":"Packaging Your Products Material Best For Notes Boxes Sturdy and protective Choose a size that is slightly larger than your product. Mailers Lightweight and affordable Padded mailers are a good option for fragile items. Tissue Paper Adds a touch of elegance Use to wrap your products before placing them in...","categories": ["business","shipping"],
+        "tags": ["shipping","packaging","craft-business","handmade-goods"],
+        "url": "/business/shipping-and-packaging/",
+        "teaser": null
+      },{
+        "title": "Alcohol Ink Art Cheatsheet",
+        "excerpt":"Essential Supplies Supply Purpose Alcohol Inks Highly pigmented, fast-drying inks. Isopropyl Alcohol (91% or higher) For blending, lightening, and cleaning. Yupo Paper A synthetic, non-porous paper that is ideal for alcohol inks. Applicator Tool A tool with a felt tip for applying and moving ink. Air Blower A small hand-held...","categories": ["painting","abstract-art","DIY","handmade","cheatsheet"],
+        "tags": ["alcohol-ink","yupo-paper","abstract-painting","fluid-art","cheatsheet"],
+        "url": "/cheatsheets/alcohol-ink-art/",
+        "teaser": null
+      },{
+        "title": "Amigurumi Cheatsheet",
+        "excerpt":"Essential Amigurumi Stitches &amp; Techniques Technique Abbreviation Purpose Magic Ring MR Creates a tight, closed circle to start projects. Single Crochet sc The most common stitch used in amigurumi. Increase inc Two single crochets in the same stitch to make parts wider. Invisible Decrease dec Decreases a stitch count without...","categories": ["crochet","amigurumi","fiber-arts","DIY","handmade","cheatsheet"],
+        "tags": ["amigurumi","crochet","yarn","magic-ring","stuffing","fiber-arts","cheatsheet"],
+        "url": "/cheatsheets/amigurumi/",
+        "teaser": null
+      },{
+        "title": "Basket Weaving Cheatsheet",
+        "excerpt":"Basic Basketry Terms Term Definition Stakes The vertical elements of the basket; the foundation. Weaver The horizontal element that is woven through the stakes. Upsetting Bending the stakes upward to form the sides of the basket. Twill A weaving pattern that involves passing over two or more stakes at a...","categories": ["basketry","weaving","natural-crafts","DIY","handmade","cheatsheet"],
+        "tags": ["basket-weaving","reed","coiling","plaiting","natural-fibers","cheatsheet"],
+        "url": "/cheatsheets/basket-weaving/",
+        "teaser": null
+      },{
+        "title": "Book Nook & Diorama Cheatsheet",
+        "excerpt":"Common Miniature Scales Scale Ratio Description Best For 1:12 1”:1’ Dollhouse scale. Very common and detailed. Standard dollhouses, room boxes. 1:24 1/2”:1’ Half scale. Good balance of detail &amp; size. Smaller dollhouses, book nooks. 1:48 1/4”:1’ Quarter scale. Small, less detail. Dioramas, architectural models. 1:144 1/12”:1’ Micro scale. Fits inside...","categories": ["miniatures","dioramas","book-nooks","DIY","handmade","cheatsheet"],
+        "tags": ["book-nook","diorama","miniatures","model-making","crafting","cheatsheet"],
+        "url": "/cheatsheets/book-nook-diorama/",
+        "teaser": null
+      },{
+        "title": "Bronze Casting Cheatsheet",
+        "excerpt":"The Lost-Wax Casting Process This is a complex process that requires a foundry and professional equipment. Step # Action Description 1 Create the original model. Usually made of clay, wax, or plaster. 2 Make a mold of the model. A rubber mold is created to capture the detail. 3 Create...","categories": ["sculpture","metalworking","DIY","handmade","cheatsheet"],
+        "tags": ["bronze-casting","lost-wax-casting","metal-sculpture","foundry","cheatsheet"],
+        "url": "/cheatsheets/bronze-casting/",
+        "teaser": null
+      },{
+        "title": "Craft Cheatsheets",
+        "excerpt":"Browse Craft Cheatsheets: Category Cheatsheet Textile &amp; Fiber Arts Amigurumi Basket Weaving Batik Cheatsheet Crochet Cheatsheet Embroidery &amp; Cross-Stitch Cheatsheet Embroidery Machines Cheatsheet Knitting Cheatsheet Latch Hook &amp; Rug Tufting Macramé &amp; Knotting Cheatsheet Nalbinding Needle Felting Needle Lace Plush Toy Sewing Quilting &amp; Patchwork Cheatsheet Reverse Appliqué Sashiko Sewing...","categories": [],
+        "tags": ["cheatsheet"],
+        "url": "/cheatsheets/",
+        "teaser": null
+      },{
+        "title": "Cyanotype Printing Cheatsheet",
+        "excerpt":"Cyanotype Chemistry Warning: Handle chemicals with care. Wear gloves and eye protection. Chemical Formula Role in Process Potassium Ferricyanide K₃[Fe(CN)₆] Part A of the sensitizer solution. Ferric Ammonium Citrate (NH₄)₅[Fe(C₆H₄O₇)₂] Part B of the sensitizer solution. Standard Recipe: Solution A: 25g Ferric Ammonium Citrate in 100ml water. Solution B: 10g...","categories": ["printmaking","photography","alternative-process","DIY","handmade","cheatsheet"],
+        "tags": ["cyanotype","sun-print","alternative-photography","printmaking","blueprint","cheatsheet"],
+        "url": "/cheatsheets/cyanotype-printing/",
+        "teaser": null
+      },{
+        "title": "Flint Knapping Cheatsheet",
+        "excerpt":"Essential Safety Gear Gear Purpose Safety Glasses Protects eyes from sharp, flying flakes of stone. Leather Gloves Protects hands from cuts. A leather pad for the leg is also essential. Closed-Toe Shoes Protects feet from falling flakes. Respirator Mask Protects lungs from inhaling fine silica dust. Basic Terminology Term Definition...","categories": ["stoneworking","ancient-crafts","DIY","handmade","cheatsheet"],
+        "tags": ["flint-knapping","stoneworking","primitive-tools","archaeology","cheatsheet"],
+        "url": "/cheatsheets/flint-knapping/",
+        "teaser": null
+      },{
+        "title": "Fretwork Cheatsheet",
+        "excerpt":"Essential Tools Tool Purpose Scroll Saw The primary tool for fretwork. It has a fine blade that allows for intricate cuts. Fret Saw A hand-powered saw that can also be used for fretwork. Drill For making starter holes for interior cuts. Sandpaper For smoothing the edges of the cut design....","categories": ["woodworking","decorative-arts","DIY","handmade","cheatsheet"],
+        "tags": ["fretwork","scroll-saw","woodworking","decorative-woodwork","cheatsheet"],
+        "url": "/cheatsheets/fretwork/",
+        "teaser": null
+      },{
+        "title": "Gilding Cheatsheet",
+        "excerpt":"Gilding Methods Method Description Oil Gilding Metal leaf is applied to a surface using an oil-based adhesive (size). Simpler method, results in a matte finish. Water Gilding Metal leaf is applied to a gesso and clay bole surface, activated by water. Can be burnished to a brilliant shine. More complex....","categories": ["decorative-arts","finishing","DIY","handmade","cheatsheet"],
+        "tags": ["gilding","gold-leaf","metal-leaf","decorative-finishes","cheatsheet"],
+        "url": "/cheatsheets/gilding/",
+        "teaser": null
+      },{
+        "title": "Glass Blowing Cheatsheet",
+        "excerpt":"Essential Studio Equipment Glass blowing requires a specialized studio and should only be attempted under professional supervision. Equipment Purpose Furnace A furnace that holds molten glass at around 2000°F. Glory Hole A reheating chamber used to keep the glass workable. Annealer A kiln used to slowly cool the finished piece,...","categories": ["glass-art","decorative-arts","DIY","handmade","cheatsheet"],
+        "tags": ["glass-blowing","glass-art","hot-glass","lampworking","cheatsheet"],
+        "url": "/cheatsheets/glass-blowing/",
+        "teaser": null
+      },{
+        "title": "Kokedama Cheatsheet",
+        "excerpt":"Best Plants for Kokedama Plant Type Examples Light Needs Watering Needs Ferns Maidenhair, Bird’s Nest, Staghorn Low to Medium High Pothos &amp; Philodendron Golden Pothos, Heartleaf Philodendron Low to Bright, Indirect Medium Spider Plants Chlorophytum comosum Bright, Indirect Medium Orchids Phalaenopsis Bright, Indirect Low to Medium Herbs Mint, Basil, Rosemary...","categories": ["gardening","houseplants","DIY","handmade","cheatsheet"],
+        "tags": ["kokedama","houseplants","indoor-gardening","japanese-crafts","moss-ball","cheatsheet"],
+        "url": "/cheatsheets/kokedama/",
+        "teaser": null
+      },{
+        "title": "Lapidary Cheatsheet",
+        "excerpt":"Basic Lapidary Equipment Equipment Purpose Slab Saw A diamond-bladed saw for cutting rough rock into slabs. Grinding Wheels Diamond-impregnated wheels for shaping the stone. Sanding Drums For smoothing the stone after grinding. Polishing Pad A leather or felt pad used with a polishing compound. Dop Sticks Wooden dowels used to...","categories": ["stoneworking","jewelry","DIY","handmade","cheatsheet"],
+        "tags": ["lapidary","gem-cutting","cabochon","rock-polishing","cheatsheet"],
+        "url": "/cheatsheets/lapidary/",
+        "teaser": null
+      },{
+        "title": "Marquetry Cheatsheet",
+        "excerpt":"Marquetry Methods Method Description Window Method A piece of veneer is cut out, and a different veneer is fitted into the hole. Double Bevel Two veneers are stacked and cut at a slight angle, so the top piece fits perfectly into the bottom. Scroll Saw Method A stack of veneers...","categories": ["woodworking","decorative-arts","DIY","handmade","cheatsheet"],
+        "tags": ["marquetry","wood-inlay","veneer","woodworking","cheatsheet"],
+        "url": "/cheatsheets/marquetry/",
+        "teaser": null
+      },{
+        "title": "Paper Marbling Cheatsheet",
+        "excerpt":"Marbling Methods Method Origin Description Suminagashi Japan Inks are floated on plain water. Creates organic, concentric rings. Ebru Turkey Paints are floated on a thickened water (size). Allows for more control and complex patterns. Materials for Ebru (Western Marbling) Material Purpose Carrageenan A seaweed extract used to thicken the water...","categories": ["paper-crafts","printmaking","DIY","handmade","cheatsheet"],
+        "tags": ["paper-marbling","ebru","suminagashi","book-arts","decorative-paper","cheatsheet"],
+        "url": "/cheatsheets/paper-marbling/",
+        "teaser": null
+      },{
+        "title": "Scrimshaw Cheatsheet",
+        "excerpt":"Modern &amp; Ethical Materials Material Notes Beef Bone Readily available and inexpensive. Antler Provides a natural, rustic look. Polymer Clay Can be used to create faux ivory or bone. Micarta A composite material that is easy to work with. Essential Tools Tool Purpose Scribe or Needle The primary tool for...","categories": ["engraving","decorative-arts","DIY","handmade","cheatsheet"],
+        "tags": ["scrimshaw","engraving","bone-carving","historical-crafts","cheatsheet"],
+        "url": "/cheatsheets/scrimshaw/",
+        "teaser": null
+      },{
+        "title": "Tapestry Weaving Cheatsheet",
+        "excerpt":"Basic Weaving Terminology Term Definition Warp The vertical threads that are held under tension on the loom. Weft The horizontal threads that are woven through the warp. Shed The space created when the warp threads are separated, allowing the weft to pass through. Heddle A device on a loom that...","categories": ["weaving","fiber-arts","DIY","handmade","cheatsheet"],
+        "tags": ["tapestry-weaving","loom-weaving","fiber-art","wall-hanging","cheatsheet"],
+        "url": "/cheatsheets/tapestry-weaving/",
+        "teaser": null
+      },{
+        "title": "Viking Knit Cheatsheet",
+        "excerpt":"Essential Tools &amp; Materials Item Purpose Wire 24-28 gauge wire is good for beginners. Copper or craft wire is ideal. Dowel Rod A wooden rod (1/4” to 1/2” diameter) to form the knit around. Draw Plate A tool with holes of decreasing size to pull the chain through, tightening the...","categories": ["jewelry","wirework","DIY","handmade","cheatsheet"],
+        "tags": ["viking-knit","wire-weaving","jewelry-making","wire-jewelry","cheatsheet"],
+        "url": "/cheatsheets/viking-knit/",
+        "teaser": null
+      },{
+        "title": "Cleaning and Maintaining Your Craft Space",
+        "excerpt":"Daily Cleaning Habits Habit Why It Matters Put away supplies after each use. Prevents clutter from building up. Wipe down your work surface. Keeps your space clean and ready for the next project. Do a quick 5-minute tidy-up at the end of the day. A little bit of effort each...","categories": ["craft-room","organization","cleaning"],
+        "tags": ["craft-room-cleaning","craft-space-maintenance","organization-tips"],
+        "url": "/craft-room/cleaning-and-maintenance/",
+        "teaser": null
+      },{
         "title": "Craft Room Organization",
-        "excerpt":"Tips and inspiration for organizing your craft room, tools, and materials.   Explore Craft Room Organization Topics      Material Storage   Tool Storage   Small Space Organization   Large Studio Design   Cutting Mats &amp; Surfaces   Lighting Solutions   Mobile Craft Carts  ","categories": [],
+        "excerpt":"Tips and inspiration for organizing your craft room, tools, and materials. Explore Craft Room Organization Topics Article Description Cleaning and Maintaining Your Craft Space A guide to keeping your craft space clean, organized, and inspiring. Cutting Mats &amp; Surfaces A good cutting surface does more than protect your table, it...","categories": [],
         "tags": [],
         "url": "/categories/craft-room/",
         "teaser": null
       },{
-        "title": "Craft Supplies",
-        "excerpt":"Welcome to the Craft Supplies section!   Explore Craft Supplies      Canadian-Made Materials   Suppliers by Province   Specialty Materials  ","categories": [],
-        "tags": [],
-        "url": "/categories/craft-supplies/",
-        "teaser": null
-      },{
-        "title": "Suppliers by Province",
-        "excerpt":"A comprehensive guide to Canadian craft and art suppliers, organized by province. Province Store Website Focus National Michaels canada.michaels.com Crafts, decor, DIY, art, seasonal kits National, QC DeSerres deserres.ca Artist-grade supplies &amp; crafts National Walmart Canada walmart.ca General craft &amp; DIY items National Dollarama dollarama.com Inexpensive basic craft items National...","categories": [],
-        "tags": ["local-suppliers","stores-by-province","suppliers","canada"],
-        "url": "/categories/local-suppliers/",
+        "title": "Canadian-Made Materials",
+        "excerpt":"A directory of Canadian manufacturers producing craft materials domestically. 3D Printing Filaments Material Manufacturer Location Website PLA, ABS, Nylon Matter3D Inc. Victoria, BC matter3d.com PLA Filaments Canadian Filaments Canada canadianfilaments.ca PLA, PETG, Specialty Filaments Eureka Filaments Canada eurekafilaments.ca Laser Cutting Materials Material Manufacturer Location Website TruFlat Laser Plywood TruFlat Plywood...","categories": ["crafts","manufacturing","canada"],
+        "tags": ["craft-materials","canadian-made","3d-printing","resin","yarn","wood","local-suppliers","online-shops"],
+        "url": "/categories/canadian-made/",
         "teaser": null
       },{
         "title": "Splurge or Save",
@@ -797,16 +887,46 @@ var store = [{
         "url": "/categories/splurge-vs-save/",
         "teaser": null
       },{
-        "title": "Age-Appropriate Crafts: What to Make by Skill Level",
-        "excerpt":"Crafting by Age Group Age Project Types Skills Practiced Materials 2–4 Finger painting, gluing shapes Fine motor, colour Paper, glue sticks, crayons 5–6 Collage, stickers, sponge stamps Shape ID, layering Safety scissors, felt, stickers 7–9 Simple sewing, paper folding, clay Pattern, texture Yarn, pipe cleaners, air-dry clay 10–12 Beading, cardboard...","categories": ["crafting-for-kids","age-level"],
-        "tags": ["kid crafts","beginner projects","crafts by age","child development"],
-        "url": "/crafting-for-kids/age-appropriate-crafts/",
+        "title": "Large Craft Studio Design",
+        "excerpt":"Essential Crafting Zones Zone Purpose Key Items Work Zone Main task space Table, chair, tools Prep Zone Cutting, measuring, material sorting Mats, blades, rulers Finishing Zone Painting, gluing, assembling Drying racks, press Storage Zone Supply organization Cabinets, bins Shipping &amp; Photography Online sales support Lights, backdrop, scale Workflow Layout Tips...","categories": ["craft-room","workspace","studio"],
+        "tags": ["craft studio","creative zones","large workspace","craft layout","safety"],
+        "url": "/categories/craft-room/large-studio-design/",
         "teaser": null
       },{
-        "title": "Crafting for Kids",
-        "excerpt":"Discover fun, safe, and creative craft ideas and resources for children of all ages.   Explore Crafting for Kids Topics      Age-Appropriate Crafts   Mess-Free Kids Crafts   Recycled Crafts for Kids  ","categories": [],
-        "tags": [],
-        "url": "/categories/crafting-for-kids/",
+        "title": "Material Storage Solutions",
+        "excerpt":"Common Material Categories &amp; Tips Material Ideal Storage Key Notes Paper/Cardstock Vertical files, clear bins Humidity controlled Vinyl Sheets Hanging folders, tubes Avoid curling, UV exposure Fabric Rolled on boards, drawers Away from direct sun Paints &amp; Inks Airtight containers Cool, dark, upright storage Resin/Epoxy Original containers, low temp Stable...","categories": ["craft-room","storage","supplies"],
+        "tags": ["material storage","inventory","climate control","supply organization"],
+        "url": "/categories/craft-room/material-storage/",
+        "teaser": null
+      },{
+        "title": "Small Space Craft Organization",
+        "excerpt":"Small Space Must-Haves Solution Description Ideal For Vertical Shelving Tall units for bins, boxes, tools Supplies, paper, paints Fold-Down Desks Wall-mounted, compact Cricut, sketching, writing Rolling Carts Mobile storage and surfaces Daily-use tools, vinyl rolls Stackable Bins Maximize vertical cubbies Buttons, beads, yarn Wall Pegboards Tool and scissors display High-traffic...","categories": ["craft-room","organization","small-spaces"],
+        "tags": ["craft-room","small-space","organizing","storage","mobile-crafting","vertical-storage"],
+        "url": "/categories/craft-room/small-space-organization/",
+        "teaser": null
+      },{
+        "title": "Tool Storage Systems",
+        "excerpt":"Popular Tool Storage Types Storage Type Pros Best For Pegboard Wall Visual access, modular Scissors, rulers, small tools Drawer Cabinets Hidden clutter, stackable Glue, pens, accessories Tool Totes Portable, multi-pocket Shared spaces, on-the-go Rolling Carts Mobile, compact tiers Cricut tools, blades, paints Wall-Mounted Racks Space saving Frequently used hand tools...","categories": ["craft-room","tools","storage"],
+        "tags": ["tool-organization","crafting","cutting-tips","beginner","miniatures","heat-transfer-vinyl","pegboards","drawers","mobile carts","craft storage"],
+        "url": "/categories/craft-room/tool-storage/",
+        "teaser": null
+      },{
+        "title": "Cutting Mats and Surfaces: Protect Your Tools and Your Table",
+        "excerpt":"Why Cutting Surfaces Matter A proper mat will: Protect your table Extend the life of your blades Improve your accuracy Make cleanup easier Save you from replacing tools early Self-Healing Mats: The Crafting Standard These mats are made with a flexible surface that “reseals” after cutting. They’re best for: Rotary...","categories": ["craft-room","tools","workspace"],
+        "tags": ["cutting mats","self-healing mats","rotary cutting","blade care","work surfaces"],
+        "url": "/craft-room/cutting-mats-and-surfaces/",
+        "teaser": null
+      },{
+        "title": "Lighting Solutions: Illuminate Your Craft Room Like a Pro",
+        "excerpt":"Why Lighting Matters in a Craft Room Poor lighting leads to: Eye strain and fatigue Colour mismatches Missed details Slower, less enjoyable crafting Whether you’re sewing, painting, cutting vinyl, or sculpting miniatures, the right lighting makes everything easier and more accurate. 3 Lighting Types Every Craft Room Needs Type Use...","categories": ["craft-room","tools","workspace"],
+        "tags": ["craft lighting","task lights","LED lights","workspace setup","eye strain"],
+        "url": "/craft-room/lighting-solutions/",
+        "teaser": null
+      },{
+        "title": "Mobile Craft Carts: Organize, Roll, and Create Anywhere",
+        "excerpt":"Why Mobile Carts Work for Crafters Rolling carts offer: Easy organization Portability between rooms Great for shared spaces Customizable layout Quick cleanup They’re especially helpful for: Cricut/vinyl cutting Miniatures &amp; model making Kids’ craft zones Small apartments or temporary spaces Best Types of Craft Carts Cart Style Pros Ideal For...","categories": ["craft-room","storage","organization"],
+        "tags": ["craft carts","mobile storage","small space solutions","rolling cart","modular storage"],
+        "url": "/craft-room/mobile-craft-carts/",
         "teaser": null
       },{
         "title": "Mess-Free Crafts for Kids: Clean Fun, No Stress",
@@ -819,12 +939,6 @@ var store = [{
         "excerpt":"Easy Recycled Materials to Save Material Craft Use Prep Needed Cardboard Tubes Binoculars, rockets, characters Flatten and cut Egg Cartons Bugs, flowers, trays Cut into sections Cereal Boxes Frames, bookmarks Remove food residue Bottle Caps Mosaic art, wheels Rinse and dry Scrap Paper Collage, origami Trim rough edges Project Ideas...","categories": ["crafting-for-kids","sustainable"],
         "tags": ["eco crafts","recycled materials","kids projects","zero waste kids"],
         "url": "/crafting-for-kids/recycled-crafts-for-kids/",
-        "teaser": null
-      },{
-        "title": "Digital Crafting",
-        "excerpt":"Explore digital tools, techniques, and inspiration for modern makers and crafters.   Explore Digital Crafting Topics      Free Design Tools for Crafters   Getting Started with Cricut   How to Make Your Own SVG   Organizing Digital Files  ","categories": [],
-        "tags": [],
-        "url": "/categories/digital-crafting/",
         "teaser": null
       },{
         "title": "Free Design Tools for Digital Crafters",
@@ -849,6 +963,150 @@ var store = [{
         "excerpt":"Recommended Folder Structure Folder Contents Designs/Raw Original or purchased files Designs/Edited Modified SVGs or templates Projects/Completed Final versions by date or name Assets/Fonts Installed or downloaded fonts Assets/Mockups Canva, Photoshop templates Inspiration Saved images or screenshots File Naming Format Examples File Type Suggested Naming SVG flower-bundle-layered-2025.svg PNG label-round-vinyl-3inch.png Template envelope-A6-foldguide.pdf...","categories": ["digital-crafting","file-management"],
         "tags": ["SVG organization","file structure","craft file tips","asset storage"],
         "url": "/digital-crafting/organizing-digital-files/",
+        "teaser": null
+      },{
+        "title": "Practice Exercises: Build Crafting Mastery One Step at a Time",
+        "excerpt":"Why Practice Exercises Matter Practicing isn’t just for beginners. Every great crafter, from hobbyists to pros, benefits from routine skill workouts. Purposeful repetition builds muscle memory, sharpens technique, and prevents costly errors. These exercises can be tailored to any craft, whether you’re wielding a paintbrush, rotary cutter, or soldering iron....","categories": ["skill-building","practice","exercises","hands-on"],
+        "tags": ["craft drills","repetition","technique-building","practice-routines","craft-fundamentals","skill-mastery","beginner-friendly"],
+        "url": "/skill-building/practice-exercises/",
+        "teaser": null
+      },{
+        "title": "Creative Block? Practice Routines to Reignite Inspiration",
+        "excerpt":"When Inspiration Stalls Even the most passionate crafters hit walls. Projects sit half-finished. Materials gather dust. The ideas won’t come. Creative block isn’t laziness, it’s part of the process. But when it sticks around too long, it helps to have gentle routines designed to spark motion without pressure. Why Practice...","categories": ["skill-building","creative-habits","motivation"],
+        "tags": ["creative-block","routines","daily-practice","creative-habits","artistic-slumps","inspiration-techniques"],
+        "url": "/skill-building/practice-to-reignite-inspiration/",
+        "teaser": null
+      },{
+        "title": "Understanding Scale & Proportion in Craft Design",
+        "excerpt":"Why Scale &amp; Proportion Matter in Craft Design Good design isn’t just about colour or texture, it’s about how all parts relate to each other in size and balance. Scale and proportion help create realism, harmony, and functionality in every kind of craft. From dollhouses to wall art, jewelry to...","categories": ["skill-building","design-principles","fundamentals"],
+        "tags": ["scale","proportion","design","craft-planning","visual-balance","layout-techniques","beginner-friendly"],
+        "url": "/skill-building/scale-and-proportion/",
+        "teaser": null
+      },{
+        "title": "Skill Building: Improve Your Crafting Skills",
+        "excerpt":"Article Title Description Adhesive Know-How Tips and tricks for using adhesives in crafting. Advanced Techniques Take your skills to the next level with advanced methods. Beginner Friendly Projects Easy projects to get you started. Colour Confidence Master colour theory and application. Cross-Craft Skills Skills that apply across multiple crafts. Cutting...","categories": ["skill-building","fundamentals"],
+        "tags": ["crafting","tool-organization","cutting-tips","beginner","miniatures","heat-transfer-vinyl","skill-building","practice","learning","improvement","techniques"],
+        "url": "/skill-building/",
+        "teaser": null
+      },{
+        "title": "Track Your Crafting Progress: Journals, Logs, and Practice Sheets",
+        "excerpt":"Why Tracking Helps You Improve Faster Your brain forgets what your journal remembers. Logging your craft practice turns random creativity into measurable growth. Whether you’re painting miniatures, sewing garments, crafting stickers, or working with vinyl, keeping track of what you make, and how you made it, can: Build consistency Reveal...","categories": ["skill-building","organization","practice"],
+        "tags": ["craft journals","progress tracking","practice logs","creative routine","improvement tools","habit building","beginner-friendly"],
+        "url": "/skill-building/track-your-crafting-progress/",
+        "teaser": null
+      },{
+        "title": "DIY Craft Room Furniture",
+        "excerpt":"DIY Craft Table Ideas Project Materials Needed Skill Level Bookshelf &amp; Tabletop Desk Two bookshelves, a tabletop, screws Beginner Pipe &amp; Butcher Block Table Pipes, fittings, butcher block, screws Intermediate Folding Wall-Mounted Table Plywood, hinges, screws Intermediate DIY Shelving &amp; Storage Project Materials Needed Skill Level Crate Shelving Wooden crates,...","categories": ["craft-room","DIY","furniture"],
+        "tags": ["diy-furniture","craft-room-organization","budget-craft-room"],
+        "url": "/craft-room/diy-craft-room-furniture/",
+        "teaser": null
+      },{
+        "title": "Labeling and Inventory for Crafters",
+        "excerpt":"Labeling Systems System Best For Tools Label Maker Creating neat and uniform labels. Label maker, tape cartridges Chalkboard Labels Reusable and easy to update. Chalkboard labels, chalk markers Printable Labels Customizable with different fonts and colors. Printer, sticker paper Color-Coding Quickly identifying categories of supplies. Colored tape, stickers, or labels...","categories": ["craft-room","organization","inventory"],
+        "tags": ["labeling","inventory-management","craft-organization","craft-supplies"],
+        "url": "/craft-room/labeling-and-inventory/",
+        "teaser": null
+      },{
+        "title": "Craft Supplies",
+        "excerpt":"Welcome to the Craft Supplies section!   Explore Craft Supplies      Canadian-Made Materials   Suppliers by Province   Specialty Materials  ","categories": [],
+        "tags": [],
+        "url": "/categories/craft-supplies/",
+        "teaser": null
+      },{
+        "title": "Suppliers by Province",
+        "excerpt":"A comprehensive guide to Canadian craft and art suppliers, organized by province. Province Store Website Focus National Michaels canada.michaels.com Crafts, decor, DIY, art, seasonal kits National, QC DeSerres deserres.ca Artist-grade supplies &amp; crafts National Walmart Canada walmart.ca General craft &amp; DIY items National Dollarama dollarama.com Inexpensive basic craft items National...","categories": [],
+        "tags": ["local-suppliers","stores-by-province","suppliers","canada"],
+        "url": "/categories/local-suppliers/",
+        "teaser": null
+      },{
+        "title": "Age-Appropriate Crafts: What to Make by Skill Level",
+        "excerpt":"Crafting by Age Group Age Project Types Skills Practiced Materials 2–4 Finger painting, gluing shapes Fine motor, colour Paper, glue sticks, crayons 5–6 Collage, stickers, sponge stamps Shape ID, layering Safety scissors, felt, stickers 7–9 Simple sewing, paper folding, clay Pattern, texture Yarn, pipe cleaners, air-dry clay 10–12 Beading, cardboard...","categories": ["crafting-for-kids","age-level"],
+        "tags": ["kid crafts","beginner projects","crafts by age","child development"],
+        "url": "/crafting-for-kids/age-appropriate-crafts/",
+        "teaser": null
+      },{
+        "title": "Crafting for Kids",
+        "excerpt":"Discover fun, safe, and creative craft ideas and resources for children of all ages. Explore Crafting for Kids Topics Article Description Age-Appropriate Crafts Choose the right craft for each stage of development. These activities are sorted by age and skill level to keep things fun and frustration-free. Edible Crafts for...","categories": [],
+        "tags": [],
+        "url": "/categories/crafting-for-kids/",
+        "teaser": null
+      },{
+        "title": "Edible Crafts for Kids",
+        "excerpt":"Sweet Treats Craft Idea Ingredients Needed Age Range Pretzel Log Cabins Pretzels, peanut butter or frosting 5+ Rice Krispie Treat Sculptures Rice Krispies, marshmallows, butter 6+ Candy Necklaces String, various candies with holes 4+ Savory Snacks Craft Idea Ingredients Needed Age Range Veggie Skeletons Various vegetables, dip 5+ Ants on...","categories": ["crafting-for-kids","edible","DIY"],
+        "tags": ["kids-crafts","edible-crafts","food-crafts","cooking-with-kids"],
+        "url": "/crafting-for-kids/edible-crafts/",
+        "teaser": null
+      },{
+        "title": "Holiday Crafts for Kids",
+        "excerpt":"Christmas Crafts Craft Idea Materials Needed Age Range Salt Dough Ornaments Flour, salt, water, paint 4+ Reindeer Handprint Cards Paper, paint, googly eyes 2+ Paper Plate Angels Paper plates, doilies, pipe cleaners 4+ Easter Crafts Craft Idea Materials Needed Age Range Bunny Masks Paper plates, construction paper, elastic 3+ Egg...","categories": ["crafting-for-kids","holiday","DIY"],
+        "tags": ["kids-crafts","holiday-crafts","christmas","easter","halloween"],
+        "url": "/crafting-for-kids/holiday-crafts/",
+        "teaser": null
+      },{
+        "title": "Homemade Musical Instruments for Kids",
+        "excerpt":"Percussion Instruments Craft Idea Materials Needed Sound Principle Paper Plate Tambourines Paper plates, beans or beads, stapler Shaking Rice Shakers Plastic bottles or cardboard tubes, rice Shaking Wind Instruments Craft Idea Materials Needed Sound Principle Straw Pan Flutes Straws, tape, scissors Blowing across an opening Cardboard Tube Kazoos Cardboard tubes,...","categories": ["crafting-for-kids","music","DIY"],
+        "tags": ["kids-crafts","music-crafts","homemade-instruments"],
+        "url": "/crafting-for-kids/musical-instrument-crafts/",
+        "teaser": null
+      },{
+        "title": "Nature Crafts for Kids",
+        "excerpt":"Leaf Crafts Craft Idea Materials Needed Age Range Leaf Animals Leaves, paper, glue 3+ Leaf Rubbings Leaves, crayons, paper 3+ Leaf Crowns Leaves, paper strips, glue 4+ Rock &amp; Stone Crafts Craft Idea Materials Needed Age Range Painted Rocks Rocks, paint, brushes 3+ Rock Dominoes Flat stones, paint 5+ Story...","categories": ["crafting-for-kids","nature","DIY"],
+        "tags": ["kids-crafts","nature-crafts","outdoor-crafts"],
+        "url": "/crafting-for-kids/nature-crafts/",
+        "teaser": null
+      },{
+        "title": "Science-Based Crafts for Kids",
+        "excerpt":"Chemistry Crafts Craft Idea Materials Needed Scientific Principle Slime Making Glue, borax solution, water Polymers Baking Soda &amp; Vinegar Volcanoes Baking soda, vinegar, bottle Chemical Reactions Crystal Growing Sugar or salt, water, jar Crystallization Physics Crafts Craft Idea Materials Needed Scientific Principle Marshmallow Catapults Popsicle sticks, rubber bands, marshmallows Levers,...","categories": ["crafting-for-kids","science","DIY"],
+        "tags": ["kids-crafts","science-crafts","STEM-crafts","educational-crafts"],
+        "url": "/crafting-for-kids/science-crafts/",
+        "teaser": null
+      },{
+        "title": "Seasonal Crafts for Kids",
+        "excerpt":"Spring Crafts Craft Idea Materials Needed Age Range Coffee Filter Butterflies Coffee filters, markers, pipe cleaners 3+ Egg Carton Flowers Egg cartons, paint, scissors, glue 5+ Handprint Caterpillars Paper, paint 2+ Summer Crafts Craft Idea Materials Needed Age Range Seashell Creatures Seashells, paint, googly eyes, glue 4+ DIY Sidewalk Chalk...","categories": ["crafting-for-kids","seasonal","DIY"],
+        "tags": ["kids-crafts","seasonal-crafts","spring","summer","autumn","winter"],
+        "url": "/crafting-for-kids/seasonal-crafts/",
+        "teaser": null
+      },{
+        "title": "Storybook Crafts for Kids",
+        "excerpt":"“The Very Hungry Caterpillar” Crafts Craft Idea Materials Needed Age Range Egg Carton Caterpillar Egg carton, paint, pipe cleaners 3+ Paper Plate Caterpillar Paper plate, paint, construction paper 3+ “Where the Wild Things Are” Crafts Craft Idea Materials Needed Age Range Paper Bag Monsters Paper bags, construction paper, markers 4+...","categories": ["crafting-for-kids","reading","DIY"],
+        "tags": ["kids-crafts","storybook-crafts","book-crafts","reading-crafts"],
+        "url": "/crafting-for-kids/storybook-crafts/",
+        "teaser": null
+      },{
+        "title": "3D Printing for Crafters",
+        "excerpt":"How 3D Printing Works (FDM) Step Description 1. Design Create a 3D model using software (CAD) or download a pre-made file (STL). 2. Slice Use a slicer program to convert the 3D model into layers and generate G-code (printer instructions). 3. Print The printer heats plastic filament and extrudes it...","categories": ["digital-crafting","3d-printing","DIY"],
+        "tags": ["3d-printing","craft-technology","rapid-prototyping"],
+        "url": "/digital-crafting/3d-printing-for-crafters/",
+        "teaser": null
+      },{
+        "title": "Using AI in Craft Design",
+        "excerpt":"AI Tools for Idea Generation Tool Type Description Craft Application Text-to-Image Generators Create unique images from text prompts. Generate patterns for fabric, inspiration for paintings, unique character designs for amigurumi. Style Transfer Apply the artistic style of one image to another. Transform a photo into a painting style for print,...","categories": ["digital-crafting","AI","design"],
+        "tags": ["ai-art","generative-design","craft-innovation","digital-tools"],
+        "url": "/digital-crafting/ai-in-craft-design/",
+        "teaser": null
+      },{
+        "title": "Digital Art for Fabric Printing",
+        "excerpt":"Understanding File Requirements Requirement Description Best Practice Resolution (DPI) Dots Per Inch. Determines print quality. Aim for 150-300 DPI for fabric. Lower DPI results in pixelation. Color Mode How colors are represented. Use RGB for digital design, but be aware that printers use CMYK. Some services convert automatically. File Type...","categories": ["digital-crafting","fabric-printing","design"],
+        "tags": ["digital-fabric-printing","surface-pattern-design","textile-design","print-on-demand"],
+        "url": "/digital-crafting/digital-art-for-fabric-printing/",
+        "teaser": null
+      },{
+        "title": "Digital Crafting",
+        "excerpt":"Explore digital tools, techniques, and inspiration for modern makers and crafters. Explore Digital Crafting Topics Article Description 3D Printing for Crafters An introduction to 3D printing for crafters. Learn the basics of how 3D printers work, common materials, and how to integrate 3D printed components into your handmade projects. Free...","categories": [],
+        "tags": [],
+        "url": "/categories/digital-crafting/",
+        "teaser": null
+      },{
+        "title": "Creating Digital Patterns for Sewing & Embroidery",
+        "excerpt":"Software for Pattern Design Software Type Pros Cons Best For Adobe Illustrator Vector Precision, scalability, industry standard. Steep learning curve, subscription. Professional sewing patterns, complex embroidery. Inkscape Vector Free, open-source, good for basic shapes. Less intuitive, fewer advanced features. Simple sewing patterns, appliqué designs. Procreate (iPad) Raster Intuitive, great for...","categories": ["digital-crafting","patterns","sewing","embroidery"],
+        "tags": ["digital-patterns","sewing-patterns","embroidery-patterns","pattern-design-software"],
+        "url": "/digital-crafting/digital-patterns-sewing-embroidery/",
+        "teaser": null
+      },{
+        "title": "Introduction to Laser Engraving Design",
+        "excerpt":"Vector vs. Raster for Laser Machines Type Description Laser Action Best For Vector Graphics Made of paths, lines, and curves. Scalable without pixelation. Cutting &amp; Engraving Lines Clean cuts, precise outlines, text, geometric patterns. Raster Graphics Made of pixels (like photos). Pixelate when scaled up. Engraving (Shading) Photos, detailed images,...","categories": ["digital-crafting","laser-engraving","design"],
+        "tags": ["laser-engraving","laser-cutting","digital-design","vector-graphics"],
+        "url": "/digital-crafting/laser-engraving-design/",
         "teaser": null
       },{
         "title": "About",
@@ -899,24 +1157,6 @@ var store = [{
         "url": "/tags/",
         "teaser": null
       },{
-        "title": "Creative Prompts for Crafters: Break Blocks and Try Something New",
-        "excerpt":"10 One-Line Prompts Prompt Try With Make something only using scraps Fabric, vinyl, wood Choose 3 random colours and build around them Markers, paint, clay Recreate your favorite childhood object Foam, yarn, cardboard Make a piece with no straight lines Paper, vinyl, wire Use only circles as your design element...","categories": ["inspiration","creativity","practice"],
-        "tags": ["creative prompts","daily practice","artist block","craft ideas"],
-        "url": "/inspiration/creative-prompts-for-crafters/",
-        "teaser": null
-      },{
-        "title": "Finding Your Craft Style: Discover What Makes Your Work Unique",
-        "excerpt":"Style Discovery Table Element Options What It Might Mean Colours Neutral, bold, pastel, neon Your emotional tone Materials Natural, synthetic, recycled, high-finish Crafting values Patterns Minimalist, ornate, geometric Design mindset Techniques Hand-finished, machine-cut, mixed Process preference Final Use Decorative, wearable, functional Purpose focus Self-Audit: What Do You Make Most? Question...","categories": ["inspiration","craft-identity"],
-        "tags": ["craft style","creative identity","personal branding","self-discovery"],
-        "url": "/inspiration/finding-your-craft-style/",
-        "teaser": null
-      },{
-        "title": "Inspiration",
-        "excerpt":"Find creative inspiration, project ideas, and stories from the crafting community.   Explore Inspiration Topics      Creative Prompts for Crafters   Finding Your Craft Style   Moodboard Your Ideas  ","categories": [],
-        "tags": [],
-        "url": "/categories/inspiration/",
-        "teaser": null
-      },{
         "title": "Advanced Craft Techniques",
         "excerpt":"Readiness Assessment: Are You Ready for Advanced Techniques? Prerequisite Skills Checklist Craft Category Basic Skills Required Tool Proficiency Project Experience Woodworking Safe power tool use, measuring accuracy Table saw, router, jointer 10+ completed projects Metalworking Soldering, basic welding Torch work, precision files 5+ metal projects Textiles Machine sewing, pattern alteration...","categories": ["advanced-crafts","skill-building","techniques","professional-crafting"],
         "tags": ["advanced-techniques","professional-crafts","expert-skills","complex-projects","mastery","specialized-tools"],
@@ -935,22 +1175,16 @@ var store = [{
         "url": "/skill-building/cross-craft-skills/",
         "teaser": null
       },{
-        "title": "Moodboard Your Ideas: Visual Planning for Creative Projects",
-        "excerpt":"Moodboard Building Blocks Element Examples Colour Palette Paint chips, screenshots, fabric scraps Material Samples Swatches of vinyl, yarn, clay, wood Visual Themes Photos, illustrations, product shots Fonts &amp; Text Style words, quotes, product names Shapes Repeated icons, geometry, layout sketches Digital vs. Physical Type Pros Tools Digital Easy to edit,...","categories": ["inspiration","project-planning","design"],
-        "tags": ["moodboard","visual planning","craft design","creative prep"],
-        "url": "/inspiration/moodboard-your-ideas/",
+        "title": "Creative Prompts for Crafters: Break Blocks and Try Something New",
+        "excerpt":"10 One-Line Prompts Prompt Try With Make something only using scraps Fabric, vinyl, wood Choose 3 random colours and build around them Markers, paint, clay Recreate your favorite childhood object Foam, yarn, cardboard Make a piece with no straight lines Paper, vinyl, wire Use only circles as your design element...","categories": ["inspiration","creativity","practice"],
+        "tags": ["creative prompts","daily practice","artist block","craft ideas"],
+        "url": "/inspiration/creative-prompts-for-crafters/",
         "teaser": null
       },{
-        "title": "Air-Dry Clay for Beginners: Types, Properties, and Applications",
-        "excerpt":"What is Air-Dry Clay? Air-dry clay is a water-based modeling material that hardens naturally through evaporation without requiring kiln firing or oven baking. Air-dry clay is one of the earliest artisan supplies in human civilization, consisting of natural clay minerals mixed with binding agents and water. Modern formulations include paper...","categories": ["craft-supplies","clay"],
-        "tags": ["air dry clay","modeling clay","clay crafts","beginner clay","clay types"],
-        "url": "/material-guides/air-dry-clay-for-beginners/",
-        "teaser": null
-      },{
-        "title": "The Complete Guide to Plywood Types for Crafters and Makers",
-        "excerpt":"Choosing the right plywood can make or break your crafting project. Whether you’re laser cutting intricate designs, building furniture, or creating decorative pieces, understanding the different types of plywood and their properties is essential for achieving professional results. Understanding Plywood Construction Plywood is manufactured by bonding layers (plies) of wood...","categories": ["craft-supplies","materials","wood"],
-        "tags": ["plywood types","laser plywood","baltic birch","MDF","hardwood core","woodworking","crafting materials"],
-        "url": "/material-guides/all-about-plywood-types/",
+        "title": "Finding Your Craft Style: Discover What Makes Your Work Unique",
+        "excerpt":"Style Discovery Table Element Options What It Might Mean Colours Neutral, bold, pastel, neon Your emotional tone Materials Natural, synthetic, recycled, high-finish Crafting values Patterns Minimalist, ornate, geometric Design mindset Techniques Hand-finished, machine-cut, mixed Process preference Final Use Decorative, wearable, functional Purpose focus Self-Audit: What Do You Make Most? Question...","categories": ["inspiration","craft-identity"],
+        "tags": ["craft style","creative identity","personal branding","self-discovery"],
+        "url": "/inspiration/finding-your-craft-style/",
         "teaser": null
       },{
         "title": "Embroidery Floss & Thread Guide: Materials, Types & Techniques",
@@ -975,6 +1209,60 @@ var store = [{
         "excerpt":"Cast vs. Extruded Acrylic Property Cast Acrylic Extruded Acrylic Laser Engraving Frosted, clean detail Poor or unclear Edge Finish Slightly frosted Clear/glossy Melting Point Higher Lower Thickness Tolerance Slight variations More consistent Price Higher Lower Manufacturing Cell-cast in molds Continuous extrusion Stress Levels Lower internal stress Higher internal stress Cracking...","categories": ["craft-supplies","acrylic","laser-materials"],
         "tags": ["laser acrylic","cast acrylic","extruded acrylic","engraving materials"],
         "url": "/material-guides/laser-ready-acrylic-comparison/",
+        "teaser": null
+      },{
+        "title": "Color Theory for Crafters",
+        "excerpt":"The Color Wheel: A Crafter’s Best Friend The color wheel is a visual representation of color relationships. Understanding it is the first step to mastering color in your crafts. Color Type Description Examples Primary Colors The three basic colors from which all other colors are made. Red, Yellow, Blue Secondary...","categories": ["inspiration","design","color-theory"],
+        "tags": ["color-theory","design-principles","crafting","color-palette"],
+        "url": "/inspiration/color-theory-for-crafters/",
+        "teaser": null
+      },{
+        "title": "Crafting for Mindfulness and Relaxation",
+        "excerpt":"The Benefits of Mindful Crafting Benefit Description Reduces Stress and Anxiety The repetitive motions of many crafts can be meditative, helping to calm the mind and body. Improves Focus and Concentration Crafting requires you to be present in the moment, which can help improve your ability to focus. Boosts Mood...","categories": ["inspiration","mindfulness","wellness"],
+        "tags": ["mindful-crafting","relaxation","wellness","crafting-for-health"],
+        "url": "/inspiration/crafting-for-mindfulness/",
+        "teaser": null
+      },{
+        "title": "Turning a Crafting Hobby into a Business",
+        "excerpt":"First Steps to Starting a Craft Business Step Description 1. Define Your Niche What makes your products unique? Who is your target audience? 2. Price Your Products Calculate your material and labor costs, and research what similar products are selling for. 3. Choose a Business Name Pick a name that...","categories": ["inspiration","business","entrepreneurship"],
+        "tags": ["craft-business","small-business","entrepreneurship","selling-crafts"],
+        "url": "/inspiration/crafting-hobby-to-business/",
+        "teaser": null
+      },{
+        "title": "Finding Inspiration in Nature",
+        "excerpt":"Observing Nature for Inspiration Nature is a treasure trove of inspiration. Here are some ways to observe and record it: Technique Description Tools Nature Journaling A place to record your observations, sketches, and ideas. Notebook, pens, pencils, watercolors Photography Capture images of interesting colors, textures, and patterns. Camera or smartphone...","categories": ["inspiration","nature","creativity"],
+        "tags": ["nature-inspiration","creativity","crafting","nature-journaling"],
+        "url": "/inspiration/finding-inspiration-in-nature/",
+        "teaser": null
+      },{
+        "title": "Inspiration",
+        "excerpt":"Find creative inspiration, project ideas, and stories from the crafting community. Explore Inspiration Topics Article Description Color Theory for Crafters A practical guide to color theory for crafters. Learn how to use color to create mood, harmony, and visual interest in your projects. Crafting for Mindfulness and Relaxation A guide...","categories": [],
+        "tags": [],
+        "url": "/categories/inspiration/",
+        "teaser": null
+      },{
+        "title": "Moodboard Your Ideas: Visual Planning for Creative Projects",
+        "excerpt":"Moodboard Building Blocks Element Examples Colour Palette Paint chips, screenshots, fabric scraps Material Samples Swatches of vinyl, yarn, clay, wood Visual Themes Photos, illustrations, product shots Fonts &amp; Text Style words, quotes, product names Shapes Repeated icons, geometry, layout sketches Digital vs. Physical Type Pros Tools Digital Easy to edit,...","categories": ["inspiration","project-planning","design"],
+        "tags": ["moodboard","visual planning","craft design","creative prep"],
+        "url": "/inspiration/moodboard-your-ideas/",
+        "teaser": null
+      },{
+        "title": "Air-Dry Clay for Beginners: Types, Properties, and Applications",
+        "excerpt":"What is Air-Dry Clay? Air-dry clay is a water-based modeling material that hardens naturally through evaporation without requiring kiln firing or oven baking. Air-dry clay is one of the earliest artisan supplies in human civilization, consisting of natural clay minerals mixed with binding agents and water. Modern formulations include paper...","categories": ["craft-supplies","clay"],
+        "tags": ["air dry clay","modeling clay","clay crafts","beginner clay","clay types"],
+        "url": "/material-guides/air-dry-clay-for-beginners/",
+        "teaser": null
+      },{
+        "title": "The Complete Guide to Plywood Types for Crafters and Makers",
+        "excerpt":"Choosing the right plywood can make or break your crafting project. Whether you’re laser cutting intricate designs, building furniture, or creating decorative pieces, understanding the different types of plywood and their properties is essential for achieving professional results. Understanding Plywood Construction Plywood is manufactured by bonding layers (plies) of wood...","categories": ["craft-supplies","materials","wood"],
+        "tags": ["plywood types","laser plywood","baltic birch","MDF","hardwood core","woodworking","crafting materials"],
+        "url": "/material-guides/all-about-plywood-types/",
+        "teaser": null
+      },{
+        "title": "Overcoming Creative Block",
+        "excerpt":"Strategies for Overcoming Creative Block Strategy Description Take a Break Step away from your project and do something else. A walk, a nap, or a different activity can help clear your head. Try a New Craft Experimenting with a new medium or technique can spark new ideas and help you...","categories": ["inspiration","creativity","artist-block"],
+        "tags": ["creative-block","artist-block","inspiration","creativity-tips"],
+        "url": "/inspiration/overcoming-creative-block/",
         "teaser": null
       },{
         "title": "Material Guides",
@@ -1041,36 +1329,6 @@ var store = [{
         "excerpt":"Why Tiny Details Make a Big Difference Whether you’re building dollhouse furniture, tabletop gaming terrain, or scale-model props, the magic is in the details. Those precise stitches, paint strokes, and micro-elements are what elevate miniatures from “cute” to astonishingly realistic. But tiny detail work is a skill, and you can...","categories": ["skill-building","miniatures","fine-detail"],
         "tags": ["miniatures","fine-detail-work","model-making","tiny-craft","practice-tips","painting-miniatures","scale-crafting"],
         "url": "/skill-building/miniatures-tiny-details/",
-        "teaser": null
-      },{
-        "title": "Practice Exercises: Build Crafting Mastery One Step at a Time",
-        "excerpt":"Why Practice Exercises Matter Practicing isn’t just for beginners. Every great crafter, from hobbyists to pros, benefits from routine skill workouts. Purposeful repetition builds muscle memory, sharpens technique, and prevents costly errors. These exercises can be tailored to any craft, whether you’re wielding a paintbrush, rotary cutter, or soldering iron....","categories": ["skill-building","practice","exercises","hands-on"],
-        "tags": ["craft drills","repetition","technique-building","practice-routines","craft-fundamentals","skill-mastery","beginner-friendly"],
-        "url": "/skill-building/practice-exercises/",
-        "teaser": null
-      },{
-        "title": "Creative Block? Practice Routines to Reignite Inspiration",
-        "excerpt":"When Inspiration Stalls Even the most passionate crafters hit walls. Projects sit half-finished. Materials gather dust. The ideas won’t come. Creative block isn’t laziness, it’s part of the process. But when it sticks around too long, it helps to have gentle routines designed to spark motion without pressure. Why Practice...","categories": ["skill-building","creative-habits","motivation"],
-        "tags": ["creative-block","routines","daily-practice","creative-habits","artistic-slumps","inspiration-techniques"],
-        "url": "/skill-building/practice-to-reignite-inspiration/",
-        "teaser": null
-      },{
-        "title": "Understanding Scale & Proportion in Craft Design",
-        "excerpt":"Why Scale &amp; Proportion Matter in Craft Design Good design isn’t just about colour or texture, it’s about how all parts relate to each other in size and balance. Scale and proportion help create realism, harmony, and functionality in every kind of craft. From dollhouses to wall art, jewelry to...","categories": ["skill-building","design-principles","fundamentals"],
-        "tags": ["scale","proportion","design","craft-planning","visual-balance","layout-techniques","beginner-friendly"],
-        "url": "/skill-building/scale-and-proportion/",
-        "teaser": null
-      },{
-        "title": "Skill Building: Improve Your Crafting Skills",
-        "excerpt":"Article Title Description Adhesive Know-How Tips and tricks for using adhesives in crafting. Advanced Techniques Take your skills to the next level with advanced methods. Beginner Friendly Projects Easy projects to get you started. Colour Confidence Master colour theory and application. Cross-Craft Skills Skills that apply across multiple crafts. Cutting...","categories": ["skill-building","fundamentals"],
-        "tags": ["crafting","tool-organization","cutting-tips","beginner","miniatures","heat-transfer-vinyl","skill-building","practice","learning","improvement","techniques"],
-        "url": "/skill-building/",
-        "teaser": null
-      },{
-        "title": "Track Your Crafting Progress: Journals, Logs, and Practice Sheets",
-        "excerpt":"Why Tracking Helps You Improve Faster Your brain forgets what your journal remembers. Logging your craft practice turns random creativity into measurable growth. Whether you’re painting miniatures, sewing garments, crafting stickers, or working with vinyl, keeping track of what you make, and how you made it, can: Build consistency Reveal...","categories": ["skill-building","organization","practice"],
-        "tags": ["craft journals","progress tracking","practice logs","creative routine","improvement tools","habit building","beginner-friendly"],
-        "url": "/skill-building/track-your-crafting-progress/",
         "teaser": null
       },{
         "title": "3D Pen Crafting",
@@ -1451,8 +1709,14 @@ var store = [{
         "url": "/sustainable-crafting/energy-efficient-tools/",
         "teaser": null
       },{
+        "title": "Composting Craft Waste",
+        "excerpt":"Why Compost Craft Waste? Benefit Description Reduces Landfill Waste Diverts organic materials from landfills, where they produce methane. Creates Nutrient-Rich Soil Produces a valuable soil amendment for gardens and plants. Reduces Carbon Footprint Less waste sent to landfills means fewer greenhouse gas emissions. Compostable Craft Materials Material Type Examples Notes...","categories": ["sustainable-crafting","waste-management","eco-friendly"],
+        "tags": ["composting","craft-waste","zero-waste","eco-crafting"],
+        "url": "/sustainable-crafting/composting-craft-waste/",
+        "teaser": null
+      },{
         "title": "Sustainable Crafting",
-        "excerpt":"Discover eco-friendly, natural, and recycled crafting ideas and resources in this section.   Explore Sustainable Crafting Topics      Eco-Friendly Supplies   Natural Dyes   Recycled Materials   Eco-Friendly Finishes   Energy-Efficient Tools   Sustainable Packaging Options  ","categories": [],
+        "excerpt":"Discover eco-friendly, natural, and recycled crafting ideas and resources in this section. Explore Sustainable Crafting Topics Article Description Composting Craft Waste A guide to composting organic craft waste to reduce your environmental footprint. Eco-Friendly Finishes Explore non-toxic, sustainable finishing options for wood, paper, and more. Protect your projects and the...","categories": [],
         "tags": [],
         "url": "/categories/sustainable-crafting/",
         "teaser": null
@@ -1461,6 +1725,18 @@ var store = [{
         "excerpt":"Eco Packaging Materials Overview Material Recyclable Compostable Best Use Kraft Paper Yes Yes Wrapping, stuffing Corrugated Cardboard Yes No Shipping boxes Paper Tape Yes Yes Sealing boxes Tissue Paper (Uncoated) Yes Yes Wrapping, layering Plant-Based Mailers No Yes Mailing soft items Glassine Bags Yes Yes Protecting prints, paper Compostable Labels...","categories": ["sustainable-crafting","packaging","eco-business"],
         "tags": ["eco packaging","shipping materials","plastic-free","recyclable","compostable"],
         "url": "/sustainable-crafting/sustainable-packaging-options/",
+        "teaser": null
+      },{
+        "title": "Upcycling Textiles",
+        "excerpt":"Why Upcycle Textiles? Benefit Description Reduces Waste Keeps textiles out of landfills. Saves Money Repurpose materials you already have. Unique Creations One-of-a-kind items with character. Eco-Friendly Less demand for new production, saving resources. Common Textiles for Upcycling Textile Type Examples Upcycling Ideas Old Clothes Jeans, t-shirts, sweaters, shirts Denim bags,...","categories": ["sustainable-crafting","upcycling","textiles"],
+        "tags": ["upcycling","textile-crafts","sustainable-fashion","zero-waste"],
+        "url": "/sustainable-crafting/upcycling-textiles/",
+        "teaser": null
+      },{
+        "title": "Water Conservation in Crafting",
+        "excerpt":"Why Water Conservation Matters in Crafting Reason Impact Environmental Impact Reduces strain on local water resources and energy used for water treatment. Cost Savings Lower water bills for your home or studio. Resource Scarcity Contributes to responsible use of a finite resource. Water-Saving Practices by Craft Type Craft Type Water-Saving...","categories": ["sustainable-crafting","water-conservation","eco-friendly"],
+        "tags": ["water-saving","eco-crafting","sustainable-practices","studio-efficiency"],
+        "url": "/sustainable-crafting/water-conservation/",
         "teaser": null
       },{
         "title": "Welcome to Crafting Supply Hub",
