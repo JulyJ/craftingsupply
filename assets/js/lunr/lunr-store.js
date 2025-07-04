@@ -599,6 +599,12 @@ var store = [{
         "url": "/cheatsheets/pressed-flowers/",
         "teaser": null
       },{
+        "title": "Punch Needle Embroidery Cheatsheet",
+        "excerpt":"Essential Tools &amp; Supplies Item Description Notes Punch Needle Tool Hollow needle with adjustable depth Sizes vary by thread thickness Embroidery Hoop/Frame Holds fabric taut for easier stitching Choose size based on project Fabric Monk’s cloth, linen, or weaver’s cloth Must have a loose enough weave to punch through Thread/Yarn...","categories": ["textile","fiber arts","embroidery","DIY","crafts"],
+        "tags": ["punch needle","embroidery","fiber art","needlework","rug hooking","surface embroidery","cheatsheet"],
+        "url": "/cheatsheets/punch-needle-embroidery/",
+        "teaser": null
+      },{
         "title": "Pyrography Cheatsheet",
         "excerpt":"Pyrography Tools &amp; Equipment Tool Type Description Price Range Skill Level Notes Basic Woodburner Pen Single heat, interchangeable tips $15–$40 Beginner Good for line work and simple projects Variable Temp Tool Adjustable heat settings $40–$120 Intermediate Allows shading, texture work Professional Burner (Wire) Precise heat control, interchangeable tips $100–$300+ Advanced...","categories": ["woodburning","pyrography","DIY","crafts","art","guides"],
         "tags": ["woodburning","pyrography tools","beginner pyrography","wood art","tips","techniques","safety","cheatsheet"],
