@@ -291,6 +291,7 @@
       <th>Requirement</th>
       <th>Description</th>
       <th>Best Practice</th>
+      <th>Common Issues</th>
     </tr>
   </thead>
   <tbody>
@@ -298,21 +299,95 @@
       <td><strong>Resolution (DPI)</strong></td>
       <td>Dots Per Inch. Determines print quality.</td>
       <td>Aim for 150-300 DPI for fabric. Lower DPI results in pixelation.</td>
+      <td>Files too large (over 300 DPI) or too small (under 150 DPI)</td>
     </tr>
     <tr>
       <td><strong>Colour Mode</strong></td>
       <td>How colours are represented.</td>
       <td>Use RGB for digital design, but be aware that printers use CMYK. Some services convert automatically.</td>
+      <td>Color shifts during printing, unexpected color results</td>
     </tr>
     <tr>
       <td><strong>File Type</strong></td>
       <td>The format your design is saved in.</td>
       <td>JPEG, PNG, or TIFF for raster images. SVG for vector patterns (if applicable).</td>
+      <td>Compressed files losing quality, wrong format for service</td>
     </tr>
     <tr>
       <td><strong>Repeat Type</strong></td>
       <td>How your pattern tiles to create a seamless design.</td>
       <td>Basic, half-drop, brick, or mirror repeats.</td>
+      <td>Visible seams, misaligned patterns</td>
+    </tr>
+    <tr>
+      <td><strong>File Size</strong></td>
+      <td>Storage space and upload limitations.</td>
+      <td>25-100MB for most services. Balance quality with file size.</td>
+      <td>Upload failures, processing delays</td>
+    </tr>
+    <tr>
+      <td><strong>Bleed Area</strong></td>
+      <td>Extra design area beyond the cut line.</td>
+      <td>Add 1/8” bleed on all sides for professional results.</td>
+      <td>White edges, misaligned cuts</td>
+    </tr>
+  </tbody>
+</table>
+
+<h2 id="technical-specifications-by-fabric-type">Technical Specifications by Fabric Type</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th>Fabric Type</th>
+      <th>Recommended DPI</th>
+      <th>Color Considerations</th>
+      <th>File Size Range</th>
+      <th>Best Applications</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Cotton</strong></td>
+      <td>150-200 DPI</td>
+      <td>Vibrant colors, good saturation</td>
+      <td>25-50MB</td>
+      <td>Quilting, apparel, home decor</td>
+    </tr>
+    <tr>
+      <td><strong>Silk</strong></td>
+      <td>200-300 DPI</td>
+      <td>Excellent color reproduction, subtle gradients</td>
+      <td>50-100MB</td>
+      <td>Scarves, luxury items, fine art</td>
+    </tr>
+    <tr>
+      <td><strong>Polyester</strong></td>
+      <td>150-200 DPI</td>
+      <td>Bright colors, synthetic feel</td>
+      <td>25-50MB</td>
+      <td>Athletic wear, outdoor fabrics</td>
+    </tr>
+    <tr>
+      <td><strong>Linen</strong></td>
+      <td>150-200 DPI</td>
+      <td>Muted colors, natural texture</td>
+      <td>25-50MB</td>
+      <td>Home textiles, rustic designs</td>
+    </tr>
+    <tr>
+      <td><strong>Canvas</strong></td>
+      <td>150-200 DPI</td>
+      <td>Bold colors, heavy-duty prints</td>
+      <td>25-75MB</td>
+      <td>Bags, upholstery, art prints</td>
+    </tr>
+    <tr>
+      <td><strong>Lycra/Spandex</strong></td>
+      <td>200-250 DPI</td>
+      <td>Stretchy substrate, color may shift</td>
+      <td>40-80MB</td>
+      <td>Activewear, swimwear, fitted garments</td>
     </tr>
   </tbody>
 </table>
@@ -326,6 +401,7 @@
       <th>Pros</th>
       <th>Cons</th>
       <th>Best For</th>
+      <th>Price Range</th>
     </tr>
   </thead>
   <tbody>
@@ -334,24 +410,107 @@
       <td>Powerful raster editing, great for complex textures.</td>
       <td>Subscription-based, steep learning curve.</td>
       <td>Photo-realistic designs, intricate textures.</td>
+      <td>$20-50/month</td>
     </tr>
     <tr>
       <td><strong>Adobe Illustrator</strong></td>
       <td>Vector-based, infinitely scalable.</td>
       <td>Subscription-based, less intuitive for painting.</td>
       <td>Geometric patterns, clean lines, logos.</td>
+      <td>$20-50/month</td>
     </tr>
     <tr>
       <td><strong>Procreate (iPad)</strong></td>
       <td>Intuitive, great for hand-drawn feel.</td>
       <td>Raster-based, limited vector capabilities.</td>
       <td>Hand-drawn patterns, illustrative styles.</td>
+      <td>$12.99 one-time</td>
     </tr>
     <tr>
       <td><strong>Canva</strong></td>
       <td>User-friendly, template-based.</td>
       <td>Limited advanced features, less control over resolution.</td>
       <td>Simple patterns, quick designs, beginners.</td>
+      <td>Free-$15/month</td>
+    </tr>
+    <tr>
+      <td><strong>Affinity Designer</strong></td>
+      <td>One-time purchase, vector and raster capabilities.</td>
+      <td>Smaller community, fewer tutorials.</td>
+      <td>Professional designs, budget-conscious users.</td>
+      <td>$70 one-time</td>
+    </tr>
+    <tr>
+      <td><strong>GIMP</strong></td>
+      <td>Free, open-source, extensive features.</td>
+      <td>Steep learning curve, less intuitive interface.</td>
+      <td>Budget-friendly professional work.</td>
+      <td>Free</td>
+    </tr>
+    <tr>
+      <td><strong>Pattern Design Software</strong></td>
+      <td>Specialized for fabric patterns, repeat tools.</td>
+      <td>Limited to pattern work, may be expensive.</td>
+      <td>Seamless repeats, textile-specific features.</td>
+      <td>$50-500</td>
+    </tr>
+  </tbody>
+</table>
+
+<h2 id="pattern-types-and-applications">Pattern Types and Applications</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th>Pattern Type</th>
+      <th>Description</th>
+      <th>Best Use Cases</th>
+      <th>Difficulty Level</th>
+      <th>Tools Needed</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Basic Repeat</strong></td>
+      <td>Simple grid-based tiling pattern</td>
+      <td>Geometric designs, florals, simple motifs</td>
+      <td>Beginner</td>
+      <td>Any design software</td>
+    </tr>
+    <tr>
+      <td><strong>Half-Drop Repeat</strong></td>
+      <td>Alternating rows offset by half the pattern height</td>
+      <td>Organic designs, natural patterns</td>
+      <td>Intermediate</td>
+      <td>Pattern-specific tools helpful</td>
+    </tr>
+    <tr>
+      <td><strong>Brick Repeat</strong></td>
+      <td>Staggered like bricks, offset horizontally</td>
+      <td>Structured designs, architectural elements</td>
+      <td>Intermediate</td>
+      <td>Grid-based software</td>
+    </tr>
+    <tr>
+      <td><strong>Mirror Repeat</strong></td>
+      <td>Pattern reflects across axes creating symmetry</td>
+      <td>Kaleidoscope effects, formal designs</td>
+      <td>Advanced</td>
+      <td>Software with mirror tools</td>
+    </tr>
+    <tr>
+      <td><strong>Seamless Textures</strong></td>
+      <td>Continuous patterns without visible edges</td>
+      <td>Backgrounds, all-over prints</td>
+      <td>Advanced</td>
+      <td>Specialized texture tools</td>
+    </tr>
+    <tr>
+      <td><strong>Engineered Prints</strong></td>
+      <td>Specific placement designs for garment panels</td>
+      <td>Fashion, home decor items</td>
+      <td>Expert</td>
+      <td>CAD software, pattern-making knowledge</td>
     </tr>
   </tbody>
 </table>
@@ -365,6 +524,8 @@
       <th>Pros</th>
       <th>Cons</th>
       <th>Notes</th>
+      <th>Price Range</th>
+      <th>Specialty</th>
     </tr>
   </thead>
   <tbody>
@@ -373,18 +534,411 @@
       <td>Wide variety of fabric types, large community.</td>
       <td>Can be more expensive, longer print times.</td>
       <td>Great for custom designs, small runs.</td>
+      <td>$18-45/yard</td>
+      <td>Design marketplace, tutorials</td>
     </tr>
     <tr>
       <td><strong>Contrado</strong></td>
       <td>High-quality prints, diverse product range.</td>
       <td>Higher price point, less beginner-friendly.</td>
       <td>Luxury fabrics, custom products.</td>
+      <td>$25-60/yard</td>
+      <td>Luxury and specialty fabrics</td>
     </tr>
     <tr>
       <td><strong>Printful</strong></td>
       <td>Integrates with e-commerce platforms, fast shipping.</td>
       <td>Limited fabric choices, primarily for apparel.</td>
       <td>Dropshipping, quick fulfillment.</td>
+      <td>$15-35/yard</td>
+      <td>E-commerce integration</td>
+    </tr>
+    <tr>
+      <td><strong>Fabric on Demand</strong></td>
+      <td>European-based, eco-friendly options.</td>
+      <td>Limited US availability, shipping costs.</td>
+      <td>Sustainable printing, organic fabrics.</td>
+      <td>$20-50/yard</td>
+      <td>Eco-friendly focus</td>
+    </tr>
+    <tr>
+      <td><strong>Print All Over Me</strong></td>
+      <td>Specialty in all-over print garments.</td>
+      <td>Limited to apparel, specific sizing.</td>
+      <td>Fashion-focused, unique products.</td>
+      <td>$30-80/item</td>
+      <td>All-over print fashion</td>
+    </tr>
+    <tr>
+      <td><strong>Bagsoflove</strong></td>
+      <td>UK-based, wide product range.</td>
+      <td>International shipping, currency conversion.</td>
+      <td>Home decor focus, gift items.</td>
+      <td>$15-40/yard</td>
+      <td>Home textiles, gifts</td>
+    </tr>
+  </tbody>
+</table>
+
+<h2 id="color-management-and-printing">Color Management and Printing</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th>Color Aspect</th>
+      <th>Consideration</th>
+      <th>Best Practice</th>
+      <th>Common Problems</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>RGB vs CMYK</strong></td>
+      <td>Display vs print color modes</td>
+      <td>Design in RGB, test print samples</td>
+      <td>Colors appear different when printed</td>
+    </tr>
+    <tr>
+      <td><strong>Color Profiles</strong></td>
+      <td>Standardized color spaces</td>
+      <td>Use sRGB for most services</td>
+      <td>Inconsistent color reproduction</td>
+    </tr>
+    <tr>
+      <td><strong>Pantone Matching</strong></td>
+      <td>Specific color standards</td>
+      <td>Use Pantone color books for exact matching</td>
+      <td>Expensive, not always available</td>
+    </tr>
+    <tr>
+      <td><strong>Color Gamut</strong></td>
+      <td>Range of reproducible colors</td>
+      <td>Understand fabric limitations</td>
+      <td>Neon colors may not print accurately</td>
+    </tr>
+    <tr>
+      <td><strong>Color Fastness</strong></td>
+      <td>How well colors resist fading</td>
+      <td>Choose quality printing services</td>
+      <td>Colors fade with washing/sunlight</td>
+    </tr>
+    <tr>
+      <td><strong>White Point</strong></td>
+      <td>Base color of the fabric</td>
+      <td>Consider fabric color in design</td>
+      <td>Designs look different on off-white fabrics</td>
+    </tr>
+  </tbody>
+</table>
+
+<h2 id="preparing-files-for-print">Preparing Files for Print</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th>Preparation Step</th>
+      <th>Process</th>
+      <th>Tools Needed</th>
+      <th>Quality Check</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Design Creation</strong></td>
+      <td>Create artwork at correct resolution and size</td>
+      <td>Design software, high-res images</td>
+      <td>Check DPI, dimensions, color mode</td>
+    </tr>
+    <tr>
+      <td><strong>Pattern Tiling</strong></td>
+      <td>Ensure seamless repeats if applicable</td>
+      <td>Pattern software, manual alignment</td>
+      <td>Test tile visibility, check seams</td>
+    </tr>
+    <tr>
+      <td><strong>Color Correction</strong></td>
+      <td>Adjust colors for print output</td>
+      <td>Color calibration tools, monitor</td>
+      <td>Compare screen to print samples</td>
+    </tr>
+    <tr>
+      <td><strong>File Optimization</strong></td>
+      <td>Balance quality with file size</td>
+      <td>Compression software, format conversion</td>
+      <td>Maintain quality while reducing size</td>
+    </tr>
+    <tr>
+      <td><strong>Bleed Addition</strong></td>
+      <td>Add extra area around design</td>
+      <td>Design software extend tools</td>
+      <td>Ensure no white edges after cutting</td>
+    </tr>
+    <tr>
+      <td><strong>Final Review</strong></td>
+      <td>Check all specifications before upload</td>
+      <td>Checklist, service requirements</td>
+      <td>Resolution, format, size, colors</td>
+    </tr>
+  </tbody>
+</table>
+
+<h2 id="quality-control-and-testing">Quality Control and Testing</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th>Testing Stage</th>
+      <th>What to Check</th>
+      <th>Cost Range</th>
+      <th>Time Investment</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Digital Proof</strong></td>
+      <td>Screen colors, pattern alignment</td>
+      <td>Free</td>
+      <td>1-2 hours</td>
+    </tr>
+    <tr>
+      <td><strong>Print Sample</strong></td>
+      <td>Actual fabric colors, texture feel</td>
+      <td>$5-25</td>
+      <td>1-2 weeks</td>
+    </tr>
+    <tr>
+      <td><strong>Wash Test</strong></td>
+      <td>Color fastness, shrinkage</td>
+      <td>$10-30</td>
+      <td>2-4 weeks</td>
+    </tr>
+    <tr>
+      <td><strong>Wear Test</strong></td>
+      <td>Durability, comfort</td>
+      <td>$20-50</td>
+      <td>1-3 months</td>
+    </tr>
+    <tr>
+      <td><strong>Light Fastness</strong></td>
+      <td>Fade resistance</td>
+      <td>$15-35</td>
+      <td>2-8 weeks</td>
+    </tr>
+    <tr>
+      <td><strong>Production Run</strong></td>
+      <td>Consistency across multiple yards</td>
+      <td>Full order cost</td>
+      <td>2-4 weeks</td>
+    </tr>
+  </tbody>
+</table>
+
+<h2 id="business-considerations-for-fabric-designers">Business Considerations for Fabric Designers</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th>Business Aspect</th>
+      <th>Considerations</th>
+      <th>Implementation</th>
+      <th>Expected ROI</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Market Research</strong></td>
+      <td>Understanding customer needs, trending patterns</td>
+      <td>Surveys, social media analysis, competitor research</td>
+      <td>3-6 months</td>
+    </tr>
+    <tr>
+      <td><strong>Pricing Strategy</strong></td>
+      <td>Cost of production, market rates, profit margins</td>
+      <td>Cost calculation, competitive analysis</td>
+      <td>Immediate</td>
+    </tr>
+    <tr>
+      <td><strong>Copyright/Licensing</strong></td>
+      <td>Protecting designs, licensing to manufacturers</td>
+      <td>Legal consultation, registration</td>
+      <td>6-12 months</td>
+    </tr>
+    <tr>
+      <td><strong>Marketing Strategy</strong></td>
+      <td>Building brand, reaching customers</td>
+      <td>Social media, craft shows, online presence</td>
+      <td>3-9 months</td>
+    </tr>
+    <tr>
+      <td><strong>Inventory Management</strong></td>
+      <td>Balancing stock levels with demand</td>
+      <td>Inventory software, demand forecasting</td>
+      <td>6-12 months</td>
+    </tr>
+    <tr>
+      <td><strong>Customer Service</strong></td>
+      <td>Handling orders, returns, customization requests</td>
+      <td>Support systems, clear policies</td>
+      <td>Immediate</td>
+    </tr>
+  </tbody>
+</table>
+
+<h2 id="troubleshooting-common-issues">Troubleshooting Common Issues</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th>Problem</th>
+      <th>Possible Causes</th>
+      <th>Solutions</th>
+      <th>Prevention</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Pixelated Prints</strong></td>
+      <td>Low resolution, over-enlargement</td>
+      <td>Recreate at higher DPI, use vector formats</td>
+      <td>Always work at final print size</td>
+    </tr>
+    <tr>
+      <td><strong>Color Shifts</strong></td>
+      <td>RGB to CMYK conversion, fabric absorption</td>
+      <td>Order color samples, adjust digitally</td>
+      <td>Use color-managed workflow</td>
+    </tr>
+    <tr>
+      <td><strong>Visible Seams</strong></td>
+      <td>Misaligned repeats, scaling issues</td>
+      <td>Recreate seamless repeat, check alignment</td>
+      <td>Test tile before ordering</td>
+    </tr>
+    <tr>
+      <td><strong>Faded Colors</strong></td>
+      <td>Low-quality printing, fabric limitations</td>
+      <td>Choose better service, adjust color intensity</td>
+      <td>Research fabric capabilities</td>
+    </tr>
+    <tr>
+      <td><strong>Rejected Files</strong></td>
+      <td>Wrong format, size, or resolution</td>
+      <td>Check service requirements, reformat</td>
+      <td>Read guidelines carefully</td>
+    </tr>
+    <tr>
+      <td><strong>Poor Fabric Hand</strong></td>
+      <td>Wrong fabric choice for design</td>
+      <td>Research fabric properties, order samples</td>
+      <td>Match fabric to intended use</td>
+    </tr>
+  </tbody>
+</table>
+
+<h2 id="sustainability-in-digital-fabric-printing">Sustainability in Digital Fabric Printing</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th>Sustainability Factor</th>
+      <th>Impact</th>
+      <th>Eco-Friendly Options</th>
+      <th>Implementation</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Ink Types</strong></td>
+      <td>Chemical content, environmental impact</td>
+      <td>Water-based, eco-solvent inks</td>
+      <td>Choose certified eco-friendly services</td>
+    </tr>
+    <tr>
+      <td><strong>Fabric Choice</strong></td>
+      <td>Resource consumption, biodegradability</td>
+      <td>Organic cotton, recycled polyester, hemp</td>
+      <td>Select sustainable fabric options</td>
+    </tr>
+    <tr>
+      <td><strong>Print Process</strong></td>
+      <td>Energy consumption, waste generation</td>
+      <td>Digital printing vs traditional methods</td>
+      <td>Choose on-demand printing</td>
+    </tr>
+    <tr>
+      <td><strong>Packaging</strong></td>
+      <td>Plastic waste, shipping materials</td>
+      <td>Biodegradable packaging, minimal materials</td>
+      <td>Request eco-friendly packaging</td>
+    </tr>
+    <tr>
+      <td><strong>Local Production</strong></td>
+      <td>Transportation carbon footprint</td>
+      <td>Regional printing services</td>
+      <td>Choose local or regional services</td>
+    </tr>
+    <tr>
+      <td><strong>Waste Reduction</strong></td>
+      <td>Overproduction, material waste</td>
+      <td>Print-on-demand, accurate ordering</td>
+      <td>Calculate needs precisely</td>
+    </tr>
+  </tbody>
+</table>
+
+<h2 id="getting-started-checklist">Getting Started Checklist</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th>Phase</th>
+      <th>Tasks</th>
+      <th>Timeline</th>
+      <th>Budget</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Planning</strong></td>
+      <td>Research market, define style, choose niche</td>
+      <td>1-2 weeks</td>
+      <td>$0-100</td>
+    </tr>
+    <tr>
+      <td><strong>Skill Development</strong></td>
+      <td>Learn software, practice techniques</td>
+      <td>1-3 months</td>
+      <td>$50-500</td>
+    </tr>
+    <tr>
+      <td><strong>Equipment Setup</strong></td>
+      <td>Computer, software, peripherals</td>
+      <td>1 week</td>
+      <td>$200-2000</td>
+    </tr>
+    <tr>
+      <td><strong>First Designs</strong></td>
+      <td>Create initial patterns, test concepts</td>
+      <td>2-4 weeks</td>
+      <td>$0-50</td>
+    </tr>
+    <tr>
+      <td><strong>Testing</strong></td>
+      <td>Order samples, evaluate quality</td>
+      <td>2-3 weeks</td>
+      <td>$50-200</td>
+    </tr>
+    <tr>
+      <td><strong>Refinement</strong></td>
+      <td>Adjust based on test results</td>
+      <td>1-2 weeks</td>
+      <td>$0-100</td>
+    </tr>
+    <tr>
+      <td><strong>Launch</strong></td>
+      <td>Create portfolio, start marketing</td>
+      <td>2-4 weeks</td>
+      <td>$100-5</td>
     </tr>
   </tbody>
 </table>

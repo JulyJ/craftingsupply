@@ -792,7 +792,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Cyanotype Printing Cheatsheet",
-        "excerpt":"Cyanotype Chemistry Warning: Handle chemicals with care. Wear gloves and eye protection. Chemical Formula Role in Process Potassium Ferricyanide K₃[Fe(CN)₆] Part A of the sensitizer solution. Ferric Ammonium Citrate (NH₄)₅[Fe(C₆H₄O₇)₂] Part B of the sensitizer solution. Standard Recipe: Solution A: 25g Ferric Ammonium Citrate in 100ml water. Solution B: 10g...","categories": ["printmaking","photography","alternative-process","DIY","handmade","cheatsheet"],
+        "excerpt":"Suitable Papers &amp; Fabrics Material Characteristics Paper Heavyweight, natural fiber papers (cotton rag, watercolour paper) work best. Fabric Natural fibers like cotton, linen, silk, and canvas absorb the chemistry well. The Cyanotype Process Step # Action Notes 1 Make your cyanotype solution. Prepare the cyanotype sensitizer according to the instructions...","categories": ["printmaking","photography","alternative-process","DIY","handmade","cheatsheet"],
         "tags": ["cyanotype","sun-print","alternative-photography","printmaking","blueprint","cheatsheet"],
         "url": "/cheatsheets/cyanotype-printing/",
         "teaser": null
@@ -936,7 +936,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Recycled Crafts for Kids: Creative Projects with Everyday Items",
-        "excerpt":"Easy Recycled Materials to Save Material Craft Use Prep Needed Cardboard Tubes Binoculars, rockets, characters Flatten and cut Egg Cartons Bugs, flowers, trays Cut into sections Cereal Boxes Frames, bookmarks Remove food residue Bottle Caps Mosaic art, wheels Rinse and dry Scrap Paper Collage, origami Trim rough edges Project Ideas...","categories": ["crafting-for-kids","sustainable"],
+        "excerpt":"Transform trash into treasure with these creative recycled crafts that teach kids about sustainability while unleashing their creativity! Easy Recycled Materials to Save Material Craft Use Prep Needed Storage Tips Safety Notes Cardboard Tubes Binoculars, rockets, characters, organizers Flatten and cut to size Store in large container Check for sharp...","categories": ["crafting-for-kids","sustainable"],
         "tags": ["eco crafts","recycled materials","kids projects","zero waste kids"],
         "url": "/crafting-for-kids/recycled-crafts-for-kids/",
         "teaser": null
@@ -1056,19 +1056,19 @@ var store = [{
         "teaser": null
       },{
         "title": "Science-Based Crafts for Kids",
-        "excerpt":"Chemistry Crafts Craft Idea Materials Needed Scientific Principle Slime Making Glue, borax solution, water Polymers Baking Soda &amp; Vinegar Volcanoes Baking soda, vinegar, bottle Chemical Reactions Crystal Growing Sugar or salt, water, jar Crystallization Physics Crafts Craft Idea Materials Needed Scientific Principle Marshmallow Catapults Popsicle sticks, rubber bands, marshmallows Levers,...","categories": ["crafting-for-kids","science","DIY"],
+        "excerpt":"Turn your home into a science laboratory with these engaging STEM crafts that make learning fun and hands-on! Chemistry Crafts Craft Idea Materials Needed Scientific Principle Age Range Instructions Slime Making White glue, borax solution, water, food coloring Polymers, Chemical Bonds 6+ Mix glue with water, add borax solution slowly...","categories": ["crafting-for-kids","science","DIY"],
         "tags": ["kids-crafts","science-crafts","STEM-crafts","educational-crafts"],
         "url": "/crafting-for-kids/science-crafts/",
         "teaser": null
       },{
         "title": "Seasonal Crafts for Kids",
-        "excerpt":"Spring Crafts Craft Idea Materials Needed Age Range Coffee Filter Butterflies Coffee filters, markers, pipe cleaners 3+ Egg Carton Flowers Egg cartons, paint, scissors, glue 5+ Handprint Caterpillars Paper, paint 2+ Summer Crafts Craft Idea Materials Needed Age Range Seashell Creatures Seashells, paint, googly eyes, glue 4+ DIY Sidewalk Chalk...","categories": ["crafting-for-kids","seasonal","DIY"],
+        "excerpt":"Essential Crafting Supplies for All Seasons Supply Category Items Cost Range Best For Ages Basic Tools Child-safe scissors, glue sticks, washable markers $15-30 3-12 Paper Products Construction paper, coffee filters, paper plates $10-20 2-12 Painting Supplies Washable paints, brushes, sponges, aprons $20-40 3-12 Decorative Items Googly eyes, pipe cleaners, pom-poms,...","categories": ["crafting-for-kids","seasonal","DIY"],
         "tags": ["kids-crafts","seasonal-crafts","spring","summer","autumn","winter"],
         "url": "/crafting-for-kids/seasonal-crafts/",
         "teaser": null
       },{
         "title": "Storybook Crafts for Kids",
-        "excerpt":"“The Very Hungry Caterpillar” Crafts Craft Idea Materials Needed Age Range Egg Carton Caterpillar Egg carton, paint, pipe cleaners 3+ Paper Plate Caterpillar Paper plate, paint, construction paper 3+ “Where the Wild Things Are” Crafts Craft Idea Materials Needed Age Range Paper Bag Monsters Paper bags, construction paper, markers 4+...","categories": ["crafting-for-kids","reading","DIY"],
+        "excerpt":"Bring your child’s favorite stories to life with these engaging craft projects! Each activity is designed to reinforce story elements while developing fine motor skills and creativity. “The Very Hungry Caterpillar” Crafts Craft Idea Materials Needed Age Range Instructions Learning Focus Egg Carton Caterpillar Egg carton, green paint, pipe cleaners,...","categories": ["crafting-for-kids","reading","DIY"],
         "tags": ["kids-crafts","storybook-crafts","book-crafts","reading-crafts"],
         "url": "/crafting-for-kids/storybook-crafts/",
         "teaser": null
@@ -1080,13 +1080,13 @@ var store = [{
         "teaser": null
       },{
         "title": "Using AI in Craft Design",
-        "excerpt":"AI Tools for Idea Generation Tool Type Description Craft Application Text-to-Image Generators Create unique images from text prompts. Generate patterns for fabric, inspiration for paintings, unique character designs for amigurumi. Style Transfer Apply the artistic style of one image to another. Transform a photo into a painting style for print,...","categories": ["digital-crafting","AI","design"],
+        "excerpt":"AI Tools for Idea Generation Tool Type Description Craft Application Popular Tools Text-to-Image Generators Create unique images from text prompts. Generate patterns for fabric, inspiration for paintings, unique character designs for amigurumi. DALL-E, Midjourney, Stable Diffusion, Adobe Firefly Style Transfer Apply the artistic style of one image to another. Transform...","categories": ["digital-crafting","AI","design"],
         "tags": ["ai-art","generative-design","craft-innovation","digital-tools"],
         "url": "/digital-crafting/ai-in-craft-design/",
         "teaser": null
       },{
         "title": "Digital Art for Fabric Printing",
-        "excerpt":"Understanding File Requirements Requirement Description Best Practice Resolution (DPI) Dots Per Inch. Determines print quality. Aim for 150-300 DPI for fabric. Lower DPI results in pixelation. Colour Mode How colours are represented. Use RGB for digital design, but be aware that printers use CMYK. Some services convert automatically. File Type...","categories": ["digital-crafting","fabric-printing","design"],
+        "excerpt":"Understanding File Requirements Requirement Description Best Practice Common Issues Resolution (DPI) Dots Per Inch. Determines print quality. Aim for 150-300 DPI for fabric. Lower DPI results in pixelation. Files too large (over 300 DPI) or too small (under 150 DPI) Colour Mode How colours are represented. Use RGB for digital...","categories": ["digital-crafting","fabric-printing","design"],
         "tags": ["digital-fabric-printing","surface-pattern-design","textile-design","print-on-demand"],
         "url": "/digital-crafting/digital-art-for-fabric-printing/",
         "teaser": null
@@ -1104,7 +1104,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Introduction to Laser Engraving Design",
-        "excerpt":"Vector vs. Raster for Laser Machines Type Description Laser Action Best For Vector Graphics Made of paths, lines, and curves. Scalable without pixelation. Cutting &amp; Engraving Lines Clean cuts, precise outlines, text, geometric patterns. Raster Graphics Made of pixels (like photos). Pixelate when scaled up. Engraving (Shading) Photos, detailed images,...","categories": ["digital-crafting","laser-engraving","design"],
+        "excerpt":"Getting Started with Free Design Software Before diving into complex design concepts, you can start experimenting with laser engraving design using free software. MyLaserTools.com offers free design software specifically created for laser engraving projects, making it an excellent starting point for beginners. Vector vs. Raster for Laser Machines Type Description...","categories": ["digital-crafting","laser-engraving","design"],
         "tags": ["laser-engraving","laser-cutting","digital-design","vector-graphics"],
         "url": "/digital-crafting/laser-engraving-design/",
         "teaser": null
@@ -1212,13 +1212,13 @@ var store = [{
         "teaser": null
       },{
         "title": "Colour Theory for Crafters",
-        "excerpt":"The Colour Wheel: A Crafter’s Best Friend The colourr wheel is a visual representation ofcolourur relationships. Understanding it is the first step to masterincolourour in your crafts. Colour Type Description Examples Primary Colours The three basic colourrs from which all othercoloururs are made. Red, Yellow, Blue Secondary Colours Created by...","categories": ["inspiration","design","colourr-theory"],
+        "excerpt":"The Colour Wheel: A Crafter’s Best Friend The colourr wheel is a visual representation of colourur relationships. Understanding it is the first step to mastering colourour in your crafts. Colour Type Description Examples Mixing Guide Primary Colours The three basic colourrs from which all other coloururs are made. Cannot be...","categories": ["inspiration","design","colourr-theory"],
         "tags": ["colourr-theory","design-principles","crafting","colourur-palette"],
         "url": "/inspiration/colourr-theory-for-crafters/",
         "teaser": null
       },{
         "title": "Crafting for Mindfulness and Relaxation",
-        "excerpt":"The Benefits of Mindful Crafting Benefit Description Reduces Stress and Anxiety The repetitive motions of many crafts can be meditative, helping to calm the mind and body. Improves Focus and Concentration Crafting requires you to be present in the moment, which can help improve your ability to focus. Boosts Mood...","categories": ["inspiration","mindfulness","wellness"],
+        "excerpt":"The Science Behind Mindful Crafting Scientific Benefit Research Findings Physiological Impact Mental Health Impact Reduces Stress and Anxiety Studies show 68% reduction in cortisol levels after 45 minutes of crafting Lower heart rate, decreased blood pressure Reduced anxiety symptoms, improved emotional regulation Improves Focus and Concentration fMRI scans show increased...","categories": ["inspiration","mindfulness","wellness"],
         "tags": ["mindful-crafting","relaxation","wellness","crafting-for-health"],
         "url": "/inspiration/crafting-for-mindfulness/",
         "teaser": null
@@ -1230,7 +1230,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Finding Inspiration in Nature",
-        "excerpt":"Observing Nature for Inspiration Nature is a treasure trove of inspiration. Here are some ways to observe and record it: Technique Description Tools Nature Journaling A place to record your observations, sketches, and ideas. Notebook, pens, pencils, watercolours Photography Capture images of interesting colours, textures, and patterns. Camera or smartphone...","categories": ["inspiration","nature","creativity"],
+        "excerpt":"Observing Nature for Inspiration Nature is a treasure trove of inspiration. Here are systematic ways to observe and record it: Technique Description Tools Best Times Documentation Method Nature Journaling Record observations, sketches, and ideas in one place Notebook, pens, pencils, watercolours Daily, especially dawn/dusk Written notes, sketches, pressed specimens Photography...","categories": ["inspiration","nature","creativity"],
         "tags": ["nature-inspiration","creativity","crafting","nature-journaling"],
         "url": "/inspiration/finding-inspiration-in-nature/",
         "teaser": null
@@ -1260,7 +1260,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Overcoming Creative Block",
-        "excerpt":"Strategies for Overcoming Creative Block Strategy Description Take a Break Step away from your project and do something else. A walk, a nap, or a different activity can help clear your head. Try a New Craft Experimenting with a new medium or technique can spark new ideas and help you...","categories": ["inspiration","creativity","artist-block"],
+        "excerpt":"Understanding Creative Block Type of Block Symptoms Common Causes Duration Recovery Approach Perfectionism Block Fear of starting, never finishing projects High standards, comparison to others Weeks to months Lower standards, embrace imperfection Overwhelm Block Too many ideas, inability to choose Information overload, decision fatigue Days to weeks Simplify, limit choices...","categories": ["inspiration","creativity","artist-block"],
         "tags": ["creative-block","artist-block","inspiration","creativity-tips"],
         "url": "/inspiration/overcoming-creative-block/",
         "teaser": null
